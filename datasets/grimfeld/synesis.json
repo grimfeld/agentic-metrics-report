@@ -1,0 +1,4042 @@
+{
+  "schemaVersion": 2,
+  "repo": "grimfeld/synesis",
+  "publish": "full",
+  "generatedAt": "2026-11-10T13:09:49.033Z",
+  "tickets": 94,
+  "pullRequests": 45,
+  "integrationPullRequests": 2,
+  "metrics": {
+    "leadTime": {
+      "value": {
+        "p50Hours": 35.3,
+        "p90Hours": 136.5,
+        "tickets": [
+          {
+            "ticket": "PR #4",
+            "hours": 10
+          },
+          {
+            "ticket": "PR #5",
+            "hours": 5.8
+          },
+          {
+            "ticket": "PR #6",
+            "hours": 1.8
+          },
+          {
+            "ticket": "PR #8",
+            "hours": 2.1
+          },
+          {
+            "ticket": "PR #10",
+            "hours": 2.3
+          },
+          {
+            "ticket": "PR #11",
+            "hours": 0.6
+          },
+          {
+            "ticket": "PR #13",
+            "hours": 1.9
+          },
+          {
+            "ticket": "PR #20",
+            "hours": 2.6
+          },
+          {
+            "ticket": "PR #19",
+            "hours": 377.2
+          },
+          {
+            "ticket": "PR #25",
+            "hours": 1.1
+          },
+          {
+            "ticket": "PR #30",
+            "hours": 31.9
+          },
+          {
+            "ticket": "PR #29",
+            "hours": 232.2
+          },
+          {
+            "ticket": "#81",
+            "hours": 0.1
+          },
+          {
+            "ticket": "#32",
+            "hours": 136.6
+          },
+          {
+            "ticket": "#36",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#37",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#38",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#34",
+            "hours": 136.6
+          },
+          {
+            "ticket": "#41",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#42",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#43",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#44",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#45",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#46",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#47",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#35",
+            "hours": 136.6
+          },
+          {
+            "ticket": "#48",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#49",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#50",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#51",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#33",
+            "hours": 136.6
+          },
+          {
+            "ticket": "#39",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#40",
+            "hours": 136.5
+          },
+          {
+            "ticket": "#89",
+            "hours": 34.1
+          },
+          {
+            "ticket": "#65",
+            "hours": 34.5
+          },
+          {
+            "ticket": "#85",
+            "hours": 34.1
+          },
+          {
+            "ticket": "#70",
+            "hours": 34.5
+          },
+          {
+            "ticket": "#90",
+            "hours": 34.1
+          },
+          {
+            "ticket": "#82",
+            "hours": 34.1
+          },
+          {
+            "ticket": "#66",
+            "hours": 34.5
+          },
+          {
+            "ticket": "#83",
+            "hours": 34.3
+          },
+          {
+            "ticket": "#84",
+            "hours": 34.3
+          },
+          {
+            "ticket": "#87",
+            "hours": 34.6
+          },
+          {
+            "ticket": "#86",
+            "hours": 34.6
+          },
+          {
+            "ticket": "#91",
+            "hours": 34.6
+          },
+          {
+            "ticket": "#63",
+            "hours": 35
+          },
+          {
+            "ticket": "#59",
+            "hours": 36.5
+          },
+          {
+            "ticket": "#71",
+            "hours": 35.2
+          },
+          {
+            "ticket": "#72",
+            "hours": 35.2
+          },
+          {
+            "ticket": "#64",
+            "hours": 35.2
+          },
+          {
+            "ticket": "#62",
+            "hours": 35.2
+          },
+          {
+            "ticket": "#61",
+            "hours": 35.2
+          },
+          {
+            "ticket": "#57",
+            "hours": 53.7
+          },
+          {
+            "ticket": "#74",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#73",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#75",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#76",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#88",
+            "hours": 34.9
+          },
+          {
+            "ticket": "#78",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#67",
+            "hours": 35.4
+          },
+          {
+            "ticket": "#77",
+            "hours": 35.4
+          },
+          {
+            "ticket": "#93",
+            "hours": 35
+          },
+          {
+            "ticket": "#92",
+            "hours": 35
+          },
+          {
+            "ticket": "#60",
+            "hours": 35.4
+          },
+          {
+            "ticket": "#68",
+            "hours": 35.4
+          },
+          {
+            "ticket": "#136",
+            "hours": 0.8
+          },
+          {
+            "ticket": "#120",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#121",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#122",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#123",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#124",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#125",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#126",
+            "hours": 35.3
+          },
+          {
+            "ticket": "#127",
+            "hours": 35.2
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 74,
+        "of": 94
+      }
+    },
+    "throughput": {
+      "value": {
+        "weeks": [
+          {
+            "week": "2026-09-07",
+            "tickets": 4,
+            "pullRequests": 4
+          },
+          {
+            "week": "2026-09-14",
+            "tickets": 0,
+            "pullRequests": 0
+          },
+          {
+            "week": "2026-09-21",
+            "tickets": 12,
+            "pullRequests": 12
+          },
+          {
+            "week": "2026-09-28",
+            "tickets": 1,
+            "pullRequests": 1
+          },
+          {
+            "week": "2026-10-05",
+            "tickets": 0,
+            "pullRequests": 0
+          },
+          {
+            "week": "2026-10-12",
+            "tickets": 10,
+            "pullRequests": 10
+          },
+          {
+            "week": "2026-10-19",
+            "tickets": 2,
+            "pullRequests": 2
+          },
+          {
+            "week": "2026-10-26",
+            "tickets": 0,
+            "pullRequests": 0
+          },
+          {
+            "week": "2026-11-02",
+            "tickets": 56,
+            "pullRequests": 14
+          },
+          {
+            "week": "2026-11-09",
+            "tickets": 9,
+            "pullRequests": 2
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "firstRunCiRate": {
+      "value": {
+        "rate": 0.911,
+        "passed": 41,
+        "pullRequests": 45,
+        "workflow": ".github/workflows/ci.yml",
+        "perPullRequest": [
+          {
+            "pullRequest": 1,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 2,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 3,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 4,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 5,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 6,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 7,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 8,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 9,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 10,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 11,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 12,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 13,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 14,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 15,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 16,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 17,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 18,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 19,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 20,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 21,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 22,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 23,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 24,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 25,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 27,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 28,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 29,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 30,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 52,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 53,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 54,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 55,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 94,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 95,
+            "firstRun": "failed"
+          },
+          {
+            "pullRequest": 96,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 97,
+            "firstRun": "failed"
+          },
+          {
+            "pullRequest": 98,
+            "firstRun": "failed"
+          },
+          {
+            "pullRequest": 99,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 100,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 101,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 117,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 118,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 128,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 138,
+            "firstRun": "failed"
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "fixCycles": {
+      "value": {
+        "perPullRequest": 0.18,
+        "total": 8,
+        "pullRequests": 45,
+        "withFixCycles": [
+          {
+            "pullRequest": 95,
+            "fixCycles": 1
+          },
+          {
+            "pullRequest": 97,
+            "fixCycles": 1
+          },
+          {
+            "pullRequest": 98,
+            "fixCycles": 1
+          },
+          {
+            "pullRequest": 128,
+            "fixCycles": 4
+          },
+          {
+            "pullRequest": 138,
+            "fixCycles": 1
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "scheduledFailures": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "batchHealth": {
+      "value": {
+        "batches": 2,
+        "withCi": 2,
+        "greenOnFirstRun": 2,
+        "greenRate": 1,
+        "dropped": 0,
+        "perBatch": [
+          {
+            "pullRequest": 26,
+            "firstRun": "passed",
+            "dropped": []
+          },
+          {
+            "pullRequest": 56,
+            "firstRun": "passed",
+            "dropped": []
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "regressionRate": {
+      "value": {
+        "rate": 0,
+        "regressions": 0,
+        "regressedTickets": 0,
+        "untraced": [],
+        "perTicket": []
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "humanMessagesPerTicket": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 0,
+        "of": 94
+      }
+    },
+    "orchestrationTime": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 0,
+        "of": 94
+      }
+    },
+    "subAgents": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 0,
+        "of": 94
+      }
+    },
+    "apiEquivalentCost": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 0,
+        "of": 94
+      }
+    },
+    "autonomy": {
+      "value": {
+        "full": 0,
+        "assisted": 94,
+        "manual": 0,
+        "overridden": 0,
+        "perTicket": [
+          {
+            "ticket": "PR #1",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #2",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #3",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #4",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #5",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #7",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #6",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #9",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #8",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #10",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #11",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #12",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #13",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #14",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #15",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #16",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #20",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #21",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #17",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #18",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #22",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #19",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #23",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #24",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #25",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #27",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #30",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #28",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #29",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#81",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#32",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#36",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#37",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#38",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#34",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#41",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#42",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#43",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#44",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#45",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#46",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#47",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#35",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#48",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#49",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#50",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#51",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#33",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#39",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#40",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#89",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#65",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#85",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#70",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#90",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#82",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#66",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#83",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#84",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#87",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#86",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#91",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#63",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#59",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#71",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#72",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#64",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#62",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#61",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#57",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#74",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#73",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#75",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#76",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#88",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#78",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#67",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#77",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#93",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#92",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#60",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#68",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #101",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #117",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #118",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#136",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#120",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#121",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#122",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#123",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#124",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#125",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#126",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#127",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "testRatio": {
+      "value": {
+        "testLinesAdded": 9478,
+        "productionLinesAdded": 30882,
+        "ratio": 0.31,
+        "tickets": [
+          {
+            "ticket": "PR #1",
+            "testLinesAdded": 12,
+            "productionLinesAdded": 35
+          },
+          {
+            "ticket": "PR #2",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 3
+          },
+          {
+            "ticket": "PR #3",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 42
+          },
+          {
+            "ticket": "PR #4",
+            "testLinesAdded": 489,
+            "productionLinesAdded": 1198
+          },
+          {
+            "ticket": "PR #5",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 973
+          },
+          {
+            "ticket": "PR #7",
+            "testLinesAdded": 7,
+            "productionLinesAdded": 101
+          },
+          {
+            "ticket": "PR #6",
+            "testLinesAdded": 681,
+            "productionLinesAdded": 1351
+          },
+          {
+            "ticket": "PR #9",
+            "testLinesAdded": 13,
+            "productionLinesAdded": 28
+          },
+          {
+            "ticket": "PR #8",
+            "testLinesAdded": 331,
+            "productionLinesAdded": 2268
+          },
+          {
+            "ticket": "PR #11",
+            "testLinesAdded": 364,
+            "productionLinesAdded": 788
+          },
+          {
+            "ticket": "PR #12",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 3
+          },
+          {
+            "ticket": "PR #13",
+            "testLinesAdded": 35,
+            "productionLinesAdded": 25
+          },
+          {
+            "ticket": "PR #14",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 3
+          },
+          {
+            "ticket": "PR #15",
+            "testLinesAdded": 55,
+            "productionLinesAdded": 54
+          },
+          {
+            "ticket": "PR #16",
+            "testLinesAdded": 16,
+            "productionLinesAdded": 35
+          },
+          {
+            "ticket": "PR #21",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 2
+          },
+          {
+            "ticket": "PR #17",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 0
+          },
+          {
+            "ticket": "PR #18",
+            "testLinesAdded": 21,
+            "productionLinesAdded": 28
+          },
+          {
+            "ticket": "PR #22",
+            "testLinesAdded": 86,
+            "productionLinesAdded": 151
+          },
+          {
+            "ticket": "PR #19",
+            "testLinesAdded": 232,
+            "productionLinesAdded": 1142
+          },
+          {
+            "ticket": "PR #23",
+            "testLinesAdded": 12,
+            "productionLinesAdded": 43
+          },
+          {
+            "ticket": "PR #24",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 19
+          },
+          {
+            "ticket": "PR #25",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 1922
+          },
+          {
+            "ticket": "PR #27",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 20
+          },
+          {
+            "ticket": "PR #30",
+            "testLinesAdded": 282,
+            "productionLinesAdded": 746
+          },
+          {
+            "ticket": "PR #28",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 24
+          },
+          {
+            "ticket": "PR #29",
+            "testLinesAdded": 9,
+            "productionLinesAdded": 256
+          },
+          {
+            "ticket": "#81",
+            "testLinesAdded": 56,
+            "productionLinesAdded": 46
+          },
+          {
+            "ticket": "#32",
+            "testLinesAdded": 62,
+            "productionLinesAdded": 640
+          },
+          {
+            "ticket": "#36",
+            "testLinesAdded": 62,
+            "productionLinesAdded": 640
+          },
+          {
+            "ticket": "#37",
+            "testLinesAdded": 62,
+            "productionLinesAdded": 640
+          },
+          {
+            "ticket": "#38",
+            "testLinesAdded": 62,
+            "productionLinesAdded": 640
+          },
+          {
+            "ticket": "#34",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#41",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#42",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#43",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#44",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#45",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#46",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#47",
+            "testLinesAdded": 1903,
+            "productionLinesAdded": 4916
+          },
+          {
+            "ticket": "#35",
+            "testLinesAdded": 1982,
+            "productionLinesAdded": 3141
+          },
+          {
+            "ticket": "#48",
+            "testLinesAdded": 1982,
+            "productionLinesAdded": 3141
+          },
+          {
+            "ticket": "#49",
+            "testLinesAdded": 1982,
+            "productionLinesAdded": 3141
+          },
+          {
+            "ticket": "#50",
+            "testLinesAdded": 1982,
+            "productionLinesAdded": 3141
+          },
+          {
+            "ticket": "#51",
+            "testLinesAdded": 1982,
+            "productionLinesAdded": 3141
+          },
+          {
+            "ticket": "#33",
+            "testLinesAdded": 639,
+            "productionLinesAdded": 1363
+          },
+          {
+            "ticket": "#39",
+            "testLinesAdded": 639,
+            "productionLinesAdded": 1363
+          },
+          {
+            "ticket": "#40",
+            "testLinesAdded": 639,
+            "productionLinesAdded": 1363
+          },
+          {
+            "ticket": "#89",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#65",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#85",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#70",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#90",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#82",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#66",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#83",
+            "testLinesAdded": 35,
+            "productionLinesAdded": 183
+          },
+          {
+            "ticket": "#84",
+            "testLinesAdded": 35,
+            "productionLinesAdded": 183
+          },
+          {
+            "ticket": "#87",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#86",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#91",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#63",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#59",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#71",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#72",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#64",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#62",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#61",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#57",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#74",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#73",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#75",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#76",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#88",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#78",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#67",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "#77",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "#93",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "#92",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "#60",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "#68",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "PR #101",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 85
+          },
+          {
+            "ticket": "PR #117",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 16
+          },
+          {
+            "ticket": "PR #118",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 4
+          },
+          {
+            "ticket": "#136",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 136
+          },
+          {
+            "ticket": "#120",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#121",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#122",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#123",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#124",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#125",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#126",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "#127",
+            "testLinesAdded": 1175,
+            "productionLinesAdded": 2619
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 92,
+        "of": 94
+      }
+    },
+    "netLinesRemoved": {
+      "value": {
+        "linesAdded": 92349,
+        "linesDeleted": 15367,
+        "netLinesRemoved": -76982,
+        "ticketsNetRemoving": 7,
+        "tickets": [
+          {
+            "ticket": "PR #1",
+            "linesAdded": 47,
+            "linesDeleted": 26
+          },
+          {
+            "ticket": "PR #2",
+            "linesAdded": 4,
+            "linesDeleted": 4
+          },
+          {
+            "ticket": "PR #3",
+            "linesAdded": 42,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "PR #4",
+            "linesAdded": 1735,
+            "linesDeleted": 205
+          },
+          {
+            "ticket": "PR #5",
+            "linesAdded": 996,
+            "linesDeleted": 268
+          },
+          {
+            "ticket": "PR #7",
+            "linesAdded": 108,
+            "linesDeleted": 1
+          },
+          {
+            "ticket": "PR #6",
+            "linesAdded": 2254,
+            "linesDeleted": 126
+          },
+          {
+            "ticket": "PR #9",
+            "linesAdded": 41,
+            "linesDeleted": 2
+          },
+          {
+            "ticket": "PR #8",
+            "linesAdded": 2699,
+            "linesDeleted": 38
+          },
+          {
+            "ticket": "PR #10",
+            "linesAdded": 4371,
+            "linesDeleted": 722
+          },
+          {
+            "ticket": "PR #11",
+            "linesAdded": 1310,
+            "linesDeleted": 43
+          },
+          {
+            "ticket": "PR #12",
+            "linesAdded": 4,
+            "linesDeleted": 4
+          },
+          {
+            "ticket": "PR #13",
+            "linesAdded": 60,
+            "linesDeleted": 5
+          },
+          {
+            "ticket": "PR #14",
+            "linesAdded": 4,
+            "linesDeleted": 4
+          },
+          {
+            "ticket": "PR #15",
+            "linesAdded": 109,
+            "linesDeleted": 11
+          },
+          {
+            "ticket": "PR #16",
+            "linesAdded": 51,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "PR #20",
+            "linesAdded": 4710,
+            "linesDeleted": 1477
+          },
+          {
+            "ticket": "PR #21",
+            "linesAdded": 5,
+            "linesDeleted": 5
+          },
+          {
+            "ticket": "PR #17",
+            "linesAdded": 3,
+            "linesDeleted": 120
+          },
+          {
+            "ticket": "PR #18",
+            "linesAdded": 57,
+            "linesDeleted": 3
+          },
+          {
+            "ticket": "PR #22",
+            "linesAdded": 237,
+            "linesDeleted": 48
+          },
+          {
+            "ticket": "PR #19",
+            "linesAdded": 1474,
+            "linesDeleted": 141
+          },
+          {
+            "ticket": "PR #23",
+            "linesAdded": 56,
+            "linesDeleted": 9
+          },
+          {
+            "ticket": "PR #24",
+            "linesAdded": 20,
+            "linesDeleted": 2
+          },
+          {
+            "ticket": "PR #25",
+            "linesAdded": 6759,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "PR #27",
+            "linesAdded": 20,
+            "linesDeleted": 2
+          },
+          {
+            "ticket": "PR #30",
+            "linesAdded": 1066,
+            "linesDeleted": 86
+          },
+          {
+            "ticket": "PR #28",
+            "linesAdded": 24,
+            "linesDeleted": 0
+          },
+          {
+            "ticket": "PR #29",
+            "linesAdded": 35404,
+            "linesDeleted": 2
+          },
+          {
+            "ticket": "#81",
+            "linesAdded": 102,
+            "linesDeleted": 0
+          },
+          {
+            "ticket": "#32",
+            "linesAdded": 748,
+            "linesDeleted": 166
+          },
+          {
+            "ticket": "#36",
+            "linesAdded": 748,
+            "linesDeleted": 166
+          },
+          {
+            "ticket": "#37",
+            "linesAdded": 748,
+            "linesDeleted": 166
+          },
+          {
+            "ticket": "#38",
+            "linesAdded": 748,
+            "linesDeleted": 166
+          },
+          {
+            "ticket": "#34",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#41",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#42",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#43",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#44",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#45",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#46",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#47",
+            "linesAdded": 6987,
+            "linesDeleted": 129
+          },
+          {
+            "ticket": "#35",
+            "linesAdded": 5225,
+            "linesDeleted": 457
+          },
+          {
+            "ticket": "#48",
+            "linesAdded": 5225,
+            "linesDeleted": 457
+          },
+          {
+            "ticket": "#49",
+            "linesAdded": 5225,
+            "linesDeleted": 457
+          },
+          {
+            "ticket": "#50",
+            "linesAdded": 5225,
+            "linesDeleted": 457
+          },
+          {
+            "ticket": "#51",
+            "linesAdded": 5225,
+            "linesDeleted": 457
+          },
+          {
+            "ticket": "#33",
+            "linesAdded": 2052,
+            "linesDeleted": 382
+          },
+          {
+            "ticket": "#39",
+            "linesAdded": 2052,
+            "linesDeleted": 382
+          },
+          {
+            "ticket": "#40",
+            "linesAdded": 2052,
+            "linesDeleted": 382
+          },
+          {
+            "ticket": "#89",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#65",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#85",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#70",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#90",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#82",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#66",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#83",
+            "linesAdded": 218,
+            "linesDeleted": 27
+          },
+          {
+            "ticket": "#84",
+            "linesAdded": 218,
+            "linesDeleted": 27
+          },
+          {
+            "ticket": "#87",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#86",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#91",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#63",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#59",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#71",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#72",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#64",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#62",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#61",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#57",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#74",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#73",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#75",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#76",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#88",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#78",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#67",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "#77",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "#93",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "#92",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "#60",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "#68",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "PR #101",
+            "linesAdded": 100,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "PR #117",
+            "linesAdded": 16,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "PR #118",
+            "linesAdded": 4,
+            "linesDeleted": 0
+          },
+          {
+            "ticket": "#136",
+            "linesAdded": 205,
+            "linesDeleted": 60
+          },
+          {
+            "ticket": "#120",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#121",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#122",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#123",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#124",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#125",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#126",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          },
+          {
+            "ticket": "#127",
+            "linesAdded": 3935,
+            "linesDeleted": 320
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "size": {
+      "value": {
+        "p50DiffLines": 1152,
+        "p50FilesTouched": 20,
+        "tickets": [
+          {
+            "ticket": "PR #1",
+            "diffLines": 73,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #2",
+            "diffLines": 8,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #3",
+            "diffLines": 50,
+            "filesTouched": 1,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #4",
+            "diffLines": 1940,
+            "filesTouched": 18,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #5",
+            "diffLines": 1264,
+            "filesTouched": 19,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #7",
+            "diffLines": 109,
+            "filesTouched": 6,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #6",
+            "diffLines": 2380,
+            "filesTouched": 30,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #9",
+            "diffLines": 43,
+            "filesTouched": 3,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #8",
+            "diffLines": 2737,
+            "filesTouched": 37,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #10",
+            "diffLines": 5093,
+            "filesTouched": 162,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #11",
+            "diffLines": 1353,
+            "filesTouched": 31,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #12",
+            "diffLines": 8,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #13",
+            "diffLines": 65,
+            "filesTouched": 3,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #14",
+            "diffLines": 8,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #15",
+            "diffLines": 120,
+            "filesTouched": 3,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #16",
+            "diffLines": 59,
+            "filesTouched": 2,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #20",
+            "diffLines": 6187,
+            "filesTouched": 597,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #21",
+            "diffLines": 10,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #17",
+            "diffLines": 123,
+            "filesTouched": 9,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #18",
+            "diffLines": 60,
+            "filesTouched": 7,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #22",
+            "diffLines": 285,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #19",
+            "diffLines": 1615,
+            "filesTouched": 36,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #23",
+            "diffLines": 65,
+            "filesTouched": 6,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #24",
+            "diffLines": 22,
+            "filesTouched": 72,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #25",
+            "diffLines": 6767,
+            "filesTouched": 66,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #27",
+            "diffLines": 22,
+            "filesTouched": 1,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #30",
+            "diffLines": 1152,
+            "filesTouched": 24,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #28",
+            "diffLines": 24,
+            "filesTouched": 1,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #29",
+            "diffLines": 35406,
+            "filesTouched": 15,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#81",
+            "diffLines": 102,
+            "filesTouched": 2,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#32",
+            "diffLines": 914,
+            "filesTouched": 16,
+            "subTickets": 3
+          },
+          {
+            "ticket": "#36",
+            "diffLines": 914,
+            "filesTouched": 16,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#37",
+            "diffLines": 914,
+            "filesTouched": 16,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#38",
+            "diffLines": 914,
+            "filesTouched": 16,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#34",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 7
+          },
+          {
+            "ticket": "#41",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#42",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#43",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#44",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#45",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#46",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#47",
+            "diffLines": 7116,
+            "filesTouched": 70,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#35",
+            "diffLines": 5682,
+            "filesTouched": 58,
+            "subTickets": 4
+          },
+          {
+            "ticket": "#48",
+            "diffLines": 5682,
+            "filesTouched": 58,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#49",
+            "diffLines": 5682,
+            "filesTouched": 58,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#50",
+            "diffLines": 5682,
+            "filesTouched": 58,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#51",
+            "diffLines": 5682,
+            "filesTouched": 58,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#33",
+            "diffLines": 2434,
+            "filesTouched": 29,
+            "subTickets": 2
+          },
+          {
+            "ticket": "#39",
+            "diffLines": 2434,
+            "filesTouched": 29,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#40",
+            "diffLines": 2434,
+            "filesTouched": 29,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#89",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#65",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#85",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#70",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#90",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#82",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#66",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#83",
+            "diffLines": 245,
+            "filesTouched": 5,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#84",
+            "diffLines": 245,
+            "filesTouched": 5,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#87",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#86",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#91",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#63",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#59",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#71",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#72",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#64",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#62",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#61",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#57",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#74",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#73",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#75",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#76",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#88",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#78",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#67",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#77",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#93",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#92",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#60",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#68",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #101",
+            "diffLines": 108,
+            "filesTouched": 24,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #117",
+            "diffLines": 24,
+            "filesTouched": 1,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #118",
+            "diffLines": 4,
+            "filesTouched": 1,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#136",
+            "diffLines": 265,
+            "filesTouched": 7,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#120",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 7
+          },
+          {
+            "ticket": "#121",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#122",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#123",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#124",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#125",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#126",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#127",
+            "diffLines": 4255,
+            "filesTouched": 41,
+            "subTickets": 0
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 94,
+        "of": 94
+      }
+    },
+    "estimateVsActual": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 0,
+        "of": 94
+      }
+    }
+  },
+  "trends": {
+    "periods": [
+      {
+        "period": "2026-09",
+        "tickets": 17
+      },
+      {
+        "period": "2026-10",
+        "tickets": 12
+      },
+      {
+        "period": "2026-11",
+        "tickets": 65
+      }
+    ],
+    "metrics": {
+      "leadTime": [
+        {
+          "value": 2.1,
+          "coverage": {
+            "tickets": 8,
+            "of": 17
+          }
+        },
+        {
+          "value": 31.9,
+          "coverage": {
+            "tickets": 4,
+            "of": 12
+          }
+        },
+        {
+          "value": 35.3,
+          "coverage": {
+            "tickets": 62,
+            "of": 65
+          }
+        }
+      ],
+      "throughput": [
+        {
+          "value": 17,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 12,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 65,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "firstRunCiRate": [
+        {
+          "value": 100,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 100,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 75,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "fixCycles": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 0.5,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "scheduledFailures": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "batchHealth": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 100,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 100,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "regressionRate": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "humanMessagesPerTicket": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 12
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 65
+          }
+        }
+      ],
+      "orchestrationTime": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 12
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 65
+          }
+        }
+      ],
+      "subAgents": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 12
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 65
+          }
+        }
+      ],
+      "apiEquivalentCost": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 12
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 65
+          }
+        }
+      ],
+      "autonomy": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "testRatio": [
+        {
+          "value": 0.29,
+          "coverage": {
+            "tickets": 15,
+            "of": 17
+          }
+        },
+        {
+          "value": 0.15,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 0.35,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "netLinesRemoved": [
+        {
+          "value": -15593,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": -44699,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": -16690,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "size": [
+        {
+          "value": 109,
+          "coverage": {
+            "tickets": 17,
+            "of": 17
+          }
+        },
+        {
+          "value": 65,
+          "coverage": {
+            "tickets": 12,
+            "of": 12
+          }
+        },
+        {
+          "value": 1477,
+          "coverage": {
+            "tickets": 65,
+            "of": 65
+          }
+        }
+      ],
+      "estimateVsActual": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 12
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 65
+          }
+        }
+      ]
+    }
+  },
+  "byAutonomy": {
+    "leadTime": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 35.3,
+        "coverage": {
+          "tickets": 74,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "throughput": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 94,
+        "coverage": {
+          "tickets": 94,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "firstRunCiRate": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 91.1,
+        "coverage": {
+          "tickets": 94,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "fixCycles": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 0.18,
+        "coverage": {
+          "tickets": 94,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "regressionRate": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 0,
+        "coverage": {
+          "tickets": 94,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "humanMessagesPerTicket": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "subAgents": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "apiEquivalentCost": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "testRatio": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 0.31,
+        "coverage": {
+          "tickets": 92,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "netLinesRemoved": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": -76982,
+        "coverage": {
+          "tickets": 94,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "size": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": 1152,
+        "coverage": {
+          "tickets": 94,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "estimateVsActual": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      },
+      "assisted": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    }
+  },
+  "url": "https://github.com/grimfeld/synesis",
+  "ticketList": [
+    {
+      "id": "PR #1",
+      "title": "Fix the three build failures on v0.0.1",
+      "url": "https://github.com/grimfeld/synesis/pull/1",
+      "doneAt": "2026-09-11T08:42:25.000Z"
+    },
+    {
+      "id": "PR #2",
+      "title": "Release v0.0.1-1",
+      "url": "https://github.com/grimfeld/synesis/pull/2",
+      "doneAt": "2026-09-11T12:31:21.000Z"
+    },
+    {
+      "id": "PR #3",
+      "title": "Make the release fail rather than ship unusable artifacts",
+      "url": "https://github.com/grimfeld/synesis/pull/3",
+      "doneAt": "2026-09-11T23:19:31.000Z"
+    },
+    {
+      "id": "PR #4",
+      "title": "Timeline filters, Clusters, and a mini-timeline on Hubs",
+      "url": "https://github.com/grimfeld/synesis/pull/4",
+      "doneAt": "2026-09-13T07:44:56.000Z"
+    },
+    {
+      "id": "PR #5",
+      "title": "Web test build on Vercel",
+      "url": "https://github.com/grimfeld/synesis/pull/5",
+      "doneAt": "2026-09-25T18:31:45.000Z"
+    },
+    {
+      "id": "PR #7",
+      "title": "Settings: About card with version, commit and build date",
+      "url": "https://github.com/grimfeld/synesis/pull/7",
+      "doneAt": "2026-09-25T21:45:58.000Z"
+    },
+    {
+      "id": "PR #6",
+      "title": "Split view, Reading mode and the Delivery view",
+      "url": "https://github.com/grimfeld/synesis/pull/6",
+      "doneAt": "2026-09-25T22:47:39.000Z"
+    },
+    {
+      "id": "PR #9",
+      "title": "Fix Back/Forward navigation to win over CodeMirror bindings",
+      "url": "https://github.com/grimfeld/synesis/pull/9",
+      "doneAt": "2026-09-25T22:58:27.000Z"
+    },
+    {
+      "id": "PR #8",
+      "title": "Skins: light and dark, fully customisable and shareable",
+      "url": "https://github.com/grimfeld/synesis/pull/8",
+      "doneAt": "2026-09-25T23:15:14.000Z"
+    },
+    {
+      "id": "PR #10",
+      "title": "Tutorials for every feature, in English and French",
+      "url": "https://github.com/grimfeld/synesis/pull/10",
+      "doneAt": "2026-09-25T23:29:39.000Z"
+    },
+    {
+      "id": "PR #11",
+      "title": "Skin gallery, with Nord and Paper as its first Skins",
+      "url": "https://github.com/grimfeld/synesis/pull/11",
+      "doneAt": "2026-09-26T09:23:59.000Z"
+    },
+    {
+      "id": "PR #12",
+      "title": "Release v0.0.14",
+      "url": "https://github.com/grimfeld/synesis/pull/12",
+      "doneAt": "2026-09-26T09:28:34.000Z"
+    },
+    {
+      "id": "PR #13",
+      "title": "Keep Tutorials from scrolling the whole interface out of view",
+      "url": "https://github.com/grimfeld/synesis/pull/13",
+      "doneAt": "2026-09-26T11:57:03.000Z"
+    },
+    {
+      "id": "PR #14",
+      "title": "Release v0.0.15",
+      "url": "https://github.com/grimfeld/synesis/pull/14",
+      "doneAt": "2026-09-26T12:10:49.000Z"
+    },
+    {
+      "id": "PR #15",
+      "title": "fix(editor): typing no longer vanishes with a \"changed on disk\" reload",
+      "url": "https://github.com/grimfeld/synesis/pull/15",
+      "doneAt": "2026-09-26T13:04:20.000Z"
+    },
+    {
+      "id": "PR #16",
+      "title": "fix(tags): keep a Tag typed without Enter, and never carry text over",
+      "url": "https://github.com/grimfeld/synesis/pull/16",
+      "doneAt": "2026-09-26T14:04:41.000Z"
+    },
+    {
+      "id": "PR #20",
+      "title": "Map: Place kinds, Colour by, a legend and a bundled atlas (PLAN §27)",
+      "url": "https://github.com/grimfeld/synesis/pull/20",
+      "doneAt": "2026-09-28T21:11:05.000Z"
+    },
+    {
+      "id": "PR #21",
+      "title": "fix(map): say Bible places are looked up by their English name",
+      "url": "https://github.com/grimfeld/synesis/pull/21",
+      "doneAt": "2026-10-12T14:06:09.000Z"
+    },
+    {
+      "id": "PR #17",
+      "title": "fix(shortcuts): Quick capture only while the app has focus",
+      "url": "https://github.com/grimfeld/synesis/pull/17",
+      "doneAt": "2026-10-12T14:06:16.000Z"
+    },
+    {
+      "id": "PR #18",
+      "title": "feat(hubs): aliases on every Topical Subject",
+      "url": "https://github.com/grimfeld/synesis/pull/18",
+      "doneAt": "2026-10-12T14:06:20.000Z"
+    },
+    {
+      "id": "PR #22",
+      "title": "fix: lost keystrokes, Board drags, Leaflet teardown, Tutorial panel and the e2e suite",
+      "url": "https://github.com/grimfeld/synesis/pull/22",
+      "doneAt": "2026-10-12T15:15:21.000Z"
+    },
+    {
+      "id": "PR #19",
+      "title": "Pictures in every editor, and Pairing carries attachments",
+      "url": "https://github.com/grimfeld/synesis/pull/19",
+      "doneAt": "2026-10-12T15:26:26.000Z"
+    },
+    {
+      "id": "PR #23",
+      "title": "test(e2e): forget and delete every test vault, and never open a real one",
+      "url": "https://github.com/grimfeld/synesis/pull/23",
+      "doneAt": "2026-10-12T17:28:48.000Z"
+    },
+    {
+      "id": "PR #24",
+      "title": "feat: new logo and app icon, white on navy",
+      "url": "https://github.com/grimfeld/synesis/pull/24",
+      "doneAt": "2026-10-12T18:14:21.000Z"
+    },
+    {
+      "id": "PR #25",
+      "title": "Landing page, AGPL licence, and a demo banner",
+      "url": "https://github.com/grimfeld/synesis/pull/25",
+      "doneAt": "2026-10-12T19:12:04.000Z"
+    },
+    {
+      "id": "PR #27",
+      "title": "fix(release): read the App Store Connect key as PEM or base64",
+      "url": "https://github.com/grimfeld/synesis/pull/27",
+      "doneAt": "2026-10-13T15:22:23.000Z"
+    },
+    {
+      "id": "PR #30",
+      "title": "Sources: kind picker, Properties out of Hub headers, Shelved sidebar",
+      "url": "https://github.com/grimfeld/synesis/pull/30",
+      "doneAt": "2026-10-18T16:46:16.000Z"
+    },
+    {
+      "id": "PR #28",
+      "title": "feat(release): upload the iOS build to TestFlight",
+      "url": "https://github.com/grimfeld/synesis/pull/28",
+      "doneAt": "2026-10-23T08:02:38.000Z"
+    },
+    {
+      "id": "PR #29",
+      "title": "Third-party licence notices, and iCloud container creation on the Mac",
+      "url": "https://github.com/grimfeld/synesis/pull/29",
+      "doneAt": "2026-10-23T08:02:43.000Z"
+    },
+    {
+      "id": "#81",
+      "title": "Sync: a snapshot's path can write files anywhere on disk",
+      "url": "https://github.com/grimfeld/synesis/issues/81",
+      "doneAt": "2026-11-04T13:27:33.000Z"
+    },
+    {
+      "id": "#32",
+      "title": "No Linkables inside Passages, French elisions, bare verses scoped to the section",
+      "url": "https://github.com/grimfeld/synesis/issues/32",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#36",
+      "title": "Names inside a Passage are never Linkable or an Unlinked mention",
+      "url": "https://github.com/grimfeld/synesis/issues/36",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#37",
+      "title": "French elision counts as a word boundary",
+      "url": "https://github.com/grimfeld/synesis/issues/37",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#38",
+      "title": "\"v. 12\" looks back to the last heading",
+      "url": "https://github.com/grimfeld/synesis/issues/38",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#34",
+      "title": "Period: one time-and-place filter for the Timeline and the Map, with region Borders",
+      "url": "https://github.com/grimfeld/synesis/issues/34",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#41",
+      "title": "Ties between Characters and Places",
+      "url": "https://github.com/grimfeld/synesis/issues/41",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#42",
+      "title": "Period on the Timeline",
+      "url": "https://github.com/grimfeld/synesis/issues/42",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#43",
+      "title": "Period on the Map",
+      "url": "https://github.com/grimfeld/synesis/issues/43",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#44",
+      "title": "Places in the Period filter",
+      "url": "https://github.com/grimfeld/synesis/issues/44",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#45",
+      "title": "Drawing a Border",
+      "url": "https://github.com/grimfeld/synesis/issues/45",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#46",
+      "title": "A region contains what lies within its Border",
+      "url": "https://github.com/grimfeld/synesis/issues/46",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#47",
+      "title": "Importing a Border from a .geojson file",
+      "url": "https://github.com/grimfeld/synesis/issues/47",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#35",
+      "title": "Panes and Windows: two documents side by side",
+      "url": "https://github.com/grimfeld/synesis/issues/35",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#48",
+      "title": "Prefactor: the Pane model with a single Pane",
+      "url": "https://github.com/grimfeld/synesis/issues/48",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#49",
+      "title": "Two Panes",
+      "url": "https://github.com/grimfeld/synesis/issues/49",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#50",
+      "title": "The same document in both Panes stays in sync",
+      "url": "https://github.com/grimfeld/synesis/issues/50",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#51",
+      "title": "Desktop Windows",
+      "url": "https://github.com/grimfeld/synesis/issues/51",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#33",
+      "title": "Add Date button, live Date preview, and a Span for Places",
+      "url": "https://github.com/grimfeld/synesis/issues/33",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#39",
+      "title": "Add Date button, including a Span for Places",
+      "url": "https://github.com/grimfeld/synesis/issues/39",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#40",
+      "title": "Live Date preview",
+      "url": "https://github.com/grimfeld/synesis/issues/40",
+      "doneAt": "2026-11-04T13:48:37.000Z"
+    },
+    {
+      "id": "#89",
+      "title": "Pairing: removed Devices keep the invite secret; invites never expire",
+      "url": "https://github.com/grimfeld/synesis/issues/89",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#65",
+      "title": "Pairing: Devices can drop each other's members",
+      "url": "https://github.com/grimfeld/synesis/issues/65",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#85",
+      "title": "Pairing: a huge membership version takes over the member list for good",
+      "url": "https://github.com/grimfeld/synesis/issues/85",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#70",
+      "title": "Pairing: a non-member can make a Device read 64 MB per stream",
+      "url": "https://github.com/grimfeld/synesis/issues/70",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#90",
+      "title": "Pairing: device-id checks are case-sensitive on case-insensitive disks",
+      "url": "https://github.com/grimfeld/synesis/issues/90",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#82",
+      "title": "Sync: forget_device deletes any directory it is given",
+      "url": "https://github.com/grimfeld/synesis/issues/82",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#66",
+      "title": "Pairing: pairing.json and settings.json are not written atomically",
+      "url": "https://github.com/grimfeld/synesis/issues/66",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#83",
+      "title": "Pairing: a far-future snapshot time overwrites Obsidian edits and freezes sync",
+      "url": "https://github.com/grimfeld/synesis/issues/83",
+      "doneAt": "2026-11-05T23:37:06.000Z"
+    },
+    {
+      "id": "#84",
+      "title": "Pairing: a far-future config stamp locks Properties, appearance and Skins",
+      "url": "https://github.com/grimfeld/synesis/issues/84",
+      "doneAt": "2026-11-05T23:37:06.000Z"
+    },
+    {
+      "id": "#87",
+      "title": "Engine: create_document writes outside the vault through fields.folder",
+      "url": "https://github.com/grimfeld/synesis/issues/87",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#86",
+      "title": "Watcher: a symlinked .md copies its target into a synced Note",
+      "url": "https://github.com/grimfeld/synesis/issues/86",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#91",
+      "title": "Engine: leave_vault can delete any folder open_vault accepted",
+      "url": "https://github.com/grimfeld/synesis/issues/91",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#63",
+      "title": "Engine: two files with the same id fight over one index row",
+      "url": "https://github.com/grimfeld/synesis/issues/63",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#59",
+      "title": "Map: PlaceFacts takes minutes on a large Vault",
+      "url": "https://github.com/grimfeld/synesis/issues/59",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#71",
+      "title": "UI: hand-written fetch effects have no guard against stale replies",
+      "url": "https://github.com/grimfeld/synesis/issues/71",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#72",
+      "title": "UI: saves and refreshes can land out of order",
+      "url": "https://github.com/grimfeld/synesis/issues/72",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#64",
+      "title": "Board: a failed save loses the edit silently",
+      "url": "https://github.com/grimfeld/synesis/issues/64",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#62",
+      "title": "Editor shortcuts change the note while focus is in another field",
+      "url": "https://github.com/grimfeld/synesis/issues/62",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#61",
+      "title": "Editor: reloading a document saves it again, and a CRLF file comes back with LF",
+      "url": "https://github.com/grimfeld/synesis/issues/61",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#57",
+      "title": "Dates: \"Adar II\" (and \"Adar I\") is never read as a month",
+      "url": "https://github.com/grimfeld/synesis/issues/57",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#74",
+      "title": "Engine: unlinked::splice panics when start > end",
+      "url": "https://github.com/grimfeld/synesis/issues/74",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#73",
+      "title": "New Note keeps # ^ [ ] in file names, which breaks wikilinks",
+      "url": "https://github.com/grimfeld/synesis/issues/73",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#75",
+      "title": "Search palette highlights any bracketed text in a snippet",
+      "url": "https://github.com/grimfeld/synesis/issues/75",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#76",
+      "title": "Editor: links are decorated inside code blocks and missed outside them",
+      "url": "https://github.com/grimfeld/synesis/issues/76",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#88",
+      "title": "Covers: remote fetches follow redirects to private addresses and have no size cap",
+      "url": "https://github.com/grimfeld/synesis/issues/88",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#78",
+      "title": "Site: Intel Mac users are offered only the Apple Silicon download",
+      "url": "https://github.com/grimfeld/synesis/issues/78",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#67",
+      "title": "Release: pin Actions to SHAs and require green tests before a release ships",
+      "url": "https://github.com/grimfeld/synesis/issues/67",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "#77",
+      "title": "Release and CI: draft releases, least-privilege tokens, missing CI gates",
+      "url": "https://github.com/grimfeld/synesis/issues/77",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "#93",
+      "title": "Dependencies: rustls, webpki and dev-tool advisories",
+      "url": "https://github.com/grimfeld/synesis/issues/93",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "#92",
+      "title": "Web build: no CSP or security headers on the Vercel previews",
+      "url": "https://github.com/grimfeld/synesis/issues/92",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "#60",
+      "title": "Dev bridge: any website can drive the engine while tauri dev runs",
+      "url": "https://github.com/grimfeld/synesis/issues/60",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "#68",
+      "title": "Tests: clean-up deletes any registered vault whose path contains synesis-cy-",
+      "url": "https://github.com/grimfeld/synesis/issues/68",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "PR #101",
+      "title": "fix(ios): opaque app icons and iOS 15 target for TestFlight",
+      "url": "https://github.com/grimfeld/synesis/pull/101",
+      "doneAt": "2026-11-06T01:04:53.000Z"
+    },
+    {
+      "id": "PR #117",
+      "title": "ci(release): take the draft release id from the create response",
+      "url": "https://github.com/grimfeld/synesis/pull/117",
+      "doneAt": "2026-11-06T08:26:35.000Z"
+    },
+    {
+      "id": "PR #118",
+      "title": "fix(ios): camera purpose string for TestFlight (ITMS-90683)",
+      "url": "https://github.com/grimfeld/synesis/pull/118",
+      "doneAt": "2026-11-06T08:26:45.000Z"
+    },
+    {
+      "id": "#136",
+      "title": "CI: audit dependencies on a schedule and on lockfile changes, not on every PR",
+      "url": "https://github.com/grimfeld/synesis/issues/136",
+      "doneAt": "2026-11-10T10:17:57.000Z"
+    },
+    {
+      "id": "#120",
+      "title": "Date pickers for Bible-chronology Dates and calendar dates",
+      "url": "https://github.com/grimfeld/synesis/issues/120",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#121",
+      "title": "Prefactor: Reckoning and the parser's missing Hebrew months",
+      "url": "https://github.com/grimfeld/synesis/issues/121",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#122",
+      "title": "Date picker: year precision in the right panel",
+      "url": "https://github.com/grimfeld/synesis/issues/122",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#123",
+      "title": "Date picker: civil month and day",
+      "url": "https://github.com/grimfeld/synesis/issues/123",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#124",
+      "title": "Date picker: Hebrew months and the full round-trip",
+      "url": "https://github.com/grimfeld/synesis/issues/124",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#125",
+      "title": "Date picker in the Hub Dates section and the Event dialog",
+      "url": "https://github.com/grimfeld/synesis/issues/125",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#126",
+      "title": "Calendar date picker",
+      "url": "https://github.com/grimfeld/synesis/issues/126",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "#127",
+      "title": "Date pickers: Tutorial and ADR 0005",
+      "url": "https://github.com/grimfeld/synesis/issues/127",
+      "doneAt": "2026-11-10T10:30:13.000Z"
+    }
+  ],
+  "caseStudyCandidates": [
+    {
+      "ticket": "PR #29",
+      "criteria": [
+        "largest ticket"
+      ]
+    },
+    {
+      "ticket": "#67",
+      "criteria": [
+        "largest deletion"
+      ]
+    }
+  ]
+}
