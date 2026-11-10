@@ -1,0 +1,1676 @@
+{
+  "schemaVersion": 2,
+  "repo": "grimfeld/agentic-metrics",
+  "publish": "full",
+  "generatedAt": "2026-11-10T00:16:08.322Z",
+  "tickets": 31,
+  "pullRequests": 1,
+  "integrationPullRequests": 3,
+  "metrics": {
+    "leadTime": {
+      "value": {
+        "p50Hours": 2.1,
+        "p90Hours": 7.9,
+        "tickets": [
+          {
+            "ticket": "#1",
+            "hours": 2.4
+          },
+          {
+            "ticket": "#2",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#3",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#4",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#5",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#6",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#7",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#8",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#9",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#10",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#11",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#12",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#13",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#14",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#15",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#16",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#17",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#18",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#19",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#20",
+            "hours": 2.1
+          },
+          {
+            "ticket": "#24",
+            "hours": 1.4
+          },
+          {
+            "ticket": "#25",
+            "hours": 1.4
+          },
+          {
+            "ticket": "#27",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#28",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#29",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#30",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#31",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#32",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#33",
+            "hours": 7.9
+          },
+          {
+            "ticket": "#34",
+            "hours": 7.9
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 30,
+        "of": 31
+      }
+    },
+    "throughput": {
+      "value": {
+        "weeks": [
+          {
+            "week": "2026-11-09",
+            "tickets": 31,
+            "pullRequests": 1
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 31,
+        "of": 31
+      }
+    },
+    "firstRunCiRate": {
+      "value": {
+        "rate": 1,
+        "passed": 1,
+        "pullRequests": 1,
+        "workflow": ".github/workflows/ci.yml",
+        "perPullRequest": [
+          {
+            "pullRequest": 23,
+            "firstRun": "passed"
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 1,
+        "of": 31
+      }
+    },
+    "fixCycles": {
+      "value": {
+        "perPullRequest": 0,
+        "total": 0,
+        "pullRequests": 1,
+        "withFixCycles": []
+      },
+      "coverage": {
+        "tickets": 1,
+        "of": 31
+      }
+    },
+    "scheduledFailures": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 31,
+        "of": 31
+      }
+    },
+    "batchHealth": {
+      "value": {
+        "batches": 3,
+        "withCi": 3,
+        "greenOnFirstRun": 3,
+        "greenRate": 1,
+        "dropped": 0,
+        "perBatch": [
+          {
+            "pullRequest": 22,
+            "firstRun": "passed",
+            "dropped": []
+          },
+          {
+            "pullRequest": 26,
+            "firstRun": "passed",
+            "dropped": []
+          },
+          {
+            "pullRequest": 36,
+            "firstRun": "passed",
+            "dropped": []
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 31,
+        "of": 31
+      }
+    },
+    "regressionRate": {
+      "value": {
+        "rate": 0,
+        "regressions": 0,
+        "regressedTickets": 0,
+        "untraced": [],
+        "perTicket": []
+      },
+      "coverage": {
+        "tickets": 31,
+        "of": 31
+      }
+    },
+    "humanMessagesPerTicket": {
+      "value": {
+        "p50": 0,
+        "p90": 3,
+        "mean": 0.5,
+        "perTicket": [
+          {
+            "ticket": "#1",
+            "messages": 3
+          },
+          {
+            "ticket": "#3",
+            "messages": 0
+          },
+          {
+            "ticket": "#4",
+            "messages": 0
+          },
+          {
+            "ticket": "#7",
+            "messages": 0
+          },
+          {
+            "ticket": "#11",
+            "messages": 0
+          },
+          {
+            "ticket": "#20",
+            "messages": 0
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 6,
+        "of": 31
+      }
+    },
+    "orchestrationTime": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 6,
+        "of": 31
+      }
+    },
+    "subAgents": {
+      "value": {
+        "total": 42,
+        "p50": 2,
+        "p90": 42,
+        "models": [
+          {
+            "model": "claude-opus-5-5",
+            "subAgents": 42
+          }
+        ],
+        "perTicket": [
+          {
+            "ticket": "#1",
+            "subAgents": 42,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 42
+              }
+            ]
+          },
+          {
+            "ticket": "#3",
+            "subAgents": 3,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 3
+              }
+            ]
+          },
+          {
+            "ticket": "#4",
+            "subAgents": 2,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 2
+              }
+            ]
+          },
+          {
+            "ticket": "#7",
+            "subAgents": 2,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 2
+              }
+            ]
+          },
+          {
+            "ticket": "#11",
+            "subAgents": 1,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 1
+              }
+            ]
+          },
+          {
+            "ticket": "#20",
+            "subAgents": 1,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 1
+              }
+            ]
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 6,
+        "of": 31
+      }
+    },
+    "apiEquivalentCost": {
+      "value": {
+        "priceTable": "2026-11-09",
+        "apiEquivalentUsd": 62.2293,
+        "unpricedModels": [],
+        "perTicketUsd": {
+          "p50": 0.9104,
+          "p90": 54.2574
+        },
+        "byModel": [
+          {
+            "model": "claude-opus-5-5",
+            "input": 2542,
+            "output": 864289,
+            "cacheCreation": 3637712,
+            "cacheRead": 130604581,
+            "apiEquivalentUsd": 62.2293
+          }
+        ],
+        "orchestration": {
+          "apiEquivalentUsd": 0,
+          "byModel": []
+        },
+        "perTicket": [
+          {
+            "ticket": "#1",
+            "apiEquivalentUsd": 54.2574,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 2198,
+                "output": 745009,
+                "cacheCreation": 3083728,
+                "cacheRead": 116529566,
+                "apiEquivalentUsd": 54.2574
+              }
+            ]
+          },
+          {
+            "ticket": "#3",
+            "apiEquivalentUsd": 4.3598,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 180,
+                "output": 73729,
+                "cacheCreation": 251807,
+                "cacheRead": 8127168,
+                "apiEquivalentUsd": 4.3598
+              }
+            ]
+          },
+          {
+            "ticket": "#4",
+            "apiEquivalentUsd": 2.1923,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 92,
+                "output": 33914,
+                "cacheCreation": 141133,
+                "cacheRead": 4039799,
+                "apiEquivalentUsd": 2.1923
+              }
+            ]
+          },
+          {
+            "ticket": "#7",
+            "apiEquivalentUsd": 0.9104,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 48,
+                "output": 9053,
+                "cacheCreation": 91505,
+                "cacheRead": 1358344,
+                "apiEquivalentUsd": 0.9104
+              }
+            ]
+          },
+          {
+            "ticket": "#11",
+            "apiEquivalentUsd": 0.2543,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 12,
+                "output": 1246,
+                "cacheCreation": 34874,
+                "cacheRead": 275006,
+                "apiEquivalentUsd": 0.2543
+              }
+            ]
+          },
+          {
+            "ticket": "#20",
+            "apiEquivalentUsd": 0.2551,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 12,
+                "output": 1338,
+                "cacheCreation": 34665,
+                "cacheRead": 274698,
+                "apiEquivalentUsd": 0.2551
+              }
+            ]
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 6,
+        "of": 31
+      }
+    },
+    "autonomy": {
+      "value": {
+        "full": 4,
+        "assisted": 26,
+        "manual": 1,
+        "overridden": 0,
+        "perTicket": [
+          {
+            "ticket": "#1",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#2",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#3",
+            "level": "full",
+            "computed": "full",
+            "overridden": false
+          },
+          {
+            "ticket": "#4",
+            "level": "full",
+            "computed": "full",
+            "overridden": false
+          },
+          {
+            "ticket": "#5",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#6",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#7",
+            "level": "full",
+            "computed": "full",
+            "overridden": false
+          },
+          {
+            "ticket": "#8",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#9",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#10",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#11",
+            "level": "full",
+            "computed": "full",
+            "overridden": false
+          },
+          {
+            "ticket": "#12",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#13",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#14",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#15",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#16",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#17",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#18",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#19",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#20",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #23",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#24",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#25",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#27",
+            "level": "manual",
+            "computed": "manual",
+            "overridden": false
+          },
+          {
+            "ticket": "#28",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#29",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#30",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#31",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#32",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#33",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#34",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 31,
+        "of": 31
+      }
+    },
+    "testRatio": {
+      "value": {
+        "testLinesAdded": 0,
+        "productionLinesAdded": 42,
+        "ratio": 0,
+        "tickets": [
+          {
+            "ticket": "PR #23",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 42
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 1,
+        "of": 31
+      }
+    },
+    "netLinesRemoved": {
+      "value": {
+        "linesAdded": 16873,
+        "linesDeleted": 937,
+        "netLinesRemoved": -15936,
+        "ticketsNetRemoving": 1,
+        "tickets": [
+          {
+            "ticket": "#2",
+            "linesAdded": 2015,
+            "linesDeleted": 0
+          },
+          {
+            "ticket": "#3",
+            "linesAdded": 1130,
+            "linesDeleted": 4
+          },
+          {
+            "ticket": "#4",
+            "linesAdded": 523,
+            "linesDeleted": 38
+          },
+          {
+            "ticket": "#5",
+            "linesAdded": 615,
+            "linesDeleted": 19
+          },
+          {
+            "ticket": "#6",
+            "linesAdded": 1922,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "#7",
+            "linesAdded": 602,
+            "linesDeleted": 1
+          },
+          {
+            "ticket": "#8",
+            "linesAdded": 350,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "#9",
+            "linesAdded": 641,
+            "linesDeleted": 6
+          },
+          {
+            "ticket": "#10",
+            "linesAdded": 672,
+            "linesDeleted": 4
+          },
+          {
+            "ticket": "#11",
+            "linesAdded": 374,
+            "linesDeleted": 9
+          },
+          {
+            "ticket": "#12",
+            "linesAdded": 621,
+            "linesDeleted": 21
+          },
+          {
+            "ticket": "#13",
+            "linesAdded": 73,
+            "linesDeleted": 3
+          },
+          {
+            "ticket": "#14",
+            "linesAdded": 674,
+            "linesDeleted": 31
+          },
+          {
+            "ticket": "#15",
+            "linesAdded": 481,
+            "linesDeleted": 12
+          },
+          {
+            "ticket": "#16",
+            "linesAdded": 412,
+            "linesDeleted": 3
+          },
+          {
+            "ticket": "#17",
+            "linesAdded": 277,
+            "linesDeleted": 21
+          },
+          {
+            "ticket": "#18",
+            "linesAdded": 373,
+            "linesDeleted": 3
+          },
+          {
+            "ticket": "#19",
+            "linesAdded": 294,
+            "linesDeleted": 0
+          },
+          {
+            "ticket": "#20",
+            "linesAdded": 354,
+            "linesDeleted": 2
+          },
+          {
+            "ticket": "PR #23",
+            "linesAdded": 46,
+            "linesDeleted": 50
+          },
+          {
+            "ticket": "#24",
+            "linesAdded": 956,
+            "linesDeleted": 44
+          },
+          {
+            "ticket": "#25",
+            "linesAdded": 234,
+            "linesDeleted": 16
+          },
+          {
+            "ticket": "#28",
+            "linesAdded": 957,
+            "linesDeleted": 191
+          },
+          {
+            "ticket": "#29",
+            "linesAdded": 852,
+            "linesDeleted": 43
+          },
+          {
+            "ticket": "#30",
+            "linesAdded": 661,
+            "linesDeleted": 142
+          },
+          {
+            "ticket": "#31",
+            "linesAdded": 398,
+            "linesDeleted": 228
+          },
+          {
+            "ticket": "#32",
+            "linesAdded": 81,
+            "linesDeleted": 8
+          },
+          {
+            "ticket": "#33",
+            "linesAdded": 204,
+            "linesDeleted": 14
+          },
+          {
+            "ticket": "#34",
+            "linesAdded": 81,
+            "linesDeleted": 8
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 29,
+        "of": 31
+      }
+    },
+    "size": {
+      "value": {
+        "p50DiffLines": 561,
+        "p50FilesTouched": 13,
+        "tickets": [
+          {
+            "ticket": "#2",
+            "diffLines": 2015,
+            "filesTouched": 16,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#3",
+            "diffLines": 1134,
+            "filesTouched": 28,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#4",
+            "diffLines": 561,
+            "filesTouched": 14,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#5",
+            "diffLines": 634,
+            "filesTouched": 11,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#6",
+            "diffLines": 1930,
+            "filesTouched": 26,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#7",
+            "diffLines": 603,
+            "filesTouched": 11,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#8",
+            "diffLines": 358,
+            "filesTouched": 10,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#9",
+            "diffLines": 647,
+            "filesTouched": 22,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#10",
+            "diffLines": 676,
+            "filesTouched": 13,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#11",
+            "diffLines": 383,
+            "filesTouched": 12,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#12",
+            "diffLines": 642,
+            "filesTouched": 33,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#13",
+            "diffLines": 76,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#14",
+            "diffLines": 705,
+            "filesTouched": 19,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#15",
+            "diffLines": 493,
+            "filesTouched": 13,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#16",
+            "diffLines": 415,
+            "filesTouched": 9,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#17",
+            "diffLines": 298,
+            "filesTouched": 7,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#18",
+            "diffLines": 376,
+            "filesTouched": 13,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#19",
+            "diffLines": 294,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#20",
+            "diffLines": 356,
+            "filesTouched": 6,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #23",
+            "diffLines": 96,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#24",
+            "diffLines": 1000,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#25",
+            "diffLines": 250,
+            "filesTouched": 5,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#28",
+            "diffLines": 1148,
+            "filesTouched": 24,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#29",
+            "diffLines": 895,
+            "filesTouched": 14,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#30",
+            "diffLines": 803,
+            "filesTouched": 21,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#31",
+            "diffLines": 626,
+            "filesTouched": 21,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#32",
+            "diffLines": 89,
+            "filesTouched": 8,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#33",
+            "diffLines": 218,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#34",
+            "diffLines": 89,
+            "filesTouched": 4,
+            "subTickets": 0
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 29,
+        "of": 31
+      }
+    },
+    "estimateVsActual": {
+      "value": "unknown",
+      "coverage": {
+        "tickets": 0,
+        "of": 31
+      }
+    }
+  },
+  "trends": {
+    "periods": [
+      {
+        "period": "2026-11",
+        "tickets": 31
+      }
+    ],
+    "metrics": {
+      "leadTime": [
+        {
+          "value": 2.1,
+          "coverage": {
+            "tickets": 30,
+            "of": 31
+          }
+        }
+      ],
+      "throughput": [
+        {
+          "value": 31,
+          "coverage": {
+            "tickets": 31,
+            "of": 31
+          }
+        }
+      ],
+      "firstRunCiRate": [
+        {
+          "value": 100,
+          "coverage": {
+            "tickets": 1,
+            "of": 31
+          }
+        }
+      ],
+      "fixCycles": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 1,
+            "of": 31
+          }
+        }
+      ],
+      "scheduledFailures": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 31,
+            "of": 31
+          }
+        }
+      ],
+      "batchHealth": [
+        {
+          "value": 100,
+          "coverage": {
+            "tickets": 31,
+            "of": 31
+          }
+        }
+      ],
+      "regressionRate": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 31,
+            "of": 31
+          }
+        }
+      ],
+      "humanMessagesPerTicket": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 6,
+            "of": 31
+          }
+        }
+      ],
+      "orchestrationTime": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 6,
+            "of": 31
+          }
+        }
+      ],
+      "subAgents": [
+        {
+          "value": 2,
+          "coverage": {
+            "tickets": 6,
+            "of": 31
+          }
+        }
+      ],
+      "apiEquivalentCost": [
+        {
+          "value": 0.9104,
+          "coverage": {
+            "tickets": 6,
+            "of": 31
+          }
+        }
+      ],
+      "autonomy": [
+        {
+          "value": 12.9,
+          "coverage": {
+            "tickets": 31,
+            "of": 31
+          }
+        }
+      ],
+      "testRatio": [
+        {
+          "value": 0,
+          "coverage": {
+            "tickets": 1,
+            "of": 31
+          }
+        }
+      ],
+      "netLinesRemoved": [
+        {
+          "value": -15936,
+          "coverage": {
+            "tickets": 29,
+            "of": 31
+          }
+        }
+      ],
+      "size": [
+        {
+          "value": 561,
+          "coverage": {
+            "tickets": 29,
+            "of": 31
+          }
+        }
+      ],
+      "estimateVsActual": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 31
+          }
+        }
+      ]
+    }
+  },
+  "byAutonomy": {
+    "leadTime": {
+      "full": {
+        "value": 2.1,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 2.1,
+        "coverage": {
+          "tickets": 25,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": 7.9,
+        "coverage": {
+          "tickets": 1,
+          "of": 1
+        }
+      }
+    },
+    "throughput": {
+      "full": {
+        "value": 4,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 26,
+        "coverage": {
+          "tickets": 26,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": 1,
+        "coverage": {
+          "tickets": 1,
+          "of": 1
+        }
+      }
+    },
+    "firstRunCiRate": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 100,
+        "coverage": {
+          "tickets": 1,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "fixCycles": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0,
+        "coverage": {
+          "tickets": 1,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "regressionRate": {
+      "full": {
+        "value": 0,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0,
+        "coverage": {
+          "tickets": 26,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": 0,
+        "coverage": {
+          "tickets": 1,
+          "of": 1
+        }
+      }
+    },
+    "humanMessagesPerTicket": {
+      "full": {
+        "value": 0,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0,
+        "coverage": {
+          "tickets": 2,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "subAgents": {
+      "full": {
+        "value": 2,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 1,
+        "coverage": {
+          "tickets": 2,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "apiEquivalentCost": {
+      "full": {
+        "value": 0.9104,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0.2551,
+        "coverage": {
+          "tickets": 2,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "testRatio": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0,
+        "coverage": {
+          "tickets": 1,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "netLinesRemoved": {
+      "full": {
+        "value": -2577,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": -13359,
+        "coverage": {
+          "tickets": 25,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "size": {
+      "full": {
+        "value": 561,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 493,
+        "coverage": {
+          "tickets": 25,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "estimateVsActual": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 26
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    }
+  },
+  "url": "https://github.com/grimfeld/agentic-metrics",
+  "ticketList": [
+    {
+      "id": "#1",
+      "title": "Spec: measure an agentic workflow from GitHub and Claude Code transcripts",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/1",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#2",
+      "title": "Plugin skeleton and SessionEnd transcript cache hook",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/2",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#3",
+      "title": "Walking skeleton: collect → dataset → report for throughput and lead time",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/3",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#4",
+      "title": "Full ticket linking: branch regex, commit refs, integration PRs and exclusions",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/4",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#5",
+      "title": "Incremental collection and full-history backfill",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/5",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#6",
+      "title": "CI metrics: first-run CI rate, fix cycles, scheduled failures, batch health",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/6",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#7",
+      "title": "Diff and estimate metrics: test ratio, net lines removed, size proxies, estimate vs actual",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/7",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#8",
+      "title": "Regressions: caused-by tracing and regression rate",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/8",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#9",
+      "title": "Transcript source: session linking, orchestration time and human messages",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/9",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#10",
+      "title": "Delegation and cost: sub-agents, model mix, tokens, API-equivalent dollars",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/10",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#11",
+      "title": "Autonomy levels with config thresholds and label override",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/11",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#12",
+      "title": "Report: trends, comparison by autonomy level, CV-ready sentences",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/12",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#13",
+      "title": "Multi-repo GitHub Pages site from committed datasets",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/13",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#14",
+      "title": "Publish modes: full, anonymized, none",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/14",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#15",
+      "title": "Case studies: candidates, drafts and approval",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/15",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#16",
+      "title": "GitHub Action skeleton and Closes #N from branch name",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/16",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#17",
+      "title": "Action reminders: regression question and estimate reminder, at most once",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/17",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#18",
+      "title": "Skill addenda hook, default addenda and conventions skill",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/18",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#19",
+      "title": "Warning hook on gh pr create without a ticket reference",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/19",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "#20",
+      "title": "init command to onboard a consumer repo",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/20",
+      "doneAt": "2026-11-09T13:47:37.000Z"
+    },
+    {
+      "id": "PR #23",
+      "title": "Move the published report out of the tool repo",
+      "url": "https://github.com/grimfeld/agentic-metrics/pull/23",
+      "doneAt": "2026-11-09T14:36:28.000Z"
+    },
+    {
+      "id": "#24",
+      "title": "Credit an integration batch's commits to the tickets it delivers",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/24",
+      "doneAt": "2026-11-09T16:01:05.000Z"
+    },
+    {
+      "id": "#25",
+      "title": "init: pin the Action to a commit SHA and explain allow-listing",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/25",
+      "doneAt": "2026-11-09T16:01:05.000Z"
+    },
+    {
+      "id": "#27",
+      "title": "Spec: dashboard report (multi-page, charts)",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/27",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#28",
+      "title": "Report: multi-page shell, overview and Methodology pages",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/28",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#29",
+      "title": "Report: chart primitives and the repo page",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/29",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#30",
+      "title": "Report: metric pages, part 1 (lead time to human messages)",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/30",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#31",
+      "title": "Report: metric pages, part 2 (orchestration to estimates)",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/31",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#32",
+      "title": "Report: case-study pages and cleaner drafts",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/32",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#33",
+      "title": "Unknown, not zero, and the \"Net lines changed\" label",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/33",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#34",
+      "title": "Investigate Lifeline's 0 h lead times and the Oct 19 throughput spike",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/34",
+      "doneAt": "2026-11-10T00:03:31.000Z"
+    }
+  ],
+  "caseStudyCandidates": [
+    {
+      "ticket": "PR #23",
+      "criteria": [
+        "largest ticket",
+        "largest deletion"
+      ]
+    }
+  ]
+}

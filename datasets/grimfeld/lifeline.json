@@ -2,319 +2,127 @@
   "schemaVersion": 2,
   "repo": "grimfeld/lifeline",
   "publish": "full",
-  "generatedAt": "2026-11-09T13:59:54.290Z",
-  "tickets": 303,
-  "pullRequests": 142,
+  "generatedAt": "2026-11-10T00:18:01.385Z",
+  "tickets": 308,
+  "pullRequests": 147,
   "integrationPullRequests": 4,
   "metrics": {
     "leadTime": {
       "value": {
-        "p50Hours": 9.8,
-        "p90Hours": 48.9,
+        "p50Hours": 10.3,
+        "p90Hours": 50,
         "tickets": [
           {
-            "ticket": "PR #1",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #2",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #3",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #4",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #5",
-            "hours": 0
-          },
-          {
             "ticket": "PR #6",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #7",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #8",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #9",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #10",
-            "hours": 0.4
-          },
-          {
-            "ticket": "PR #11",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #12",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #13",
-            "hours": 0
+            "hours": 0.2
           },
           {
             "ticket": "PR #14",
-            "hours": 0.8
+            "hours": 0.9
           },
           {
             "ticket": "PR #15",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #16",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #17",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #18",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #19",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #20",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #21",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #22",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #23",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #24",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #25",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #26",
-            "hours": 0.2
-          },
-          {
-            "ticket": "PR #29",
-            "hours": 4.8
-          },
-          {
-            "ticket": "PR #30",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #28",
-            "hours": 10.5
-          },
-          {
-            "ticket": "PR #31",
             "hours": 0.3
           },
           {
-            "ticket": "PR #32",
-            "hours": 0
+            "ticket": "PR #25",
+            "hours": 3.2
+          },
+          {
+            "ticket": "PR #26",
+            "hours": 34.4
+          },
+          {
+            "ticket": "PR #29",
+            "hours": 6.1
+          },
+          {
+            "ticket": "PR #28",
+            "hours": 31.1
           },
           {
             "ticket": "PR #33",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #34",
-            "hours": 0.2
+            "hours": 0.8
           },
           {
             "ticket": "PR #35",
-            "hours": 0.1
+            "hours": 0.4
           },
           {
             "ticket": "PR #36",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #37",
-            "hours": 3.6
-          },
-          {
-            "ticket": "PR #38",
-            "hours": 9.4
-          },
-          {
-            "ticket": "PR #39",
-            "hours": 0.5
-          },
-          {
-            "ticket": "PR #40",
-            "hours": 2.6
+            "hours": 0.2
           },
           {
             "ticket": "PR #49",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #50",
-            "hours": 0.1
+            "hours": 1
           },
           {
             "ticket": "PR #51",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #52",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #53",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #54",
-            "hours": 1.7
-          },
-          {
-            "ticket": "PR #55",
-            "hours": 0
+            "hours": 0.4
           },
           {
             "ticket": "PR #56",
             "hours": 0.1
           },
           {
-            "ticket": "PR #57",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #58",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #59",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #60",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #61",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #62",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #63",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #73",
-            "hours": 0
-          },
-          {
             "ticket": "PR #74",
-            "hours": 0
+            "hours": 0.4
           },
           {
             "ticket": "PR #75",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #76",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #77",
-            "hours": 0.2
+            "hours": 3.3
           },
           {
             "ticket": "PR #78",
-            "hours": 0.7
+            "hours": 1
           },
           {
             "ticket": "PR #79",
-            "hours": 0.2
-          },
-          {
-            "ticket": "PR #80",
-            "hours": 0
+            "hours": 2.7
           },
           {
             "ticket": "PR #81",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #82",
-            "hours": 7.4
+            "hours": 0.4
           },
           {
             "ticket": "PR #83",
-            "hours": 7.2
+            "hours": 7.4
           },
           {
             "ticket": "PR #84",
-            "hours": 7
+            "hours": 7.4
           },
           {
             "ticket": "PR #85",
-            "hours": 6.7
+            "hours": 7.4
           },
           {
             "ticket": "PR #86",
-            "hours": 6.4
+            "hours": 7.4
           },
           {
             "ticket": "PR #87",
-            "hours": 6.2
+            "hours": 7.4
           },
           {
             "ticket": "PR #88",
-            "hours": 6.2
+            "hours": 7.4
           },
           {
             "ticket": "PR #89",
-            "hours": 0.1
+            "hours": 2.2
           },
           {
             "ticket": "PR #90",
-            "hours": 0
+            "hours": 7.9
           },
           {
             "ticket": "PR #91",
             "hours": 2.5
           },
           {
-            "ticket": "PR #92",
-            "hours": 0
-          },
-          {
-            "ticket": "PR #93",
-            "hours": 0.4
-          },
-          {
             "ticket": "PR #94",
-            "hours": 0.1
+            "hours": 0.4
           },
           {
             "ticket": "#95",
@@ -353,12 +161,8 @@
             "hours": 1.4
           },
           {
-            "ticket": "PR #126",
-            "hours": 0.2
-          },
-          {
             "ticket": "PR #127",
-            "hours": 0.1
+            "hours": 0.5
           },
           {
             "ticket": "#104",
@@ -410,7 +214,7 @@
           },
           {
             "ticket": "PR #66",
-            "hours": 381.6
+            "hours": 381.7
           },
           {
             "ticket": "PR #64",
@@ -418,31 +222,27 @@
           },
           {
             "ticket": "PR #65",
-            "hours": 381.6
-          },
-          {
-            "ticket": "PR #69",
-            "hours": 381.5
-          },
-          {
-            "ticket": "PR #67",
-            "hours": 381.7
-          },
-          {
-            "ticket": "PR #68",
-            "hours": 381.7
-          },
-          {
-            "ticket": "PR #70",
-            "hours": 381.6
-          },
-          {
-            "ticket": "PR #71",
             "hours": 381.8
           },
           {
-            "ticket": "PR #146",
-            "hours": 0.1
+            "ticket": "PR #69",
+            "hours": 381.7
+          },
+          {
+            "ticket": "PR #67",
+            "hours": 381.9
+          },
+          {
+            "ticket": "PR #68",
+            "hours": 381.9
+          },
+          {
+            "ticket": "PR #70",
+            "hours": 381.8
+          },
+          {
+            "ticket": "PR #71",
+            "hours": 382.1
           },
           {
             "ticket": "#117",
@@ -541,24 +341,12 @@
             "hours": 2.1
           },
           {
-            "ticket": "PR #149",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #150",
-            "hours": 0.1
-          },
-          {
             "ticket": "PR #157",
-            "hours": 1.3
+            "hours": 1.7
           },
           {
-            "ticket": "PR #158",
-            "hours": 0.4
-          },
-          {
-            "ticket": "PR #171",
-            "hours": 0.1
+            "ticket": "PR #154",
+            "hours": 4.7
           },
           {
             "ticket": "PR #160",
@@ -605,24 +393,16 @@
             "hours": 4.9
           },
           {
-            "ticket": "PR #191",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #190",
-            "hours": 0.7
-          },
-          {
             "ticket": "#174",
             "hours": 4.6
           },
           {
-            "ticket": "PR #193",
-            "hours": 0.1
+            "ticket": "PR #192",
+            "hours": 1.2
           },
           {
             "ticket": "PR #244",
-            "hours": 3.5
+            "hours": 3.8
           },
           {
             "ticket": "PR #245",
@@ -631,10 +411,6 @@
           {
             "ticket": "PR #230",
             "hours": 4.9
-          },
-          {
-            "ticket": "PR #246",
-            "hours": 0.1
           },
           {
             "ticket": "#194",
@@ -817,26 +593,6 @@
             "hours": 18.6
           },
           {
-            "ticket": "PR #249",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #250",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #251",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #248",
-            "hours": 0.2
-          },
-          {
-            "ticket": "PR #252",
-            "hours": 0.4
-          },
-          {
             "ticket": "#337",
             "hours": 0.6
           },
@@ -855,10 +611,6 @@
           {
             "ticket": "#341",
             "hours": 0.6
-          },
-          {
-            "ticket": "PR #344",
-            "hours": 2.4
           },
           {
             "ticket": "#320",
@@ -1217,18 +969,14 @@
             "hours": 114.7
           },
           {
-            "ticket": "PR #406",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #436",
-            "hours": 0.7
+            "ticket": "PR #437",
+            "hours": 0.6
           }
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 240,
+        "of": 308
       }
     },
     "throughput": {
@@ -1276,8 +1024,8 @@
           },
           {
             "week": "2026-10-19",
-            "tickets": 205,
-            "pullRequests": 62
+            "tickets": 209,
+            "pullRequests": 66
           },
           {
             "week": "2026-10-26",
@@ -1291,33 +1039,315 @@
           },
           {
             "week": "2026-11-09",
-            "tickets": 1,
-            "pullRequests": 1
+            "tickets": 2,
+            "pullRequests": 2
           }
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "firstRunCiRate": {
       "value": {
-        "rate": 0.985,
-        "passed": 64,
-        "pullRequests": 65,
-        "workflow": ".github/workflows/check.yml"
+        "rate": 0.986,
+        "passed": 69,
+        "pullRequests": 70,
+        "workflow": ".github/workflows/check.yml",
+        "perPullRequest": [
+          {
+            "pullRequest": 64,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 65,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 66,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 67,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 68,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 69,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 70,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 71,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 72,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 115,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 126,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 127,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 136,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 137,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 143,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 144,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 145,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 146,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 148,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 149,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 150,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 151,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 154,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 157,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 158,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 159,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 160,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 171,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 172,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 188,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 190,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 191,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 192,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 193,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 203,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 209,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 227,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 228,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 229,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 230,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 244,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 245,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 246,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 247,
+            "firstRun": "failed"
+          },
+          {
+            "pullRequest": 248,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 249,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 250,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 251,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 252,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 324,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 325,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 326,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 327,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 328,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 329,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 330,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 331,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 332,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 333,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 334,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 335,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 336,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 342,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 344,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 361,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 367,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 387,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 406,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 436,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 437,
+            "firstRun": "passed"
+          }
+        ]
       },
       "coverage": {
-        "tickets": 218,
-        "of": 303
+        "tickets": 223,
+        "of": 308
       }
     },
     "fixCycles": {
       "value": {
         "perPullRequest": 0.06,
         "total": 4,
-        "pullRequests": 66,
+        "pullRequests": 71,
         "withFixCycles": [
           {
             "pullRequest": 228,
@@ -1334,8 +1364,8 @@
         ]
       },
       "coverage": {
-        "tickets": 219,
-        "of": 303
+        "tickets": 224,
+        "of": 308
       }
     },
     "scheduledFailures": {
@@ -1351,8 +1381,8 @@
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "batchHealth": {
@@ -1394,8 +1424,8 @@
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "regressionRate": {
@@ -1407,8 +1437,8 @@
         "perTicket": []
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "humanMessagesPerTicket": {
@@ -1633,7 +1663,7 @@
       },
       "coverage": {
         "tickets": 53,
-        "of": 303
+        "of": 308
       }
     },
     "orchestrationTime": {
@@ -1645,7 +1675,7 @@
       },
       "coverage": {
         "tickets": 53,
-        "of": 303
+        "of": 308
       }
     },
     "subAgents": {
@@ -2370,7 +2400,7 @@
       },
       "coverage": {
         "tickets": 53,
-        "of": 303
+        "of": 308
       }
     },
     "apiEquivalentCost": {
@@ -3640,14 +3670,14 @@
       },
       "coverage": {
         "tickets": 53,
-        "of": 303
+        "of": 308
       }
     },
     "autonomy": {
       "value": {
         "full": 7,
-        "assisted": 295,
-        "manual": 1,
+        "assisted": 296,
+        "manual": 5,
         "overridden": 0,
         "perTicket": [
           {
@@ -4455,6 +4485,12 @@
             "overridden": false
           },
           {
+            "ticket": "PR #151",
+            "level": "manual",
+            "computed": "manual",
+            "overridden": false
+          },
+          {
             "ticket": "PR #157",
             "level": "assisted",
             "computed": "assisted",
@@ -4470,6 +4506,18 @@
             "ticket": "PR #171",
             "level": "assisted",
             "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #159",
+            "level": "manual",
+            "computed": "manual",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #154",
+            "level": "manual",
+            "computed": "manual",
             "overridden": false
           },
           {
@@ -4554,6 +4602,12 @@
             "ticket": "#174",
             "level": "assisted",
             "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #192",
+            "level": "manual",
+            "computed": "manual",
             "overridden": false
           },
           {
@@ -5467,18 +5521,24 @@
             "level": "full",
             "computed": "full",
             "overridden": false
+          },
+          {
+            "ticket": "PR #437",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
           }
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "testRatio": {
       "value": {
         "testLinesAdded": 19332,
-        "productionLinesAdded": 68968,
+        "productionLinesAdded": 69228,
         "ratio": 0.28,
         "tickets": [
           {
@@ -6132,6 +6192,11 @@
             "productionLinesAdded": 217
           },
           {
+            "ticket": "PR #151",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 12
+          },
+          {
             "ticket": "PR #157",
             "testLinesAdded": 97,
             "productionLinesAdded": 135
@@ -6145,6 +6210,16 @@
             "ticket": "PR #171",
             "testLinesAdded": 41,
             "productionLinesAdded": 0
+          },
+          {
+            "ticket": "PR #159",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 112
+          },
+          {
+            "ticket": "PR #154",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 34
           },
           {
             "ticket": "PR #160",
@@ -6210,6 +6285,11 @@
             "ticket": "PR #190",
             "testLinesAdded": 0,
             "productionLinesAdded": 6
+          },
+          {
+            "ticket": "PR #192",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 60
           },
           {
             "ticket": "PR #193",
@@ -6775,20 +6855,25 @@
             "ticket": "PR #436",
             "testLinesAdded": 72,
             "productionLinesAdded": 0
+          },
+          {
+            "ticket": "PR #437",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 42
           }
         ]
       },
       "coverage": {
-        "tickets": 259,
-        "of": 303
+        "tickets": 264,
+        "of": 308
       }
     },
     "netLinesRemoved": {
       "value": {
-        "linesAdded": 136637,
-        "linesDeleted": 33886,
-        "netLinesRemoved": -102751,
-        "ticketsNetRemoving": 14,
+        "linesAdded": 139006,
+        "linesDeleted": 36085,
+        "netLinesRemoved": -102921,
+        "ticketsNetRemoving": 15,
         "tickets": [
           {
             "ticket": "PR #1",
@@ -7461,6 +7546,11 @@
             "linesDeleted": 56
           },
           {
+            "ticket": "PR #151",
+            "linesAdded": 12,
+            "linesDeleted": 12
+          },
+          {
             "ticket": "PR #157",
             "linesAdded": 406,
             "linesDeleted": 240
@@ -7474,6 +7564,16 @@
             "ticket": "PR #171",
             "linesAdded": 41,
             "linesDeleted": 19
+          },
+          {
+            "ticket": "PR #159",
+            "linesAdded": 1957,
+            "linesDeleted": 1761
+          },
+          {
+            "ticket": "PR #154",
+            "linesAdded": 168,
+            "linesDeleted": 240
           },
           {
             "ticket": "PR #160",
@@ -7544,6 +7644,11 @@
             "ticket": "#174",
             "linesAdded": 6578,
             "linesDeleted": 862
+          },
+          {
+            "ticket": "PR #192",
+            "linesAdded": 186,
+            "linesDeleted": 186
           },
           {
             "ticket": "PR #193",
@@ -8304,17 +8409,22 @@
             "ticket": "PR #436",
             "linesAdded": 72,
             "linesDeleted": 52
+          },
+          {
+            "ticket": "PR #437",
+            "linesAdded": 46,
+            "linesDeleted": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "size": {
       "value": {
-        "p50DiffLines": 1593,
+        "p50DiffLines": 1431,
         "p50FilesTouched": 32,
         "tickets": [
           {
@@ -9122,6 +9232,12 @@
             "subTickets": 0
           },
           {
+            "ticket": "PR #151",
+            "diffLines": 24,
+            "filesTouched": 2,
+            "subTickets": 0
+          },
+          {
             "ticket": "PR #157",
             "diffLines": 646,
             "filesTouched": 55,
@@ -9137,6 +9253,18 @@
             "ticket": "PR #171",
             "diffLines": 60,
             "filesTouched": 2,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #159",
+            "diffLines": 3718,
+            "filesTouched": 35,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #154",
+            "diffLines": 408,
+            "filesTouched": 35,
             "subTickets": 0
           },
           {
@@ -9222,6 +9350,12 @@
             "diffLines": 7440,
             "filesTouched": 154,
             "subTickets": 13
+          },
+          {
+            "ticket": "PR #192",
+            "diffLines": 372,
+            "filesTouched": 35,
+            "subTickets": 0
           },
           {
             "ticket": "PR #193",
@@ -10134,19 +10268,25 @@
             "diffLines": 124,
             "filesTouched": 4,
             "subTickets": 0
+          },
+          {
+            "ticket": "PR #437",
+            "diffLines": 46,
+            "filesTouched": 3,
+            "subTickets": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 303,
-        "of": 303
+        "tickets": 308,
+        "of": 308
       }
     },
     "estimateVsActual": {
       "value": "unknown",
       "coverage": {
         "tickets": 0,
-        "of": 303
+        "of": 308
       }
     }
   },
@@ -10162,41 +10302,41 @@
       },
       {
         "period": "2026-10",
-        "tickets": 247
+        "tickets": 251
       },
       {
         "period": "2026-11",
-        "tickets": 13
+        "tickets": 14
       }
     ],
     "metrics": {
       "leadTime": [
         {
-          "value": 0,
+          "value": 0.3,
           "coverage": {
-            "tickets": 22,
+            "tickets": 3,
             "of": 22
           }
         },
         {
-          "value": 0.1,
+          "value": 1,
           "coverage": {
-            "tickets": 21,
+            "tickets": 9,
             "of": 21
           }
         },
         {
-          "value": 10.2,
+          "value": 10.3,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 216,
+            "of": 251
           }
         },
         {
           "value": 114.7,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 12,
+            "of": 14
           }
         }
       ],
@@ -10216,17 +10356,17 @@
           }
         },
         {
-          "value": 247,
+          "value": 251,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
-          "value": 13,
+          "value": 14,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10246,17 +10386,17 @@
           }
         },
         {
-          "value": 98.4,
+          "value": 98.5,
           "coverage": {
-            "tickets": 205,
-            "of": 247
+            "tickets": 209,
+            "of": 251
           }
         },
         {
           "value": 100,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10278,15 +10418,15 @@
         {
           "value": 0.06,
           "coverage": {
-            "tickets": 206,
-            "of": 247
+            "tickets": 210,
+            "of": 251
           }
         },
         {
           "value": 0,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10308,15 +10448,15 @@
         {
           "value": 33.3,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
           "value": 100,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10338,15 +10478,15 @@
         {
           "value": 100,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
           "value": "unknown",
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10368,15 +10508,15 @@
         {
           "value": 0,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
           "value": 0,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10399,27 +10539,27 @@
           "value": 7,
           "coverage": {
             "tickets": 40,
-            "of": 247
+            "of": 251
           }
         },
         {
           "value": 6,
           "coverage": {
             "tickets": 12,
-            "of": 13
+            "of": 14
           }
         }
       ],
       "orchestrationTime": [
         {
-          "value": 0,
+          "value": "unknown",
           "coverage": {
             "tickets": 1,
             "of": 22
           }
         },
         {
-          "value": 0,
+          "value": "unknown",
           "coverage": {
             "tickets": 0,
             "of": 21
@@ -10429,14 +10569,14 @@
           "value": 1.1,
           "coverage": {
             "tickets": 40,
-            "of": 247
+            "of": 251
           }
         },
         {
           "value": 5.6,
           "coverage": {
             "tickets": 12,
-            "of": 13
+            "of": 14
           }
         }
       ],
@@ -10459,14 +10599,14 @@
           "value": 21,
           "coverage": {
             "tickets": 40,
-            "of": 247
+            "of": 251
           }
         },
         {
           "value": 24,
           "coverage": {
             "tickets": 12,
-            "of": 13
+            "of": 14
           }
         }
       ],
@@ -10489,14 +10629,14 @@
           "value": 34.2339,
           "coverage": {
             "tickets": 40,
-            "of": 247
+            "of": 251
           }
         },
         {
           "value": 47.7027,
           "coverage": {
             "tickets": 12,
-            "of": 13
+            "of": 14
           }
         }
       ],
@@ -10518,15 +10658,15 @@
         {
           "value": 2,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
-          "value": 7.7,
+          "value": 7.1,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10546,17 +10686,17 @@
           }
         },
         {
-          "value": 0.38,
+          "value": 0.37,
           "coverage": {
-            "tickets": 214,
-            "of": 247
+            "tickets": 218,
+            "of": 251
           }
         },
         {
-          "value": 10.29,
+          "value": 1.47,
           "coverage": {
-            "tickets": 2,
-            "of": 13
+            "tickets": 3,
+            "of": 14
           }
         }
       ],
@@ -10576,17 +10716,17 @@
           }
         },
         {
-          "value": -74037,
+          "value": -74161,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
-          "value": -1345,
+          "value": -1391,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10608,15 +10748,15 @@
         {
           "value": 1875,
           "coverage": {
-            "tickets": 247,
-            "of": 247
+            "tickets": 251,
+            "of": 251
           }
         },
         {
           "value": 4567,
           "coverage": {
-            "tickets": 13,
-            "of": 13
+            "tickets": 14,
+            "of": 14
           }
         }
       ],
@@ -10639,14 +10779,14 @@
           "value": "unknown",
           "coverage": {
             "tickets": 0,
-            "of": 247
+            "of": 251
           }
         },
         {
           "value": "unknown",
           "coverage": {
             "tickets": 0,
-            "of": 13
+            "of": 14
           }
         }
       ]
@@ -10657,22 +10797,22 @@
       "full": {
         "value": 48.9,
         "coverage": {
-          "tickets": 7,
+          "tickets": 5,
           "of": 7
         }
       },
       "assisted": {
-        "value": 9.8,
+        "value": 10.3,
         "coverage": {
-          "tickets": 295,
-          "of": 295
+          "tickets": 233,
+          "of": 296
         }
       },
       "manual": {
-        "value": 0,
+        "value": 1.2,
         "coverage": {
-          "tickets": 1,
-          "of": 1
+          "tickets": 2,
+          "of": 5
         }
       }
     },
@@ -10685,17 +10825,17 @@
         }
       },
       "assisted": {
-        "value": 295,
+        "value": 296,
         "coverage": {
-          "tickets": 295,
-          "of": 295
+          "tickets": 296,
+          "of": 296
         }
       },
       "manual": {
-        "value": 1,
+        "value": 5,
         "coverage": {
-          "tickets": 1,
-          "of": 1
+          "tickets": 5,
+          "of": 5
         }
       }
     },
@@ -10710,15 +10850,15 @@
       "assisted": {
         "value": 98.4,
         "coverage": {
-          "tickets": 212,
-          "of": 295
+          "tickets": 213,
+          "of": 296
         }
       },
       "manual": {
-        "value": "unknown",
+        "value": 100,
         "coverage": {
-          "tickets": 0,
-          "of": 1
+          "tickets": 4,
+          "of": 5
         }
       }
     },
@@ -10733,15 +10873,15 @@
       "assisted": {
         "value": 0.06,
         "coverage": {
-          "tickets": 213,
-          "of": 295
+          "tickets": 214,
+          "of": 296
         }
       },
       "manual": {
-        "value": "unknown",
+        "value": 0,
         "coverage": {
-          "tickets": 0,
-          "of": 1
+          "tickets": 4,
+          "of": 5
         }
       }
     },
@@ -10756,15 +10896,15 @@
       "assisted": {
         "value": 0,
         "coverage": {
-          "tickets": 295,
-          "of": 295
+          "tickets": 296,
+          "of": 296
         }
       },
       "manual": {
         "value": 0,
         "coverage": {
-          "tickets": 1,
-          "of": 1
+          "tickets": 5,
+          "of": 5
         }
       }
     },
@@ -10780,14 +10920,14 @@
         "value": 6,
         "coverage": {
           "tickets": 46,
-          "of": 295
+          "of": 296
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 1
+          "of": 5
         }
       }
     },
@@ -10803,14 +10943,14 @@
         "value": 24,
         "coverage": {
           "tickets": 46,
-          "of": 295
+          "of": 296
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 1
+          "of": 5
         }
       }
     },
@@ -10826,14 +10966,14 @@
         "value": 43.5239,
         "coverage": {
           "tickets": 46,
-          "of": 295
+          "of": 296
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 1
+          "of": 5
         }
       }
     },
@@ -10848,15 +10988,15 @@
       "assisted": {
         "value": 0.28,
         "coverage": {
-          "tickets": 251,
-          "of": 295
+          "tickets": 252,
+          "of": 296
         }
       },
       "manual": {
         "value": 0,
         "coverage": {
-          "tickets": 1,
-          "of": 1
+          "tickets": 5,
+          "of": 5
         }
       }
     },
@@ -10869,17 +11009,17 @@
         }
       },
       "assisted": {
-        "value": -101490,
+        "value": -101536,
         "coverage": {
-          "tickets": 295,
-          "of": 295
+          "tickets": 296,
+          "of": 296
         }
       },
       "manual": {
-        "value": -130,
+        "value": -254,
         "coverage": {
-          "tickets": 1,
-          "of": 1
+          "tickets": 5,
+          "of": 5
         }
       }
     },
@@ -10894,15 +11034,15 @@
       "assisted": {
         "value": 1875,
         "coverage": {
-          "tickets": 295,
-          "of": 295
+          "tickets": 296,
+          "of": 296
         }
       },
       "manual": {
-        "value": 186,
+        "value": 372,
         "coverage": {
-          "tickets": 1,
-          "of": 1
+          "tickets": 5,
+          "of": 5
         }
       }
     },
@@ -10918,14 +11058,14 @@
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 295
+          "of": 296
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 1
+          "of": 5
         }
       }
     }
@@ -11737,6 +11877,12 @@
       "doneAt": "2026-10-19T11:20:25.000Z"
     },
     {
+      "id": "PR #151",
+      "title": "Bump the actions group with 5 updates",
+      "url": "https://github.com/grimfeld/lifeline/pull/151",
+      "doneAt": "2026-10-19T13:28:17.000Z"
+    },
+    {
       "id": "PR #157",
       "title": "Security: fix CodeQL ReDoS/escaping alerts, patch vulnerable deps",
       "url": "https://github.com/grimfeld/lifeline/pull/157",
@@ -11753,6 +11899,18 @@
       "title": "e2e(demo): Source-link cases seed their own life; CI-scaled seeding timeouts; poll streaks",
       "url": "https://github.com/grimfeld/lifeline/pull/171",
       "doneAt": "2026-10-19T14:59:45.000Z"
+    },
+    {
+      "id": "PR #159",
+      "title": "Bump the minor-and-patch group across 1 directory with 26 updates",
+      "url": "https://github.com/grimfeld/lifeline/pull/159",
+      "doneAt": "2026-10-19T15:00:26.000Z"
+    },
+    {
+      "id": "PR #154",
+      "title": "build(deps-dev): bump vitest from 4.1.12 to 5.0.5",
+      "url": "https://github.com/grimfeld/lifeline/pull/154",
+      "doneAt": "2026-10-19T16:10:39.000Z"
     },
     {
       "id": "PR #160",
@@ -11837,6 +11995,12 @@
       "title": "Selection menu links and makes; a Peek edits",
       "url": "https://github.com/grimfeld/lifeline/issues/174",
       "doneAt": "2026-10-19T20:50:33.000Z"
+    },
+    {
+      "id": "PR #192",
+      "title": "build(deps): bump the minor-and-patch group across 1 directory with 2 updates",
+      "url": "https://github.com/grimfeld/lifeline/pull/192",
+      "doneAt": "2026-10-19T21:04:14.000Z"
     },
     {
       "id": "PR #193",
@@ -12749,6 +12913,12 @@
       "title": "e2e: fix the 23 cases red on master (seeded week, Work page)",
       "url": "https://github.com/grimfeld/lifeline/pull/436",
       "doneAt": "2026-11-09T12:37:50.000Z"
+    },
+    {
+      "id": "PR #437",
+      "title": "Measure Lifeline with agentic-metrics",
+      "url": "https://github.com/grimfeld/lifeline/pull/437",
+      "doneAt": "2026-11-09T15:14:27.000Z"
     }
   ],
   "caseStudyCandidates": [
