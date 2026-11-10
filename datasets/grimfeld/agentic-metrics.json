@@ -2,103 +2,286 @@
   "schemaVersion": 2,
   "repo": "grimfeld/agentic-metrics",
   "publish": "full",
-  "generatedAt": "2026-11-10T00:16:08.322Z",
-  "tickets": 31,
-  "pullRequests": 1,
+  "generatedAt": "2026-11-10T23:57:01.489Z",
+  "tickets": 43,
+  "pullRequests": 6,
   "integrationPullRequests": 3,
   "metrics": {
+    "activeTime": {
+      "value": {
+        "p50Hours": 0.04,
+        "p90Hours": 1.84,
+        "totalHours": 2.2,
+        "tickets": [
+          {
+            "ticket": "#1",
+            "hours": 1.84
+          },
+          {
+            "ticket": "#3",
+            "hours": 0.15
+          },
+          {
+            "ticket": "#4",
+            "hours": 0.11
+          },
+          {
+            "ticket": "#7",
+            "hours": 0.04
+          },
+          {
+            "ticket": "#11",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#20",
+            "hours": 0.01
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 6,
+        "of": 43
+      }
+    },
+    "estimatedActiveTime": {
+      "value": {
+        "p50Hours": 0.2,
+        "p90Hours": 0.89,
+        "totalHours": 4.7,
+        "tickets": [
+          {
+            "ticket": "#12",
+            "hours": 0.08
+          },
+          {
+            "ticket": "#24",
+            "hours": 0.06
+          },
+          {
+            "ticket": "#28",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#32",
+            "hours": 0.03
+          },
+          {
+            "ticket": "#38",
+            "hours": 0.89
+          },
+          {
+            "ticket": "#40",
+            "hours": 0.89
+          },
+          {
+            "ticket": "#41",
+            "hours": 0.89
+          },
+          {
+            "ticket": "#42",
+            "hours": 0.89
+          },
+          {
+            "ticket": "#39",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#44",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#45",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#46",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#47",
+            "hours": 0.2
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 13,
+        "of": 43
+      }
+    },
     "leadTime": {
       "value": {
         "p50Hours": 2.1,
         "p90Hours": 7.9,
+        "phases": {
+          "tickets": 39,
+          "queue": {
+            "p50Hours": 0.5,
+            "share": 0.163
+          },
+          "work": {
+            "p50Hours": 0,
+            "share": 0.03
+          },
+          "landing": {
+            "p50Hours": 1.4,
+            "share": 0.807
+          }
+        },
         "tickets": [
           {
             "ticket": "#1",
-            "hours": 2.4
+            "hours": 2.4,
+            "queueHours": 0.1,
+            "workHours": 2.1,
+            "landingHours": 0.2
           },
           {
             "ticket": "#2",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.5,
+            "workHours": 0,
+            "landingHours": 1.7
           },
           {
             "ticket": "#3",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.5,
+            "workHours": 0.2,
+            "landingHours": 1.5
           },
           {
             "ticket": "#4",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.6,
+            "workHours": 0.1,
+            "landingHours": 1.4
           },
           {
             "ticket": "#5",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.7,
+            "workHours": 0,
+            "landingHours": 1.4
           },
           {
             "ticket": "#6",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 1,
+            "workHours": 0,
+            "landingHours": 1.1
           },
           {
             "ticket": "#7",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.6,
+            "workHours": 0.1,
+            "landingHours": 1.4
           },
           {
             "ticket": "#8",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.7,
+            "workHours": 0,
+            "landingHours": 1.4
           },
           {
             "ticket": "#9",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.9,
+            "workHours": 0,
+            "landingHours": 1.2
           },
           {
             "ticket": "#10",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 1,
+            "workHours": 0,
+            "landingHours": 1.1
           },
           {
             "ticket": "#11",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 1,
+            "workHours": 0,
+            "landingHours": 1.1
           },
           {
             "ticket": "#12",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 1.1,
+            "workHours": 0.1,
+            "landingHours": 0.9
           },
           {
             "ticket": "#13",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.6,
+            "workHours": 0,
+            "landingHours": 1.5
           },
           {
             "ticket": "#14",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.8,
+            "workHours": 0,
+            "landingHours": 1.3
           },
           {
             "ticket": "#15",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 1,
+            "workHours": 0,
+            "landingHours": 1.1
           },
           {
             "ticket": "#16",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.5,
+            "workHours": 0,
+            "landingHours": 1.6
           },
           {
             "ticket": "#17",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.6,
+            "workHours": 0,
+            "landingHours": 1.5
           },
           {
             "ticket": "#18",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.5,
+            "workHours": 0,
+            "landingHours": 1.6
           },
           {
             "ticket": "#19",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0.5,
+            "workHours": 0,
+            "landingHours": 1.6
           },
           {
             "ticket": "#20",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 1.1,
+            "workHours": 0,
+            "landingHours": 1
           },
           {
             "ticket": "#24",
-            "hours": 1.4
+            "hours": 1.4,
+            "queueHours": 1.2,
+            "workHours": 0.1,
+            "landingHours": 0.1
           },
           {
             "ticket": "#25",
-            "hours": 1.4
+            "hours": 1.4,
+            "queueHours": 1.2,
+            "workHours": 0,
+            "landingHours": 0.2
           },
           {
             "ticket": "#27",
@@ -106,37 +289,128 @@
           },
           {
             "ticket": "#28",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.2,
+            "workHours": 0,
+            "landingHours": 7.7
           },
           {
             "ticket": "#29",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.4,
+            "workHours": 0,
+            "landingHours": 7.5
           },
           {
             "ticket": "#30",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.6,
+            "workHours": 0,
+            "landingHours": 7.3
           },
           {
             "ticket": "#31",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.8,
+            "workHours": 0,
+            "landingHours": 7.1
           },
           {
             "ticket": "#32",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.3,
+            "workHours": 0,
+            "landingHours": 7.6
           },
           {
             "ticket": "#33",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.1,
+            "workHours": 0,
+            "landingHours": 7.8
           },
           {
             "ticket": "#34",
-            "hours": 7.9
+            "hours": 7.9,
+            "queueHours": 0.1,
+            "workHours": 0,
+            "landingHours": 7.7
+          },
+          {
+            "ticket": "#38",
+            "hours": 5.6,
+            "queueHours": 0,
+            "workHours": 0.3,
+            "landingHours": 5.4
+          },
+          {
+            "ticket": "#40",
+            "hours": 5.6,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 5.4
+          },
+          {
+            "ticket": "#41",
+            "hours": 5.6,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 5.4
+          },
+          {
+            "ticket": "#42",
+            "hours": 5.6,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 5.4
+          },
+          {
+            "ticket": "#39",
+            "hours": 6,
+            "queueHours": 5.7,
+            "workHours": 0.2,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#44",
+            "hours": 0.3,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#45",
+            "hours": 0.3,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#46",
+            "hours": 0.3,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#47",
+            "hours": 0.3,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #37",
+            "hours": 23.5,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 23.5
           }
         ]
       },
       "coverage": {
-        "tickets": 30,
-        "of": 31
+        "tickets": 40,
+        "of": 43
       }
     },
     "throughput": {
@@ -144,51 +418,71 @@
         "weeks": [
           {
             "week": "2026-11-09",
-            "tickets": 31,
-            "pullRequests": 1
+            "tickets": 43,
+            "pullRequests": 6
           }
         ]
       },
       "coverage": {
-        "tickets": 31,
-        "of": 31
+        "tickets": 43,
+        "of": 43
       }
     },
     "firstRunCiRate": {
       "value": {
         "rate": 1,
-        "passed": 1,
-        "pullRequests": 1,
+        "passed": 6,
+        "pullRequests": 6,
         "workflow": ".github/workflows/ci.yml",
         "perPullRequest": [
           {
             "pullRequest": 23,
             "firstRun": "passed"
+          },
+          {
+            "pullRequest": 37,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 43,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 48,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 49,
+            "firstRun": "passed"
+          },
+          {
+            "pullRequest": 50,
+            "firstRun": "passed"
           }
         ]
       },
       "coverage": {
-        "tickets": 1,
-        "of": 31
+        "tickets": 13,
+        "of": 43
       }
     },
     "fixCycles": {
       "value": {
         "perPullRequest": 0,
         "total": 0,
-        "pullRequests": 1,
+        "pullRequests": 6,
         "withFixCycles": []
       },
       "coverage": {
-        "tickets": 1,
-        "of": 31
+        "tickets": 13,
+        "of": 43
       }
     },
     "scheduledFailures": {
       "value": "unknown",
       "coverage": {
-        "tickets": 31,
-        "of": 31
+        "tickets": 43,
+        "of": 43
       }
     },
     "batchHealth": {
@@ -217,8 +511,8 @@
         ]
       },
       "coverage": {
-        "tickets": 31,
-        "of": 31
+        "tickets": 43,
+        "of": 43
       }
     },
     "regressionRate": {
@@ -230,8 +524,8 @@
         "perTicket": []
       },
       "coverage": {
-        "tickets": 31,
-        "of": 31
+        "tickets": 43,
+        "of": 43
       }
     },
     "humanMessagesPerTicket": {
@@ -239,6 +533,11 @@
         "p50": 0,
         "p90": 3,
         "mean": 0.5,
+        "orchestration": 0,
+        "sources": {
+          "transcripts": 6,
+          "records": 0
+        },
         "perTicket": [
           {
             "ticket": "#1",
@@ -268,14 +567,14 @@
       },
       "coverage": {
         "tickets": 6,
-        "of": 31
+        "of": 43
       }
     },
     "orchestrationTime": {
       "value": "unknown",
       "coverage": {
         "tickets": 6,
-        "of": 31
+        "of": 43
       }
     },
     "subAgents": {
@@ -354,7 +653,7 @@
       },
       "coverage": {
         "tickets": 6,
-        "of": 31
+        "of": 43
       }
     },
     "apiEquivalentCost": {
@@ -469,13 +768,13 @@
       },
       "coverage": {
         "tickets": 6,
-        "of": 31
+        "of": 43
       }
     },
     "autonomy": {
       "value": {
         "full": 4,
-        "assisted": 26,
+        "assisted": 38,
         "manual": 1,
         "overridden": 0,
         "perTicket": [
@@ -664,37 +963,169 @@
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
+          },
+          {
+            "ticket": "#38",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#40",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#41",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#42",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#39",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#44",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#45",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#46",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#47",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #49",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #37",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "PR #50",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
           }
         ]
       },
       "coverage": {
-        "tickets": 31,
-        "of": 31
+        "tickets": 43,
+        "of": 43
       }
     },
     "testRatio": {
       "value": {
-        "testLinesAdded": 0,
-        "productionLinesAdded": 42,
-        "ratio": 0,
+        "testLinesAdded": 1246,
+        "productionLinesAdded": 1458,
+        "ratio": 0.85,
         "tickets": [
           {
             "ticket": "PR #23",
             "testLinesAdded": 0,
             "productionLinesAdded": 42
+          },
+          {
+            "ticket": "#38",
+            "testLinesAdded": 483,
+            "productionLinesAdded": 371
+          },
+          {
+            "ticket": "#40",
+            "testLinesAdded": 483,
+            "productionLinesAdded": 371
+          },
+          {
+            "ticket": "#41",
+            "testLinesAdded": 483,
+            "productionLinesAdded": 371
+          },
+          {
+            "ticket": "#42",
+            "testLinesAdded": 483,
+            "productionLinesAdded": 371
+          },
+          {
+            "ticket": "#39",
+            "testLinesAdded": 635,
+            "productionLinesAdded": 915
+          },
+          {
+            "ticket": "#44",
+            "testLinesAdded": 635,
+            "productionLinesAdded": 915
+          },
+          {
+            "ticket": "#45",
+            "testLinesAdded": 635,
+            "productionLinesAdded": 915
+          },
+          {
+            "ticket": "#46",
+            "testLinesAdded": 635,
+            "productionLinesAdded": 915
+          },
+          {
+            "ticket": "#47",
+            "testLinesAdded": 635,
+            "productionLinesAdded": 915
+          },
+          {
+            "ticket": "PR #49",
+            "testLinesAdded": 128,
+            "productionLinesAdded": 120
+          },
+          {
+            "ticket": "PR #37",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 2
+          },
+          {
+            "ticket": "PR #50",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 8
           }
         ]
       },
       "coverage": {
-        "tickets": 1,
-        "of": 31
+        "tickets": 13,
+        "of": 43
       }
     },
     "netLinesRemoved": {
       "value": {
-        "linesAdded": 16873,
-        "linesDeleted": 937,
-        "netLinesRemoved": -15936,
+        "linesAdded": 19727,
+        "linesDeleted": 1079,
+        "netLinesRemoved": -18648,
         "ticketsNetRemoving": 1,
         "tickets": [
           {
@@ -841,18 +1272,78 @@
             "ticket": "#34",
             "linesAdded": 81,
             "linesDeleted": 8
+          },
+          {
+            "ticket": "#38",
+            "linesAdded": 966,
+            "linesDeleted": 109
+          },
+          {
+            "ticket": "#40",
+            "linesAdded": 966,
+            "linesDeleted": 109
+          },
+          {
+            "ticket": "#41",
+            "linesAdded": 966,
+            "linesDeleted": 109
+          },
+          {
+            "ticket": "#42",
+            "linesAdded": 966,
+            "linesDeleted": 109
+          },
+          {
+            "ticket": "#39",
+            "linesAdded": 1592,
+            "linesDeleted": 25
+          },
+          {
+            "ticket": "#44",
+            "linesAdded": 1592,
+            "linesDeleted": 25
+          },
+          {
+            "ticket": "#45",
+            "linesAdded": 1592,
+            "linesDeleted": 25
+          },
+          {
+            "ticket": "#46",
+            "linesAdded": 1592,
+            "linesDeleted": 25
+          },
+          {
+            "ticket": "#47",
+            "linesAdded": 1592,
+            "linesDeleted": 25
+          },
+          {
+            "ticket": "PR #49",
+            "linesAdded": 286,
+            "linesDeleted": 0
+          },
+          {
+            "ticket": "PR #37",
+            "linesAdded": 2,
+            "linesDeleted": 2
+          },
+          {
+            "ticket": "PR #50",
+            "linesAdded": 8,
+            "linesDeleted": 6
           }
         ]
       },
       "coverage": {
-        "tickets": 29,
-        "of": 31
+        "tickets": 41,
+        "of": 43
       }
     },
     "size": {
       "value": {
-        "p50DiffLines": 561,
-        "p50FilesTouched": 13,
+        "p50DiffLines": 634,
+        "p50FilesTouched": 14,
         "tickets": [
           {
             "ticket": "#2",
@@ -1027,19 +1518,91 @@
             "diffLines": 89,
             "filesTouched": 4,
             "subTickets": 0
+          },
+          {
+            "ticket": "#38",
+            "diffLines": 1075,
+            "filesTouched": 25,
+            "subTickets": 3
+          },
+          {
+            "ticket": "#40",
+            "diffLines": 1075,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#41",
+            "diffLines": 1075,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#42",
+            "diffLines": 1075,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#39",
+            "diffLines": 1617,
+            "filesTouched": 25,
+            "subTickets": 4
+          },
+          {
+            "ticket": "#44",
+            "diffLines": 1617,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#45",
+            "diffLines": 1617,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#46",
+            "diffLines": 1617,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#47",
+            "diffLines": 1617,
+            "filesTouched": 25,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #49",
+            "diffLines": 286,
+            "filesTouched": 4,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #37",
+            "diffLines": 4,
+            "filesTouched": 2,
+            "subTickets": 0
+          },
+          {
+            "ticket": "PR #50",
+            "diffLines": 14,
+            "filesTouched": 2,
+            "subTickets": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 29,
-        "of": 31
+        "tickets": 41,
+        "of": 43
       }
     },
     "estimateVsActual": {
       "value": "unknown",
       "coverage": {
         "tickets": 0,
-        "of": 31
+        "of": 43
       }
     }
   },
@@ -1047,25 +1610,43 @@
     "periods": [
       {
         "period": "2026-11",
-        "tickets": 31
+        "tickets": 43
       }
     ],
     "metrics": {
+      "activeTime": [
+        {
+          "value": 0.04,
+          "coverage": {
+            "tickets": 6,
+            "of": 43
+          }
+        }
+      ],
+      "estimatedActiveTime": [
+        {
+          "value": 0.2,
+          "coverage": {
+            "tickets": 13,
+            "of": 43
+          }
+        }
+      ],
       "leadTime": [
         {
           "value": 2.1,
           "coverage": {
-            "tickets": 30,
-            "of": 31
+            "tickets": 40,
+            "of": 43
           }
         }
       ],
       "throughput": [
         {
-          "value": 31,
+          "value": 43,
           "coverage": {
-            "tickets": 31,
-            "of": 31
+            "tickets": 43,
+            "of": 43
           }
         }
       ],
@@ -1073,8 +1654,8 @@
         {
           "value": 100,
           "coverage": {
-            "tickets": 1,
-            "of": 31
+            "tickets": 13,
+            "of": 43
           }
         }
       ],
@@ -1082,8 +1663,8 @@
         {
           "value": 0,
           "coverage": {
-            "tickets": 1,
-            "of": 31
+            "tickets": 13,
+            "of": 43
           }
         }
       ],
@@ -1091,8 +1672,8 @@
         {
           "value": "unknown",
           "coverage": {
-            "tickets": 31,
-            "of": 31
+            "tickets": 43,
+            "of": 43
           }
         }
       ],
@@ -1100,8 +1681,8 @@
         {
           "value": 100,
           "coverage": {
-            "tickets": 31,
-            "of": 31
+            "tickets": 43,
+            "of": 43
           }
         }
       ],
@@ -1109,8 +1690,8 @@
         {
           "value": 0,
           "coverage": {
-            "tickets": 31,
-            "of": 31
+            "tickets": 43,
+            "of": 43
           }
         }
       ],
@@ -1119,7 +1700,7 @@
           "value": 0,
           "coverage": {
             "tickets": 6,
-            "of": 31
+            "of": 43
           }
         }
       ],
@@ -1128,7 +1709,7 @@
           "value": "unknown",
           "coverage": {
             "tickets": 6,
-            "of": 31
+            "of": 43
           }
         }
       ],
@@ -1137,7 +1718,7 @@
           "value": 2,
           "coverage": {
             "tickets": 6,
-            "of": 31
+            "of": 43
           }
         }
       ],
@@ -1146,43 +1727,43 @@
           "value": 0.9104,
           "coverage": {
             "tickets": 6,
-            "of": 31
+            "of": 43
           }
         }
       ],
       "autonomy": [
         {
-          "value": 12.9,
+          "value": 9.3,
           "coverage": {
-            "tickets": 31,
-            "of": 31
+            "tickets": 43,
+            "of": 43
           }
         }
       ],
       "testRatio": [
         {
-          "value": 0,
+          "value": 0.85,
           "coverage": {
-            "tickets": 1,
-            "of": 31
+            "tickets": 13,
+            "of": 43
           }
         }
       ],
       "netLinesRemoved": [
         {
-          "value": -15936,
+          "value": -18648,
           "coverage": {
-            "tickets": 29,
-            "of": 31
+            "tickets": 41,
+            "of": 43
           }
         }
       ],
       "size": [
         {
-          "value": 561,
+          "value": 634,
           "coverage": {
-            "tickets": 29,
-            "of": 31
+            "tickets": 41,
+            "of": 43
           }
         }
       ],
@@ -1191,13 +1772,59 @@
           "value": "unknown",
           "coverage": {
             "tickets": 0,
-            "of": 31
+            "of": 43
           }
         }
       ]
     }
   },
   "byAutonomy": {
+    "activeTime": {
+      "full": {
+        "value": 0.04,
+        "coverage": {
+          "tickets": 4,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0.01,
+        "coverage": {
+          "tickets": 2,
+          "of": 38
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
+    "estimatedActiveTime": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 4
+        }
+      },
+      "assisted": {
+        "value": 0.2,
+        "coverage": {
+          "tickets": 13,
+          "of": 38
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      }
+    },
     "leadTime": {
       "full": {
         "value": 2.1,
@@ -1209,8 +1836,8 @@
       "assisted": {
         "value": 2.1,
         "coverage": {
-          "tickets": 25,
-          "of": 26
+          "tickets": 35,
+          "of": 38
         }
       },
       "manual": {
@@ -1230,10 +1857,10 @@
         }
       },
       "assisted": {
-        "value": 26,
+        "value": 38,
         "coverage": {
-          "tickets": 26,
-          "of": 26
+          "tickets": 38,
+          "of": 38
         }
       },
       "manual": {
@@ -1255,8 +1882,8 @@
       "assisted": {
         "value": 100,
         "coverage": {
-          "tickets": 1,
-          "of": 26
+          "tickets": 13,
+          "of": 38
         }
       },
       "manual": {
@@ -1278,8 +1905,8 @@
       "assisted": {
         "value": 0,
         "coverage": {
-          "tickets": 1,
-          "of": 26
+          "tickets": 13,
+          "of": 38
         }
       },
       "manual": {
@@ -1301,8 +1928,8 @@
       "assisted": {
         "value": 0,
         "coverage": {
-          "tickets": 26,
-          "of": 26
+          "tickets": 38,
+          "of": 38
         }
       },
       "manual": {
@@ -1325,7 +1952,7 @@
         "value": 0,
         "coverage": {
           "tickets": 2,
-          "of": 26
+          "of": 38
         }
       },
       "manual": {
@@ -1348,7 +1975,7 @@
         "value": 1,
         "coverage": {
           "tickets": 2,
-          "of": 26
+          "of": 38
         }
       },
       "manual": {
@@ -1371,7 +1998,7 @@
         "value": 0.2551,
         "coverage": {
           "tickets": 2,
-          "of": 26
+          "of": 38
         }
       },
       "manual": {
@@ -1391,10 +2018,10 @@
         }
       },
       "assisted": {
-        "value": 0,
+        "value": 0.85,
         "coverage": {
-          "tickets": 1,
-          "of": 26
+          "tickets": 13,
+          "of": 38
         }
       },
       "manual": {
@@ -1414,10 +2041,10 @@
         }
       },
       "assisted": {
-        "value": -13359,
+        "value": -16071,
         "coverage": {
-          "tickets": 25,
-          "of": 26
+          "tickets": 37,
+          "of": 38
         }
       },
       "manual": {
@@ -1437,10 +2064,10 @@
         }
       },
       "assisted": {
-        "value": 493,
+        "value": 642,
         "coverage": {
-          "tickets": 25,
-          "of": 26
+          "tickets": 37,
+          "of": 38
         }
       },
       "manual": {
@@ -1463,7 +2090,7 @@
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 26
+          "of": 38
         }
       },
       "manual": {
@@ -1662,14 +2289,91 @@
       "title": "Investigate Lifeline's 0 h lead times and the Oct 19 throughput spike",
       "url": "https://github.com/grimfeld/agentic-metrics/issues/34",
       "doneAt": "2026-11-10T00:03:31.000Z"
+    },
+    {
+      "id": "#38",
+      "title": "Spec: lead time phases and active time",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/38",
+      "doneAt": "2026-11-10T22:41:10.000Z"
+    },
+    {
+      "id": "#40",
+      "title": "Lead time: split into queue, work and landing wait",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/40",
+      "doneAt": "2026-11-10T22:41:10.000Z"
+    },
+    {
+      "id": "#41",
+      "title": "Active time: measured and estimated, as the headline",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/41",
+      "doneAt": "2026-11-10T22:41:10.000Z"
+    },
+    {
+      "id": "#42",
+      "title": "Estimate vs actual: compare the estimate with active time",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/42",
+      "doneAt": "2026-11-10T22:41:10.000Z"
+    },
+    {
+      "id": "#39",
+      "title": "Spec: session records in commit trailers",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/39",
+      "doneAt": "2026-11-10T23:04:03.000Z"
+    },
+    {
+      "id": "#44",
+      "title": "Session records: prototype the hook behaviour and record what it showed",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/44",
+      "doneAt": "2026-11-10T23:04:03.000Z"
+    },
+    {
+      "id": "#45",
+      "title": "Session records: the recorder hook",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/45",
+      "doneAt": "2026-11-10T23:04:03.000Z"
+    },
+    {
+      "id": "#46",
+      "title": "Session records: `init` installs the recorder",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/46",
+      "doneAt": "2026-11-10T23:04:03.000Z"
+    },
+    {
+      "id": "#47",
+      "title": "Session records: `collect` reads them",
+      "url": "https://github.com/grimfeld/agentic-metrics/issues/47",
+      "doneAt": "2026-11-10T23:04:03.000Z"
+    },
+    {
+      "id": "PR #49",
+      "title": "import-transcripts, and a guide to working on several devices",
+      "url": "https://github.com/grimfeld/agentic-metrics/pull/49",
+      "doneAt": "2026-11-10T23:14:49.000Z"
+    },
+    {
+      "id": "PR #37",
+      "title": "Read merged PRs 20 per page; clear dist before building",
+      "url": "https://github.com/grimfeld/agentic-metrics/pull/37",
+      "doneAt": "2026-11-10T23:48:30.000Z"
+    },
+    {
+      "id": "PR #50",
+      "title": "The recorder runs when its path goes through a symlink",
+      "url": "https://github.com/grimfeld/agentic-metrics/pull/50",
+      "doneAt": "2026-11-10T23:49:05.000Z"
     }
   ],
   "caseStudyCandidates": [
     {
       "ticket": "PR #23",
       "criteria": [
-        "largest ticket",
         "largest deletion"
+      ]
+    },
+    {
+      "ticket": "#39",
+      "criteria": [
+        "largest ticket"
       ]
     }
   ]

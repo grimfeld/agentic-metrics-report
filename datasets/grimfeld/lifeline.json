@@ -2,67 +2,285 @@
   "schemaVersion": 2,
   "repo": "grimfeld/lifeline",
   "publish": "full",
-  "generatedAt": "2026-11-10T00:18:01.385Z",
+  "generatedAt": "2026-11-10T23:56:52.273Z",
   "tickets": 308,
   "pullRequests": 147,
   "integrationPullRequests": 4,
   "metrics": {
-    "leadTime": {
+    "activeTime": {
       "value": {
-        "p50Hours": 10.3,
-        "p90Hours": 50,
+        "p50Hours": 2.61,
+        "p90Hours": 4.27,
+        "totalHours": 134.5,
         "tickets": [
           {
-            "ticket": "PR #6",
-            "hours": 0.2
+            "ticket": "PR #9",
+            "hours": 0.28
           },
           {
+            "ticket": "PR #80",
+            "hours": 1.77
+          },
+          {
+            "ticket": "PR #91",
+            "hours": 0.61
+          },
+          {
+            "ticket": "PR #193",
+            "hours": 0.55
+          },
+          {
+            "ticket": "PR #244",
+            "hours": 0.38
+          },
+          {
+            "ticket": "PR #230",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#196",
+            "hours": 0.6
+          },
+          {
+            "ticket": "#200",
+            "hours": 1.14
+          },
+          {
+            "ticket": "#201",
+            "hours": 6.73
+          },
+          {
+            "ticket": "#202",
+            "hours": 0.32
+          },
+          {
+            "ticket": "PR #203",
+            "hours": 0.84
+          },
+          {
+            "ticket": "PR #227",
+            "hours": 1.05
+          },
+          {
+            "ticket": "#231",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#232",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#233",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#234",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#235",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#236",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#237",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#238",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#239",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#240",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#241",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#242",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#243",
+            "hours": 3.29
+          },
+          {
+            "ticket": "#259",
+            "hours": 1.15
+          },
+          {
+            "ticket": "#260",
+            "hours": 1.15
+          },
+          {
+            "ticket": "#264",
+            "hours": 1.15
+          },
+          {
+            "ticket": "#267",
+            "hours": 1.15
+          },
+          {
+            "ticket": "#268",
+            "hours": 1.15
+          },
+          {
+            "ticket": "#269",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#300",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#307",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#308",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#309",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#310",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#311",
+            "hours": 2.61
+          },
+          {
+            "ticket": "#282",
+            "hours": 0.63
+          },
+          {
+            "ticket": "#273",
+            "hours": 0.63
+          },
+          {
+            "ticket": "#283",
+            "hours": 0.63
+          },
+          {
+            "ticket": "#306",
+            "hours": 0.63
+          },
+          {
+            "ticket": "#376",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#377",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#378",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#379",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#380",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#381",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#382",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#383",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#384",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#385",
+            "hours": 4.27
+          },
+          {
+            "ticket": "#386",
+            "hours": 4.27
+          },
+          {
+            "ticket": "PR #436",
+            "hours": 0.59
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 53,
+        "of": 308
+      }
+    },
+    "estimatedActiveTime": {
+      "value": {
+        "p50Hours": 1.06,
+        "p90Hours": 2.8,
+        "totalHours": 260,
+        "tickets": [
+          {
             "ticket": "PR #14",
-            "hours": 0.9
+            "hours": 0.42
           },
           {
             "ticket": "PR #15",
-            "hours": 0.3
+            "hours": 0.22
           },
           {
             "ticket": "PR #25",
-            "hours": 3.2
+            "hours": 1.14
           },
           {
             "ticket": "PR #26",
-            "hours": 34.4
+            "hours": 0.26
           },
           {
             "ticket": "PR #29",
-            "hours": 6.1
-          },
-          {
-            "ticket": "PR #28",
-            "hours": 31.1
+            "hours": 1.45
           },
           {
             "ticket": "PR #33",
-            "hours": 0.8
+            "hours": 0.62
           },
           {
             "ticket": "PR #35",
-            "hours": 0.4
+            "hours": 0.22
           },
           {
             "ticket": "PR #36",
-            "hours": 0.2
+            "hours": 0.14
           },
           {
             "ticket": "PR #49",
-            "hours": 1
+            "hours": 0.55
           },
           {
             "ticket": "PR #51",
-            "hours": 0.4
+            "hours": 0.24
           },
           {
             "ticket": "PR #56",
-            "hours": 0.1
+            "hours": 0.04
           },
           {
             "ticket": "PR #74",
@@ -70,907 +288,2394 @@
           },
           {
             "ticket": "PR #75",
-            "hours": 3.3
+            "hours": 1.13
           },
           {
             "ticket": "PR #78",
-            "hours": 1
+            "hours": 0.8
           },
           {
             "ticket": "PR #79",
-            "hours": 2.7
+            "hours": 2.44
           },
           {
             "ticket": "PR #81",
-            "hours": 0.4
+            "hours": 0.12
           },
           {
             "ticket": "PR #83",
-            "hours": 7.4
+            "hours": 0.19
           },
           {
             "ticket": "PR #84",
-            "hours": 7.4
+            "hours": 0.44
           },
           {
             "ticket": "PR #85",
-            "hours": 7.4
+            "hours": 0.73
           },
           {
             "ticket": "PR #86",
-            "hours": 7.4
+            "hours": 1.02
           },
           {
             "ticket": "PR #87",
-            "hours": 7.4
-          },
-          {
-            "ticket": "PR #88",
-            "hours": 7.4
-          },
-          {
-            "ticket": "PR #89",
-            "hours": 2.2
-          },
-          {
-            "ticket": "PR #90",
-            "hours": 7.9
-          },
-          {
-            "ticket": "PR #91",
-            "hours": 2.5
-          },
-          {
-            "ticket": "PR #94",
-            "hours": 0.4
-          },
-          {
-            "ticket": "#95",
-            "hours": 1.5
-          },
-          {
-            "ticket": "#96",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#97",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#98",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#99",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#100",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#101",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#102",
-            "hours": 1.4
-          },
-          {
-            "ticket": "#103",
-            "hours": 1.4
-          },
-          {
-            "ticket": "PR #127",
-            "hours": 0.5
-          },
-          {
-            "ticket": "#104",
-            "hours": 9.7
-          },
-          {
-            "ticket": "#105",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#106",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#107",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#108",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#109",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#110",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#111",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#112",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#113",
-            "hours": 9.6
-          },
-          {
-            "ticket": "#114",
-            "hours": 9.6
-          },
-          {
-            "ticket": "PR #72",
-            "hours": 381.2
-          },
-          {
-            "ticket": "PR #66",
-            "hours": 381.7
-          },
-          {
-            "ticket": "PR #64",
-            "hours": 382
-          },
-          {
-            "ticket": "PR #65",
-            "hours": 381.8
-          },
-          {
-            "ticket": "PR #69",
-            "hours": 381.7
-          },
-          {
-            "ticket": "PR #67",
-            "hours": 381.9
-          },
-          {
-            "ticket": "PR #68",
-            "hours": 381.9
-          },
-          {
-            "ticket": "PR #70",
-            "hours": 381.8
-          },
-          {
-            "ticket": "PR #71",
-            "hours": 382.1
-          },
-          {
-            "ticket": "#117",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#118",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#119",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#120",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#121",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#122",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#123",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#124",
-            "hours": 10.3
-          },
-          {
-            "ticket": "PR #148",
-            "hours": 0.6
-          },
-          {
-            "ticket": "#138",
-            "hours": 2.5
-          },
-          {
-            "ticket": "#139",
-            "hours": 2.4
-          },
-          {
-            "ticket": "#140",
-            "hours": 2.4
-          },
-          {
-            "ticket": "#141",
-            "hours": 2.4
-          },
-          {
-            "ticket": "#142",
-            "hours": 2.4
-          },
-          {
-            "ticket": "#128",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#129",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#130",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#131",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#132",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#133",
-            "hours": 10.4
-          },
-          {
-            "ticket": "#134",
-            "hours": 10.3
-          },
-          {
-            "ticket": "#135",
-            "hours": 10.3
-          },
-          {
-            "ticket": "PR #144",
-            "hours": 2.3
-          },
-          {
-            "ticket": "PR #145",
-            "hours": 2.1
-          },
-          {
-            "ticket": "PR #157",
-            "hours": 1.7
-          },
-          {
-            "ticket": "PR #154",
-            "hours": 4.7
-          },
-          {
-            "ticket": "PR #160",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#161",
-            "hours": 5.1
-          },
-          {
-            "ticket": "#162",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#163",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#164",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#165",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#166",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#167",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#168",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#169",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#170",
-            "hours": 4.9
-          },
-          {
-            "ticket": "#174",
-            "hours": 4.6
-          },
-          {
-            "ticket": "PR #192",
             "hours": 1.2
           },
           {
-            "ticket": "PR #244",
-            "hours": 3.8
+            "ticket": "PR #88",
+            "hours": 1.24
+          },
+          {
+            "ticket": "PR #89",
+            "hours": 1.57
+          },
+          {
+            "ticket": "PR #90",
+            "hours": 3.13
+          },
+          {
+            "ticket": "PR #94",
+            "hours": 0.32
+          },
+          {
+            "ticket": "#95",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#96",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#97",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#98",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#99",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#100",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#101",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#102",
+            "hours": 1.06
+          },
+          {
+            "ticket": "#103",
+            "hours": 1.06
+          },
+          {
+            "ticket": "PR #127",
+            "hours": 0.39
+          },
+          {
+            "ticket": "#104",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#105",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#106",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#107",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#108",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#109",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#110",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#111",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#112",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#113",
+            "hours": 2.8
+          },
+          {
+            "ticket": "#114",
+            "hours": 2.8
+          },
+          {
+            "ticket": "PR #66",
+            "hours": 0.11
+          },
+          {
+            "ticket": "PR #64",
+            "hours": 1.54
+          },
+          {
+            "ticket": "PR #65",
+            "hours": 0.11
+          },
+          {
+            "ticket": "PR #69",
+            "hours": 1.16
+          },
+          {
+            "ticket": "PR #67",
+            "hours": 0.73
+          },
+          {
+            "ticket": "PR #68",
+            "hours": 0.69
+          },
+          {
+            "ticket": "PR #70",
+            "hours": 0.69
+          },
+          {
+            "ticket": "PR #71",
+            "hours": 0.76
+          },
+          {
+            "ticket": "#117",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#118",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#119",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#120",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#121",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#122",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#123",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#124",
+            "hours": 1.91
+          },
+          {
+            "ticket": "#138",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#139",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#140",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#141",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#142",
+            "hours": 0.2
+          },
+          {
+            "ticket": "#128",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#129",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#130",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#131",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#132",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#133",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#134",
+            "hours": 0.75
+          },
+          {
+            "ticket": "#135",
+            "hours": 0.75
+          },
+          {
+            "ticket": "PR #157",
+            "hours": 0.79
+          },
+          {
+            "ticket": "PR #160",
+            "hours": 0.88
+          },
+          {
+            "ticket": "#161",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#162",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#163",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#164",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#165",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#166",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#167",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#168",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#169",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#170",
+            "hours": 1.62
+          },
+          {
+            "ticket": "#174",
+            "hours": 2.75
           },
           {
             "ticket": "PR #245",
-            "hours": 0.1
-          },
-          {
-            "ticket": "PR #230",
-            "hours": 4.9
+            "hours": 0.05
           },
           {
             "ticket": "#194",
-            "hours": 10.1
+            "hours": 2.36
           },
           {
             "ticket": "#195",
-            "hours": 9.9
-          },
-          {
-            "ticket": "#196",
-            "hours": 9.9
+            "hours": 2.36
           },
           {
             "ticket": "#197",
-            "hours": 9.9
+            "hours": 2.36
           },
           {
             "ticket": "#198",
-            "hours": 9.9
+            "hours": 2.36
           },
           {
             "ticket": "#199",
-            "hours": 9.9
-          },
-          {
-            "ticket": "#200",
-            "hours": 9.9
-          },
-          {
-            "ticket": "#201",
-            "hours": 9.9
-          },
-          {
-            "ticket": "#202",
-            "hours": 9.9
-          },
-          {
-            "ticket": "PR #203",
-            "hours": 9.5
+            "hours": 2.36
           },
           {
             "ticket": "#204",
-            "hours": 10.1
+            "hours": 2.26
           },
           {
             "ticket": "#205",
-            "hours": 10.1
+            "hours": 2.26
           },
           {
             "ticket": "#206",
-            "hours": 10.1
+            "hours": 2.26
           },
           {
             "ticket": "#207",
-            "hours": 10.1
+            "hours": 2.26
           },
           {
             "ticket": "#208",
-            "hours": 10.1
+            "hours": 2.26
           },
           {
             "ticket": "#210",
-            "hours": 9.8
+            "hours": 2.26
           },
           {
             "ticket": "#211",
-            "hours": 9.8
+            "hours": 2.26
           },
           {
             "ticket": "#212",
-            "hours": 9.8
+            "hours": 2.26
           },
           {
             "ticket": "#213",
-            "hours": 9.8
+            "hours": 2.26
           },
           {
             "ticket": "#215",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#218",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#216",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#219",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#220",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#225",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#222",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#221",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#226",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#223",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#224",
-            "hours": 10.2
+            "hours": 4.08
           },
           {
             "ticket": "#214",
-            "hours": 10.2
-          },
-          {
-            "ticket": "PR #227",
-            "hours": 9.3
-          },
-          {
-            "ticket": "#231",
-            "hours": 19
-          },
-          {
-            "ticket": "#232",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#233",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#234",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#235",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#236",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#237",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#238",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#239",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#240",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#241",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#242",
-            "hours": 18.6
-          },
-          {
-            "ticket": "#243",
-            "hours": 18.6
+            "hours": 4.08
           },
           {
             "ticket": "#337",
-            "hours": 0.6
+            "hours": 0.29
           },
           {
             "ticket": "#338",
-            "hours": 0.6
+            "hours": 0.29
           },
           {
             "ticket": "#339",
-            "hours": 0.6
+            "hours": 0.29
           },
           {
             "ticket": "#340",
-            "hours": 0.6
+            "hours": 0.29
           },
           {
             "ticket": "#341",
-            "hours": 0.6
+            "hours": 0.29
           },
           {
             "ticket": "#320",
-            "hours": 21.2
+            "hours": 0.27
           },
           {
             "ticket": "#321",
-            "hours": 21.2
+            "hours": 0.27
           },
           {
             "ticket": "#322",
-            "hours": 21.2
+            "hours": 0.27
           },
           {
             "ticket": "#323",
-            "hours": 21.2
+            "hours": 0.27
           },
           {
             "ticket": "#312",
-            "hours": 21.7
+            "hours": 0.5
           },
           {
             "ticket": "#313",
-            "hours": 21.7
+            "hours": 0.5
           },
           {
             "ticket": "#314",
-            "hours": 21.7
+            "hours": 0.5
           },
           {
             "ticket": "#315",
-            "hours": 21.7
+            "hours": 0.5
           },
           {
             "ticket": "#317",
-            "hours": 21.2
+            "hours": 0.5
           },
           {
             "ticket": "#301",
-            "hours": 23
+            "hours": 1.01
           },
           {
             "ticket": "#303",
-            "hours": 23
+            "hours": 1.01
           },
           {
             "ticket": "#319",
-            "hours": 21.2
+            "hours": 1.01
           },
           {
             "ticket": "#262",
-            "hours": 23
+            "hours": 1
           },
           {
             "ticket": "#265",
-            "hours": 23
+            "hours": 1
           },
           {
             "ticket": "#266",
-            "hours": 23
+            "hours": 1
           },
           {
             "ticket": "#280",
-            "hours": 23
+            "hours": 1
           },
           {
             "ticket": "#281",
-            "hours": 23
+            "hours": 1
           },
           {
             "ticket": "#316",
-            "hours": 21.2
-          },
-          {
-            "ticket": "#259",
-            "hours": 23
-          },
-          {
-            "ticket": "#260",
-            "hours": 23
-          },
-          {
-            "ticket": "#264",
-            "hours": 23
-          },
-          {
-            "ticket": "#267",
-            "hours": 23
-          },
-          {
-            "ticket": "#268",
-            "hours": 23
-          },
-          {
-            "ticket": "#269",
-            "hours": 46.8
-          },
-          {
-            "ticket": "#300",
-            "hours": 46.7
-          },
-          {
-            "ticket": "#307",
-            "hours": 46.7
-          },
-          {
-            "ticket": "#308",
-            "hours": 46.7
-          },
-          {
-            "ticket": "#309",
-            "hours": 46.7
-          },
-          {
-            "ticket": "#310",
-            "hours": 46.7
-          },
-          {
-            "ticket": "#311",
-            "hours": 46.7
-          },
-          {
-            "ticket": "#282",
-            "hours": 48.9
-          },
-          {
-            "ticket": "#273",
-            "hours": 48.9
-          },
-          {
-            "ticket": "#283",
-            "hours": 48.9
-          },
-          {
-            "ticket": "#306",
-            "hours": 48.9
+            "hours": 1
           },
           {
             "ticket": "#278",
-            "hours": 48.9
+            "hours": 1
           },
           {
             "ticket": "#279",
-            "hours": 48.9
+            "hours": 1
           },
           {
             "ticket": "#284",
-            "hours": 48.9
+            "hours": 1
           },
           {
             "ticket": "#293",
-            "hours": 48.9
+            "hours": 1
           },
           {
             "ticket": "#288",
-            "hours": 48.9
+            "hours": 0.78
           },
           {
             "ticket": "#289",
-            "hours": 48.9
+            "hours": 0.78
           },
           {
             "ticket": "#290",
-            "hours": 48.9
+            "hours": 0.78
           },
           {
             "ticket": "#295",
-            "hours": 48.9
+            "hours": 0.78
           },
           {
             "ticket": "#296",
-            "hours": 48.9
+            "hours": 0.78
           },
           {
             "ticket": "#299",
-            "hours": 48.9
+            "hours": 0.78
           },
           {
             "ticket": "#302",
-            "hours": 48.9
+            "hours": 1.1
           },
           {
             "ticket": "#305",
-            "hours": 48.9
+            "hours": 1.1
           },
           {
             "ticket": "#256",
-            "hours": 48.9
+            "hours": 0.81
           },
           {
             "ticket": "#258",
-            "hours": 48.9
+            "hours": 0.81
           },
           {
             "ticket": "#261",
-            "hours": 48.9
+            "hours": 0.81
           },
           {
             "ticket": "#263",
-            "hours": 48.9
+            "hours": 0.81
           },
           {
             "ticket": "#270",
-            "hours": 48.9
+            "hours": 0.81
           },
           {
             "ticket": "#271",
-            "hours": 48.9
+            "hours": 0.81
           },
           {
             "ticket": "#285",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#286",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#287",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#291",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#292",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#294",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#297",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#298",
-            "hours": 48.9
+            "hours": 1.28
           },
           {
             "ticket": "#253",
-            "hours": 52
+            "hours": 2.01
           },
           {
             "ticket": "#254",
-            "hours": 52
+            "hours": 2.01
           },
           {
             "ticket": "#255",
-            "hours": 52
+            "hours": 2.01
           },
           {
             "ticket": "#275",
-            "hours": 50
+            "hours": 2.01
           },
           {
             "ticket": "#276",
-            "hours": 50
+            "hours": 2.01
           },
           {
             "ticket": "#277",
-            "hours": 50
+            "hours": 2.01
           },
           {
             "ticket": "#352",
-            "hours": 12.1
+            "hours": 2.05
           },
           {
             "ticket": "#354",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#355",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#356",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#357",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#358",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#359",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#360",
-            "hours": 11.3
+            "hours": 2.05
           },
           {
             "ticket": "#363",
-            "hours": 1.3
+            "hours": 0.24
           },
           {
             "ticket": "#364",
-            "hours": 1.3
+            "hours": 0.24
           },
           {
             "ticket": "#365",
-            "hours": 1.3
+            "hours": 0.24
           },
           {
             "ticket": "#366",
-            "hours": 1.3
-          },
-          {
-            "ticket": "#376",
-            "hours": 114.8
-          },
-          {
-            "ticket": "#377",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#378",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#379",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#380",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#381",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#382",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#383",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#384",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#385",
-            "hours": 114.7
-          },
-          {
-            "ticket": "#386",
-            "hours": 114.7
+            "hours": 0.24
           },
           {
             "ticket": "PR #437",
-            "hours": 0.6
+            "hours": 0.02
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 183,
+        "of": 308
+      }
+    },
+    "leadTime": {
+      "value": {
+        "p50Hours": 10.3,
+        "p90Hours": 50,
+        "phases": {
+          "tickets": 240,
+          "queue": {
+            "p50Hours": 0.3,
+            "share": 0.022
+          },
+          "work": {
+            "p50Hours": 6.1,
+            "share": 0.598
+          },
+          "landing": {
+            "p50Hours": 2,
+            "share": 0.381
+          }
+        },
+        "tickets": [
+          {
+            "ticket": "PR #6",
+            "hours": 0.2,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #14",
+            "hours": 0.9,
+            "queueHours": 0,
+            "workHours": 0.4,
+            "landingHours": 0.5
+          },
+          {
+            "ticket": "PR #15",
+            "hours": 0.3,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0
+          },
+          {
+            "ticket": "PR #25",
+            "hours": 3.2,
+            "queueHours": 0,
+            "workHours": 2.3,
+            "landingHours": 1
+          },
+          {
+            "ticket": "PR #26",
+            "hours": 34.4,
+            "queueHours": 0,
+            "workHours": 0.3,
+            "landingHours": 34.2
+          },
+          {
+            "ticket": "PR #29",
+            "hours": 6.1,
+            "queueHours": 0,
+            "workHours": 6.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #28",
+            "hours": 31.1,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 31.1
+          },
+          {
+            "ticket": "PR #33",
+            "hours": 0.8,
+            "queueHours": 0,
+            "workHours": 0.6,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #35",
+            "hours": 0.4,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #36",
+            "hours": 0.2,
+            "queueHours": 0,
+            "workHours": 0.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #49",
+            "hours": 1,
+            "queueHours": 0,
+            "workHours": 0.5,
+            "landingHours": 0.5
+          },
+          {
+            "ticket": "PR #51",
+            "hours": 0.4,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #56",
+            "hours": 0.1,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 0
+          },
+          {
+            "ticket": "PR #74",
+            "hours": 0.4,
+            "queueHours": 0,
+            "workHours": 0.4,
+            "landingHours": 0
+          },
+          {
+            "ticket": "PR #75",
+            "hours": 3.3,
+            "queueHours": 0,
+            "workHours": 3.3,
+            "landingHours": 0
+          },
+          {
+            "ticket": "PR #78",
+            "hours": 1,
+            "queueHours": 0,
+            "workHours": 0.9,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #79",
+            "hours": 2.7,
+            "queueHours": 0,
+            "workHours": 2.7,
+            "landingHours": 0
+          },
+          {
+            "ticket": "PR #81",
+            "hours": 0.4,
+            "queueHours": 0,
+            "workHours": 0.1,
+            "landingHours": 0.3
+          },
+          {
+            "ticket": "PR #83",
+            "hours": 7.4,
+            "queueHours": 0,
+            "workHours": 0.2,
+            "landingHours": 7.2
+          },
+          {
+            "ticket": "PR #84",
+            "hours": 7.4,
+            "queueHours": 0,
+            "workHours": 0.4,
+            "landingHours": 7
+          },
+          {
+            "ticket": "PR #85",
+            "hours": 7.4,
+            "queueHours": 0,
+            "workHours": 0.7,
+            "landingHours": 6.7
+          },
+          {
+            "ticket": "PR #86",
+            "hours": 7.4,
+            "queueHours": 0,
+            "workHours": 1,
+            "landingHours": 6.4
+          },
+          {
+            "ticket": "PR #87",
+            "hours": 7.4,
+            "queueHours": 0,
+            "workHours": 1.2,
+            "landingHours": 6.2
+          },
+          {
+            "ticket": "PR #88",
+            "hours": 7.4,
+            "queueHours": 0,
+            "workHours": 1.2,
+            "landingHours": 6.2
+          },
+          {
+            "ticket": "PR #89",
+            "hours": 2.2,
+            "queueHours": 0,
+            "workHours": 2,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #90",
+            "hours": 7.9,
+            "queueHours": 0,
+            "workHours": 7.5,
+            "landingHours": 0.4
+          },
+          {
+            "ticket": "PR #91",
+            "hours": 2.5,
+            "queueHours": 0,
+            "workHours": 2.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "PR #94",
+            "hours": 0.4,
+            "queueHours": 0,
+            "workHours": 0.3,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#95",
+            "hours": 1.5,
+            "queueHours": 0.3,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#96",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#97",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#98",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#99",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#100",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#101",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#102",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#103",
+            "hours": 1.4,
+            "queueHours": 0.2,
+            "workHours": 1.1,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #127",
+            "hours": 0.5,
+            "queueHours": 0,
+            "workHours": 0.4,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#104",
+            "hours": 9.7,
+            "queueHours": 0.1,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#105",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#106",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#107",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#108",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#109",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#110",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#111",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#112",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#113",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "#114",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 3.7,
+            "landingHours": 5.8
+          },
+          {
+            "ticket": "PR #72",
+            "hours": 381.2,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 381.2
+          },
+          {
+            "ticket": "PR #66",
+            "hours": 381.7,
+            "queueHours": 0,
+            "workHours": 0.1,
+            "landingHours": 381.6
+          },
+          {
+            "ticket": "PR #64",
+            "hours": 382,
+            "queueHours": 0,
+            "workHours": 381.7,
+            "landingHours": 0.3
+          },
+          {
+            "ticket": "PR #65",
+            "hours": 381.8,
+            "queueHours": 0,
+            "workHours": 0.1,
+            "landingHours": 381.7
+          },
+          {
+            "ticket": "PR #69",
+            "hours": 381.7,
+            "queueHours": 0,
+            "workHours": 381.6,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #67",
+            "hours": 381.9,
+            "queueHours": 0,
+            "workHours": 381.7,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #68",
+            "hours": 381.9,
+            "queueHours": 0,
+            "workHours": 381.6,
+            "landingHours": 0.3
+          },
+          {
+            "ticket": "PR #70",
+            "hours": 381.8,
+            "queueHours": 0,
+            "workHours": 381.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #71",
+            "hours": 382.1,
+            "queueHours": 0,
+            "workHours": 381.7,
+            "landingHours": 0.4
+          },
+          {
+            "ticket": "#117",
+            "hours": 10.4,
+            "queueHours": 0.8,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#118",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#119",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#120",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#121",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#122",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#123",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#124",
+            "hours": 10.3,
+            "queueHours": 0.6,
+            "workHours": 8.8,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "PR #148",
+            "hours": 0.6,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 0.6
+          },
+          {
+            "ticket": "#138",
+            "hours": 2.5,
+            "queueHours": 0.5,
+            "workHours": 0.2,
+            "landingHours": 1.8
+          },
+          {
+            "ticket": "#139",
+            "hours": 2.4,
+            "queueHours": 0.5,
+            "workHours": 0.2,
+            "landingHours": 1.8
+          },
+          {
+            "ticket": "#140",
+            "hours": 2.4,
+            "queueHours": 0.5,
+            "workHours": 0.2,
+            "landingHours": 1.8
+          },
+          {
+            "ticket": "#141",
+            "hours": 2.4,
+            "queueHours": 0.5,
+            "workHours": 0.2,
+            "landingHours": 1.8
+          },
+          {
+            "ticket": "#142",
+            "hours": 2.4,
+            "queueHours": 0.5,
+            "workHours": 0.2,
+            "landingHours": 1.8
+          },
+          {
+            "ticket": "#128",
+            "hours": 10.4,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#129",
+            "hours": 10.4,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#130",
+            "hours": 10.4,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#131",
+            "hours": 10.4,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#132",
+            "hours": 10.4,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#133",
+            "hours": 10.4,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#134",
+            "hours": 10.3,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "#135",
+            "hours": 10.3,
+            "queueHours": 0.3,
+            "workHours": 0.7,
+            "landingHours": 9.3
+          },
+          {
+            "ticket": "PR #144",
+            "hours": 2.3,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 2.3
+          },
+          {
+            "ticket": "PR #145",
+            "hours": 2.1,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 2.1
+          },
+          {
+            "ticket": "PR #157",
+            "hours": 1.7,
+            "queueHours": 0,
+            "workHours": 1.1,
+            "landingHours": 0.6
+          },
+          {
+            "ticket": "PR #154",
+            "hours": 4.7,
+            "queueHours": 3.5,
+            "workHours": 0,
+            "landingHours": 1.1
+          },
+          {
+            "ticket": "PR #160",
+            "hours": 4.9,
+            "queueHours": 0,
+            "workHours": 4.4,
+            "landingHours": 0.5
+          },
+          {
+            "ticket": "#161",
+            "hours": 5.1,
+            "queueHours": 0.7,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#162",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#163",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#164",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#165",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#166",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#167",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#168",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#169",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#170",
+            "hours": 4.9,
+            "queueHours": 0.5,
+            "workHours": 1.6,
+            "landingHours": 2.7
+          },
+          {
+            "ticket": "#174",
+            "hours": 4.6,
+            "queueHours": 0.2,
+            "workHours": 2.9,
+            "landingHours": 1.6
+          },
+          {
+            "ticket": "PR #192",
+            "hours": 1.2,
+            "queueHours": 1,
+            "workHours": 0,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "PR #244",
+            "hours": 3.8,
+            "queueHours": 0,
+            "workHours": 1.1,
+            "landingHours": 2.6
+          },
+          {
+            "ticket": "PR #245",
+            "hours": 0.1,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "PR #230",
+            "hours": 4.9,
+            "queueHours": 0,
+            "workHours": 0.5,
+            "landingHours": 4.4
+          },
+          {
+            "ticket": "#194",
+            "hours": 10.1,
+            "queueHours": 0.8,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#195",
+            "hours": 9.9,
+            "queueHours": 0.7,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#196",
+            "hours": 9.9,
+            "queueHours": 0.7,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#197",
+            "hours": 9.9,
+            "queueHours": 0.7,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#198",
+            "hours": 9.9,
+            "queueHours": 0.7,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#199",
+            "hours": 9.9,
+            "queueHours": 0.7,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#200",
+            "hours": 9.9,
+            "queueHours": 0.7,
+            "workHours": 8.5,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#201",
+            "hours": 9.9,
+            "queueHours": 0,
+            "workHours": 9.9,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#202",
+            "hours": 9.9,
+            "queueHours": 0.3,
+            "workHours": 8.9,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "PR #203",
+            "hours": 9.5,
+            "queueHours": 0,
+            "workHours": 0.3,
+            "landingHours": 9.2
+          },
+          {
+            "ticket": "#204",
+            "hours": 10.1,
+            "queueHours": 1.7,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#205",
+            "hours": 10.1,
+            "queueHours": 1.7,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#206",
+            "hours": 10.1,
+            "queueHours": 1.7,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#207",
+            "hours": 10.1,
+            "queueHours": 1.7,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#208",
+            "hours": 10.1,
+            "queueHours": 1.7,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#210",
+            "hours": 9.8,
+            "queueHours": 1.5,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#211",
+            "hours": 9.8,
+            "queueHours": 1.5,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#212",
+            "hours": 9.8,
+            "queueHours": 1.5,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#213",
+            "hours": 9.8,
+            "queueHours": 1.5,
+            "workHours": 7.1,
+            "landingHours": 1.2
+          },
+          {
+            "ticket": "#215",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#218",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#216",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#219",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#220",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#225",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#222",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#221",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#226",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#223",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#224",
+            "hours": 10.2,
+            "queueHours": 1.3,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "#214",
+            "hours": 10.2,
+            "queueHours": 1.4,
+            "workHours": 6.1,
+            "landingHours": 2.8
+          },
+          {
+            "ticket": "PR #227",
+            "hours": 9.3,
+            "queueHours": 0,
+            "workHours": 8.9,
+            "landingHours": 0.3
+          },
+          {
+            "ticket": "#231",
+            "hours": 19,
+            "queueHours": 0,
+            "workHours": 19,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#232",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#233",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#234",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#235",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#236",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#237",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#238",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#239",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#240",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#241",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#242",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#243",
+            "hours": 18.6,
+            "queueHours": 0,
+            "workHours": 18.6,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#337",
+            "hours": 0.6,
+            "queueHours": 0.2,
+            "workHours": 0.3,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#338",
+            "hours": 0.6,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#339",
+            "hours": 0.6,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#340",
+            "hours": 0.6,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#341",
+            "hours": 0.6,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#320",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 20.9
+          },
+          {
+            "ticket": "#321",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 20.9
+          },
+          {
+            "ticket": "#322",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 20.9
+          },
+          {
+            "ticket": "#323",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 0.3,
+            "landingHours": 20.9
+          },
+          {
+            "ticket": "#312",
+            "hours": 21.7,
+            "queueHours": 0.5,
+            "workHours": 1.3,
+            "landingHours": 19.9
+          },
+          {
+            "ticket": "#313",
+            "hours": 21.7,
+            "queueHours": 0.5,
+            "workHours": 1.3,
+            "landingHours": 19.9
+          },
+          {
+            "ticket": "#314",
+            "hours": 21.7,
+            "queueHours": 0.5,
+            "workHours": 1.3,
+            "landingHours": 19.9
+          },
+          {
+            "ticket": "#315",
+            "hours": 21.7,
+            "queueHours": 0.5,
+            "workHours": 1.3,
+            "landingHours": 19.9
+          },
+          {
+            "ticket": "#317",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 1.3,
+            "landingHours": 19.9
+          },
+          {
+            "ticket": "#301",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.7,
+            "landingHours": 18.5
+          },
+          {
+            "ticket": "#303",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.7,
+            "landingHours": 18.5
+          },
+          {
+            "ticket": "#319",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 2.7,
+            "landingHours": 18.5
+          },
+          {
+            "ticket": "#262",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.9,
+            "landingHours": 18.3
+          },
+          {
+            "ticket": "#265",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.9,
+            "landingHours": 18.3
+          },
+          {
+            "ticket": "#266",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.9,
+            "landingHours": 18.3
+          },
+          {
+            "ticket": "#280",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.9,
+            "landingHours": 18.3
+          },
+          {
+            "ticket": "#281",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 2.9,
+            "landingHours": 18.3
+          },
+          {
+            "ticket": "#316",
+            "hours": 21.2,
+            "queueHours": 0.1,
+            "workHours": 2.9,
+            "landingHours": 18.3
+          },
+          {
+            "ticket": "#259",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 4,
+            "landingHours": 17.2
+          },
+          {
+            "ticket": "#260",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 4,
+            "landingHours": 17.2
+          },
+          {
+            "ticket": "#264",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 4,
+            "landingHours": 17.2
+          },
+          {
+            "ticket": "#267",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 4,
+            "landingHours": 17.2
+          },
+          {
+            "ticket": "#268",
+            "hours": 23,
+            "queueHours": 1.9,
+            "workHours": 4,
+            "landingHours": 17.2
+          },
+          {
+            "ticket": "#269",
+            "hours": 46.8,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#300",
+            "hours": 46.7,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#307",
+            "hours": 46.7,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#308",
+            "hours": 46.7,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#309",
+            "hours": 46.7,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#310",
+            "hours": 46.7,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#311",
+            "hours": 46.7,
+            "queueHours": 1.9,
+            "workHours": 44.7,
+            "landingHours": 0.2
+          },
+          {
+            "ticket": "#282",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#273",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#283",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#306",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#278",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#279",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#284",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#293",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#288",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 23.4,
+            "landingHours": 23.6
+          },
+          {
+            "ticket": "#289",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 23.4,
+            "landingHours": 23.6
+          },
+          {
+            "ticket": "#290",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 23.4,
+            "landingHours": 23.6
+          },
+          {
+            "ticket": "#295",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 23.4,
+            "landingHours": 23.6
+          },
+          {
+            "ticket": "#296",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 23.4,
+            "landingHours": 23.6
+          },
+          {
+            "ticket": "#299",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 23.4,
+            "landingHours": 23.6
+          },
+          {
+            "ticket": "#302",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#305",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 45,
+            "landingHours": 2
+          },
+          {
+            "ticket": "#256",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 32.9,
+            "landingHours": 14
+          },
+          {
+            "ticket": "#258",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 32.9,
+            "landingHours": 14
+          },
+          {
+            "ticket": "#261",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 32.9,
+            "landingHours": 14
+          },
+          {
+            "ticket": "#263",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 32.9,
+            "landingHours": 14
+          },
+          {
+            "ticket": "#270",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 32.9,
+            "landingHours": 14
+          },
+          {
+            "ticket": "#271",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 32.9,
+            "landingHours": 14
+          },
+          {
+            "ticket": "#285",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#286",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#287",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#291",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#292",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#294",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#297",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#298",
+            "hours": 48.9,
+            "queueHours": 1.9,
+            "workHours": 24.3,
+            "landingHours": 22.7
+          },
+          {
+            "ticket": "#253",
+            "hours": 52,
+            "queueHours": 4,
+            "workHours": 47.4,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#254",
+            "hours": 52,
+            "queueHours": 4,
+            "workHours": 47.4,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#255",
+            "hours": 52,
+            "queueHours": 4,
+            "workHours": 47.4,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#275",
+            "hours": 50,
+            "queueHours": 1.9,
+            "workHours": 47.4,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#276",
+            "hours": 50,
+            "queueHours": 1.9,
+            "workHours": 47.4,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#277",
+            "hours": 50,
+            "queueHours": 1.9,
+            "workHours": 47.4,
+            "landingHours": 0.7
+          },
+          {
+            "ticket": "#352",
+            "hours": 12.1,
+            "queueHours": 2.1,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#354",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#355",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#356",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#357",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#358",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#359",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#360",
+            "hours": 11.3,
+            "queueHours": 1.3,
+            "workHours": 8.1,
+            "landingHours": 1.9
+          },
+          {
+            "ticket": "#363",
+            "hours": 1.3,
+            "queueHours": 0.2,
+            "workHours": 0.2,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#364",
+            "hours": 1.3,
+            "queueHours": 0.2,
+            "workHours": 0.2,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#365",
+            "hours": 1.3,
+            "queueHours": 0.2,
+            "workHours": 0.2,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#366",
+            "hours": 1.3,
+            "queueHours": 0.2,
+            "workHours": 0.2,
+            "landingHours": 0.9
+          },
+          {
+            "ticket": "#376",
+            "hours": 114.8,
+            "queueHours": 0,
+            "workHours": 39.2,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#377",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#378",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#379",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#380",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#381",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#382",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#383",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#384",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#385",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "#386",
+            "hours": 114.7,
+            "queueHours": 0,
+            "workHours": 39.1,
+            "landingHours": 75.6
+          },
+          {
+            "ticket": "PR #437",
+            "hours": 0.6,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 0.6
           }
         ]
       },
@@ -1370,13 +3075,13 @@
     },
     "scheduledFailures": {
       "value": {
-        "failed": 13,
-        "runs": 21,
+        "failed": 14,
+        "runs": 22,
         "workflows": [
           {
             "workflow": ".github/workflows/e2e.yml",
-            "failed": 13,
-            "runs": 21
+            "failed": 14,
+            "runs": 22
           }
         ]
       },
@@ -1446,6 +3151,11 @@
         "p50": 6,
         "p90": 11,
         "mean": 6.4,
+        "orchestration": 46,
+        "sources": {
+          "transcripts": 53,
+          "records": 0
+        },
         "perTicket": [
           {
             "ticket": "PR #9",
@@ -10310,6 +12020,66 @@
       }
     ],
     "metrics": {
+      "activeTime": [
+        {
+          "value": 0.28,
+          "coverage": {
+            "tickets": 1,
+            "of": 22
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 21
+          }
+        },
+        {
+          "value": 2.61,
+          "coverage": {
+            "tickets": 40,
+            "of": 251
+          }
+        },
+        {
+          "value": 4.27,
+          "coverage": {
+            "tickets": 12,
+            "of": 14
+          }
+        }
+      ],
+      "estimatedActiveTime": [
+        {
+          "value": 0.22,
+          "coverage": {
+            "tickets": 2,
+            "of": 22
+          }
+        },
+        {
+          "value": 0.26,
+          "coverage": {
+            "tickets": 8,
+            "of": 21
+          }
+        },
+        {
+          "value": 1.1,
+          "coverage": {
+            "tickets": 172,
+            "of": 251
+          }
+        },
+        {
+          "value": 0.02,
+          "coverage": {
+            "tickets": 1,
+            "of": 14
+          }
+        }
+      ],
       "leadTime": [
         {
           "value": 0.3,
@@ -10793,6 +12563,52 @@
     }
   },
   "byAutonomy": {
+    "activeTime": {
+      "full": {
+        "value": 0.63,
+        "coverage": {
+          "tickets": 7,
+          "of": 7
+        }
+      },
+      "assisted": {
+        "value": 3.29,
+        "coverage": {
+          "tickets": 46,
+          "of": 296
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 5
+        }
+      }
+    },
+    "estimatedActiveTime": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 7
+        }
+      },
+      "assisted": {
+        "value": 1.06,
+        "coverage": {
+          "tickets": 183,
+          "of": 296
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 5
+        }
+      }
+    },
     "leadTime": {
       "full": {
         "value": 48.9,
