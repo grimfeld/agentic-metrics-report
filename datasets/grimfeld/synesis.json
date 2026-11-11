@@ -2,317 +2,872 @@
   "schemaVersion": 2,
   "repo": "grimfeld/synesis",
   "publish": "full",
-  "generatedAt": "2026-11-10T13:09:49.033Z",
-  "tickets": 94,
-  "pullRequests": 45,
-  "integrationPullRequests": 2,
+  "generatedAt": "2026-11-11T09:42:05.518Z",
+  "tickets": 95,
+  "pullRequests": 47,
+  "integrationPullRequests": 1,
   "metrics": {
+    "activeTime": {
+      "value": {
+        "p50Hours": 3.13,
+        "p90Hours": 3.13,
+        "totalHours": 25.4,
+        "tickets": [
+          {
+            "ticket": "#136",
+            "hours": 0.33
+          },
+          {
+            "ticket": "#120",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#121",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#122",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#123",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#124",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#125",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#126",
+            "hours": 3.13
+          },
+          {
+            "ticket": "#127",
+            "hours": 3.13
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 9,
+        "of": 95
+      }
+    },
+    "estimatedActiveTime": {
+      "value": {
+        "p50Hours": 0.97,
+        "p90Hours": 4.24,
+        "totalHours": 96,
+        "tickets": [
+          {
+            "ticket": "PR #4",
+            "hours": 0.61
+          },
+          {
+            "ticket": "PR #5",
+            "hours": 0.5
+          },
+          {
+            "ticket": "PR #6",
+            "hours": 1.14
+          },
+          {
+            "ticket": "PR #8",
+            "hours": 0.57
+          },
+          {
+            "ticket": "PR #10",
+            "hours": 1.84
+          },
+          {
+            "ticket": "PR #11",
+            "hours": 0.5
+          },
+          {
+            "ticket": "PR #13",
+            "hours": 0.5
+          },
+          {
+            "ticket": "PR #20",
+            "hours": 1.29
+          },
+          {
+            "ticket": "PR #19",
+            "hours": 0.5
+          },
+          {
+            "ticket": "PR #25",
+            "hours": 1
+          },
+          {
+            "ticket": "PR #30",
+            "hours": 1.18
+          },
+          {
+            "ticket": "PR #29",
+            "hours": 0
+          },
+          {
+            "ticket": "#32",
+            "hours": 2.03
+          },
+          {
+            "ticket": "#36",
+            "hours": 2.03
+          },
+          {
+            "ticket": "#37",
+            "hours": 2.03
+          },
+          {
+            "ticket": "#38",
+            "hours": 2.03
+          },
+          {
+            "ticket": "#34",
+            "hours": 3.92
+          },
+          {
+            "ticket": "#41",
+            "hours": 3.92
+          },
+          {
+            "ticket": "#42",
+            "hours": 3.92
+          },
+          {
+            "ticket": "#43",
+            "hours": 3.92
+          },
+          {
+            "ticket": "#44",
+            "hours": 3.92
+          },
+          {
+            "ticket": "#45",
+            "hours": 5.01
+          },
+          {
+            "ticket": "#46",
+            "hours": 3.92
+          },
+          {
+            "ticket": "#47",
+            "hours": 5.01
+          },
+          {
+            "ticket": "#35",
+            "hours": 4.24
+          },
+          {
+            "ticket": "#48",
+            "hours": 4.24
+          },
+          {
+            "ticket": "#49",
+            "hours": 4.24
+          },
+          {
+            "ticket": "#50",
+            "hours": 4.66
+          },
+          {
+            "ticket": "#51",
+            "hours": 4.24
+          },
+          {
+            "ticket": "#33",
+            "hours": 1.86
+          },
+          {
+            "ticket": "#39",
+            "hours": 1.86
+          },
+          {
+            "ticket": "#40",
+            "hours": 1.86
+          },
+          {
+            "ticket": "#65",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#66",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#70",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#82",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#85",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#89",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#90",
+            "hours": 0.01
+          },
+          {
+            "ticket": "#83",
+            "hours": 1.41
+          },
+          {
+            "ticket": "#84",
+            "hours": 1.41
+          },
+          {
+            "ticket": "#59",
+            "hours": 0.43
+          },
+          {
+            "ticket": "#63",
+            "hours": 0.43
+          },
+          {
+            "ticket": "#86",
+            "hours": 0.43
+          },
+          {
+            "ticket": "#87",
+            "hours": 0.43
+          },
+          {
+            "ticket": "#91",
+            "hours": 0.43
+          },
+          {
+            "ticket": "#61",
+            "hours": 0.4
+          },
+          {
+            "ticket": "#62",
+            "hours": 0.4
+          },
+          {
+            "ticket": "#64",
+            "hours": 0.4
+          },
+          {
+            "ticket": "#71",
+            "hours": 0.4
+          },
+          {
+            "ticket": "#72",
+            "hours": 0.4
+          },
+          {
+            "ticket": "#57",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#73",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#74",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#75",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#76",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#78",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#88",
+            "hours": 0.97
+          },
+          {
+            "ticket": "#60",
+            "hours": 0.62
+          },
+          {
+            "ticket": "#67",
+            "hours": 0.62
+          },
+          {
+            "ticket": "#68",
+            "hours": 0.62
+          },
+          {
+            "ticket": "#77",
+            "hours": 0.62
+          },
+          {
+            "ticket": "#92",
+            "hours": 0.62
+          },
+          {
+            "ticket": "#93",
+            "hours": 0.62
+          }
+        ]
+      },
+      "coverage": {
+        "tickets": 64,
+        "of": 95
+      }
+    },
     "leadTime": {
       "value": {
         "p50Hours": 35.3,
         "p90Hours": 136.5,
+        "phases": {
+          "tickets": 74,
+          "queue": {
+            "p50Hours": 0.1,
+            "share": 0.02
+          },
+          "work": {
+            "p50Hours": 5.5,
+            "share": 0.681
+          },
+          "landing": {
+            "p50Hours": 19.7,
+            "share": 0.299
+          }
+        },
         "tickets": [
           {
             "ticket": "PR #4",
-            "hours": 10
+            "hours": 10,
+            "queueHours": 0,
+            "workHours": 1.1,
+            "landingHours": 8.9
           },
           {
             "ticket": "PR #5",
-            "hours": 5.8
+            "hours": 5.8,
+            "queueHours": 0,
+            "workHours": 5.5,
+            "landingHours": 0.3
           },
           {
             "ticket": "PR #6",
-            "hours": 1.8
+            "hours": 1.8,
+            "queueHours": 0,
+            "workHours": 1.1,
+            "landingHours": 0.6
           },
           {
             "ticket": "PR #8",
-            "hours": 2.1
+            "hours": 2.1,
+            "queueHours": 0,
+            "workHours": 0.9,
+            "landingHours": 1.2
           },
           {
             "ticket": "PR #10",
-            "hours": 2.3
+            "hours": 2.3,
+            "queueHours": 0,
+            "workHours": 1.8,
+            "landingHours": 0.4
           },
           {
             "ticket": "PR #11",
-            "hours": 0.6
+            "hours": 0.6,
+            "queueHours": 0,
+            "workHours": 0.5,
+            "landingHours": 0.1
           },
           {
             "ticket": "PR #13",
-            "hours": 1.9
+            "hours": 1.9,
+            "queueHours": 0,
+            "workHours": 1.8,
+            "landingHours": 0.1
           },
           {
             "ticket": "PR #20",
-            "hours": 2.6
+            "hours": 2.6,
+            "queueHours": 0,
+            "workHours": 1.3,
+            "landingHours": 1.3
           },
           {
             "ticket": "PR #19",
-            "hours": 377.2
+            "hours": 377.2,
+            "queueHours": 0,
+            "workHours": 376.2,
+            "landingHours": 1
           },
           {
             "ticket": "PR #25",
-            "hours": 1.1
+            "hours": 1.1,
+            "queueHours": 0,
+            "workHours": 1,
+            "landingHours": 0.1
           },
           {
             "ticket": "PR #30",
-            "hours": 31.9
+            "hours": 31.9,
+            "queueHours": 0,
+            "workHours": 1.2,
+            "landingHours": 30.7
           },
           {
             "ticket": "PR #29",
-            "hours": 232.2
+            "hours": 232.2,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 232.2
           },
           {
             "ticket": "#81",
-            "hours": 0.1
+            "hours": 0.1,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 0.1
           },
           {
             "ticket": "#32",
-            "hours": 136.6
+            "hours": 136.6,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#36",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#37",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#38",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#34",
-            "hours": 136.6
+            "hours": 136.6,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#41",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#42",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#43",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#44",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#45",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#46",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#47",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.9,
+            "landingHours": 19.5
           },
           {
             "ticket": "#35",
-            "hours": 136.6
+            "hours": 136.6,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#48",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#49",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#50",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#51",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0,
+            "workHours": 116.8,
+            "landingHours": 19.7
           },
           {
             "ticket": "#33",
-            "hours": 136.6
+            "hours": 136.6,
+            "queueHours": 0.1,
+            "workHours": 116.4,
+            "landingHours": 20
           },
           {
             "ticket": "#39",
-            "hours": 136.5
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.4,
+            "landingHours": 20
           },
           {
             "ticket": "#40",
-            "hours": 136.5
-          },
-          {
-            "ticket": "#89",
-            "hours": 34.1
+            "hours": 136.5,
+            "queueHours": 0.1,
+            "workHours": 116.4,
+            "landingHours": 20
           },
           {
             "ticket": "#65",
-            "hours": 34.5
-          },
-          {
-            "ticket": "#85",
-            "hours": 34.1
-          },
-          {
-            "ticket": "#70",
-            "hours": 34.5
-          },
-          {
-            "ticket": "#90",
-            "hours": 34.1
-          },
-          {
-            "ticket": "#82",
-            "hours": 34.1
+            "hours": 34.5,
+            "queueHours": 2.8,
+            "workHours": 0,
+            "landingHours": 31.7
           },
           {
             "ticket": "#66",
-            "hours": 34.5
+            "hours": 34.5,
+            "queueHours": 2.8,
+            "workHours": 0,
+            "landingHours": 31.7
+          },
+          {
+            "ticket": "#70",
+            "hours": 34.5,
+            "queueHours": 2.8,
+            "workHours": 0,
+            "landingHours": 31.7
+          },
+          {
+            "ticket": "#82",
+            "hours": 34.1,
+            "queueHours": 2.4,
+            "workHours": 0,
+            "landingHours": 31.7
+          },
+          {
+            "ticket": "#85",
+            "hours": 34.1,
+            "queueHours": 2.4,
+            "workHours": 0,
+            "landingHours": 31.7
+          },
+          {
+            "ticket": "#89",
+            "hours": 34.1,
+            "queueHours": 2.4,
+            "workHours": 0,
+            "landingHours": 31.7
+          },
+          {
+            "ticket": "#90",
+            "hours": 34.1,
+            "queueHours": 2.4,
+            "workHours": 0,
+            "landingHours": 31.7
           },
           {
             "ticket": "#83",
-            "hours": 34.3
+            "hours": 34.3,
+            "queueHours": 2.1,
+            "workHours": 32,
+            "landingHours": 0.2
           },
           {
             "ticket": "#84",
-            "hours": 34.3
-          },
-          {
-            "ticket": "#87",
-            "hours": 34.6
-          },
-          {
-            "ticket": "#86",
-            "hours": 34.6
-          },
-          {
-            "ticket": "#91",
-            "hours": 34.6
-          },
-          {
-            "ticket": "#63",
-            "hours": 35
+            "hours": 34.3,
+            "queueHours": 2.1,
+            "workHours": 32,
+            "landingHours": 0.2
           },
           {
             "ticket": "#59",
-            "hours": 36.5
+            "hours": 36.5,
+            "queueHours": 4,
+            "workHours": 0.4,
+            "landingHours": 32.1
           },
           {
-            "ticket": "#71",
-            "hours": 35.2
+            "ticket": "#63",
+            "hours": 35,
+            "queueHours": 2.5,
+            "workHours": 0.4,
+            "landingHours": 32.1
           },
           {
-            "ticket": "#72",
-            "hours": 35.2
+            "ticket": "#86",
+            "hours": 34.6,
+            "queueHours": 2.1,
+            "workHours": 0.4,
+            "landingHours": 32.1
           },
           {
-            "ticket": "#64",
-            "hours": 35.2
+            "ticket": "#87",
+            "hours": 34.6,
+            "queueHours": 2.1,
+            "workHours": 0.4,
+            "landingHours": 32.1
           },
           {
-            "ticket": "#62",
-            "hours": 35.2
+            "ticket": "#91",
+            "hours": 34.6,
+            "queueHours": 2.1,
+            "workHours": 0.4,
+            "landingHours": 32.1
           },
           {
             "ticket": "#61",
-            "hours": 35.2
+            "hours": 35.2,
+            "queueHours": 2.4,
+            "workHours": 0.4,
+            "landingHours": 32.4
+          },
+          {
+            "ticket": "#62",
+            "hours": 35.2,
+            "queueHours": 2.4,
+            "workHours": 0.4,
+            "landingHours": 32.4
+          },
+          {
+            "ticket": "#64",
+            "hours": 35.2,
+            "queueHours": 2.4,
+            "workHours": 0.4,
+            "landingHours": 32.4
+          },
+          {
+            "ticket": "#71",
+            "hours": 35.2,
+            "queueHours": 2.4,
+            "workHours": 0.4,
+            "landingHours": 32.4
+          },
+          {
+            "ticket": "#72",
+            "hours": 35.2,
+            "queueHours": 2.4,
+            "workHours": 0.4,
+            "landingHours": 32.4
           },
           {
             "ticket": "#57",
-            "hours": 53.7
-          },
-          {
-            "ticket": "#74",
-            "hours": 35.3
+            "hours": 53.7,
+            "queueHours": 20.9,
+            "workHours": 1,
+            "landingHours": 31.9
           },
           {
             "ticket": "#73",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 2.4,
+            "workHours": 1,
+            "landingHours": 31.9
+          },
+          {
+            "ticket": "#74",
+            "hours": 35.3,
+            "queueHours": 2.4,
+            "workHours": 1,
+            "landingHours": 31.9
           },
           {
             "ticket": "#75",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 2.4,
+            "workHours": 1,
+            "landingHours": 31.9
           },
           {
             "ticket": "#76",
-            "hours": 35.3
-          },
-          {
-            "ticket": "#88",
-            "hours": 34.9
+            "hours": 35.3,
+            "queueHours": 2.4,
+            "workHours": 1,
+            "landingHours": 31.9
           },
           {
             "ticket": "#78",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 2.4,
+            "workHours": 1,
+            "landingHours": 31.9
           },
           {
-            "ticket": "#67",
-            "hours": 35.4
-          },
-          {
-            "ticket": "#77",
-            "hours": 35.4
-          },
-          {
-            "ticket": "#93",
-            "hours": 35
-          },
-          {
-            "ticket": "#92",
-            "hours": 35
+            "ticket": "#88",
+            "hours": 34.9,
+            "queueHours": 2,
+            "workHours": 1,
+            "landingHours": 31.9
           },
           {
             "ticket": "#60",
-            "hours": 35.4
+            "hours": 35.4,
+            "queueHours": 2.7,
+            "workHours": 32.7,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#67",
+            "hours": 35.4,
+            "queueHours": 2.6,
+            "workHours": 32.7,
+            "landingHours": 0.1
           },
           {
             "ticket": "#68",
-            "hours": 35.4
+            "hours": 35.4,
+            "queueHours": 2.6,
+            "workHours": 32.7,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#77",
+            "hours": 35.4,
+            "queueHours": 2.6,
+            "workHours": 32.7,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#92",
+            "hours": 35,
+            "queueHours": 2.3,
+            "workHours": 32.7,
+            "landingHours": 0.1
+          },
+          {
+            "ticket": "#93",
+            "hours": 35,
+            "queueHours": 2.3,
+            "workHours": 32.7,
+            "landingHours": 0.1
           },
           {
             "ticket": "#136",
-            "hours": 0.8
+            "hours": 0.8,
+            "queueHours": 0,
+            "workHours": 0.7,
+            "landingHours": 0.1
           },
           {
             "ticket": "#120",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0.1,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#121",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#122",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#123",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#124",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#125",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#126",
-            "hours": 35.3
+            "hours": 35.3,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           },
           {
             "ticket": "#127",
-            "hours": 35.2
+            "hours": 35.2,
+            "queueHours": 0,
+            "workHours": 35.2,
+            "landingHours": 0
           }
         ]
       },
       "coverage": {
         "tickets": 74,
-        "of": 94
+        "of": 95
       }
     },
     "throughput": {
@@ -361,25 +916,25 @@
           {
             "week": "2026-11-02",
             "tickets": 56,
-            "pullRequests": 14
+            "pullRequests": 15
           },
           {
             "week": "2026-11-09",
-            "tickets": 9,
-            "pullRequests": 2
+            "tickets": 10,
+            "pullRequests": 3
           }
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "firstRunCiRate": {
       "value": {
-        "rate": 0.911,
-        "passed": 41,
-        "pullRequests": 45,
+        "rate": 0.915,
+        "passed": 43,
+        "pullRequests": 47,
         "workflow": ".github/workflows/ci.yml",
         "perPullRequest": [
           {
@@ -515,6 +1070,10 @@
             "firstRun": "passed"
           },
           {
+            "pullRequest": 56,
+            "firstRun": "passed"
+          },
+          {
             "pullRequest": 94,
             "firstRun": "passed"
           },
@@ -561,20 +1120,28 @@
           {
             "pullRequest": 138,
             "firstRun": "failed"
+          },
+          {
+            "pullRequest": 140,
+            "firstRun": "passed"
           }
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "fixCycles": {
       "value": {
-        "perPullRequest": 0.18,
-        "total": 8,
-        "pullRequests": 45,
+        "perPullRequest": 0.19,
+        "total": 9,
+        "pullRequests": 47,
         "withFixCycles": [
+          {
+            "pullRequest": 56,
+            "fixCycles": 1
+          },
           {
             "pullRequest": 95,
             "fixCycles": 1
@@ -598,22 +1165,22 @@
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "scheduledFailures": {
       "value": "unknown",
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "batchHealth": {
       "value": {
-        "batches": 2,
-        "withCi": 2,
-        "greenOnFirstRun": 2,
+        "batches": 1,
+        "withCi": 1,
+        "greenOnFirstRun": 1,
         "greenRate": 1,
         "dropped": 0,
         "perBatch": [
@@ -621,17 +1188,12 @@
             "pullRequest": 26,
             "firstRun": "passed",
             "dropped": []
-          },
-          {
-            "pullRequest": 56,
-            "firstRun": "passed",
-            "dropped": []
           }
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "regressionRate": {
@@ -643,41 +1205,443 @@
         "perTicket": []
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "humanMessagesPerTicket": {
-      "value": "unknown",
+      "value": {
+        "p50": 1,
+        "p90": 2,
+        "mean": 1.1,
+        "orchestration": 0,
+        "sources": {
+          "transcripts": 9,
+          "records": 0
+        },
+        "perTicket": [
+          {
+            "ticket": "#136",
+            "messages": 2
+          },
+          {
+            "ticket": "#120",
+            "messages": 1
+          },
+          {
+            "ticket": "#121",
+            "messages": 1
+          },
+          {
+            "ticket": "#122",
+            "messages": 1
+          },
+          {
+            "ticket": "#123",
+            "messages": 1
+          },
+          {
+            "ticket": "#124",
+            "messages": 1
+          },
+          {
+            "ticket": "#125",
+            "messages": 1
+          },
+          {
+            "ticket": "#126",
+            "messages": 1
+          },
+          {
+            "ticket": "#127",
+            "messages": 1
+          }
+        ]
+      },
       "coverage": {
-        "tickets": 0,
-        "of": 94
+        "tickets": 9,
+        "of": 95
       }
     },
     "orchestrationTime": {
       "value": "unknown",
       "coverage": {
-        "tickets": 0,
-        "of": 94
+        "tickets": 9,
+        "of": 95
       }
     },
     "subAgents": {
-      "value": "unknown",
+      "value": {
+        "total": 26,
+        "p50": 26,
+        "p90": 26,
+        "models": [
+          {
+            "model": "claude-opus-5-5",
+            "subAgents": 18
+          },
+          {
+            "model": "claude-sonnet-5-5",
+            "subAgents": 8
+          }
+        ],
+        "perTicket": [
+          {
+            "ticket": "#136",
+            "subAgents": 0,
+            "models": []
+          },
+          {
+            "ticket": "#120",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#121",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#122",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#123",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#124",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#125",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#126",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#127",
+            "subAgents": 26,
+            "models": [
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 18
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 8
+              }
+            ]
+          }
+        ]
+      },
       "coverage": {
-        "tickets": 0,
-        "of": 94
+        "tickets": 9,
+        "of": 95
       }
     },
     "apiEquivalentCost": {
-      "value": "unknown",
+      "value": {
+        "priceTable": "2026-11-09",
+        "apiEquivalentUsd": 29.0149,
+        "unpricedModels": [],
+        "perTicketUsd": {
+          "p50": 27.5318,
+          "p90": 27.5318
+        },
+        "byModel": [
+          {
+            "model": "claude-opus-5-5",
+            "input": 1174,
+            "output": 266847,
+            "cacheCreation": 1899448,
+            "cacheRead": 49540013,
+            "apiEquivalentUsd": 26.3593
+          },
+          {
+            "model": "claude-sonnet-5-5",
+            "input": 222,
+            "output": 41221,
+            "cacheCreation": 633783,
+            "cacheRead": 6585264,
+            "apiEquivalentUsd": 2.6556
+          }
+        ],
+        "orchestration": {
+          "apiEquivalentUsd": 0,
+          "byModel": []
+        },
+        "perTicket": [
+          {
+            "ticket": "#136",
+            "apiEquivalentUsd": 1.4831,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 72,
+                "output": 16820,
+                "cacheCreation": 74185,
+                "cacheRead": 2764841,
+                "apiEquivalentUsd": 1.4831
+              }
+            ]
+          },
+          {
+            "ticket": "#120",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#121",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#122",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#123",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#124",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#125",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#126",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          },
+          {
+            "ticket": "#127",
+            "apiEquivalentUsd": 27.5318,
+            "byModel": [
+              {
+                "model": "claude-opus-5-5",
+                "input": 1102,
+                "output": 250027,
+                "cacheCreation": 1825263,
+                "cacheRead": 46775172,
+                "apiEquivalentUsd": 24.8762
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 222,
+                "output": 41221,
+                "cacheCreation": 633783,
+                "cacheRead": 6585264,
+                "apiEquivalentUsd": 2.6556
+              }
+            ]
+          }
+        ]
+      },
       "coverage": {
-        "tickets": 0,
-        "of": 94
+        "tickets": 9,
+        "of": 95
       }
     },
     "autonomy": {
       "value": {
-        "full": 0,
+        "full": 1,
         "assisted": 94,
         "manual": 0,
         "overridden": 0,
@@ -983,19 +1947,13 @@
             "overridden": false
           },
           {
-            "ticket": "#89",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
             "ticket": "#65",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
           },
           {
-            "ticket": "#85",
+            "ticket": "#66",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1007,19 +1965,25 @@
             "overridden": false
           },
           {
-            "ticket": "#90",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
             "ticket": "#82",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
           },
           {
-            "ticket": "#66",
+            "ticket": "#85",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#89",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#90",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1037,19 +2001,7 @@
             "overridden": false
           },
           {
-            "ticket": "#87",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#86",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#91",
+            "ticket": "#59",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1061,7 +2013,37 @@
             "overridden": false
           },
           {
-            "ticket": "#59",
+            "ticket": "#86",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#87",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#91",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#61",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#62",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#64",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1079,37 +2061,19 @@
             "overridden": false
           },
           {
-            "ticket": "#64",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#62",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#61",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
             "ticket": "#57",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
           },
           {
-            "ticket": "#74",
+            "ticket": "#73",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
           },
           {
-            "ticket": "#73",
+            "ticket": "#74",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1127,37 +2091,13 @@
             "overridden": false
           },
           {
-            "ticket": "#88",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
             "ticket": "#78",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
           },
           {
-            "ticket": "#67",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#77",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#93",
-            "level": "assisted",
-            "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "#92",
+            "ticket": "#88",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1169,7 +2109,31 @@
             "overridden": false
           },
           {
+            "ticket": "#67",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
             "ticket": "#68",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#77",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#92",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#93",
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
@@ -1194,8 +2158,8 @@
           },
           {
             "ticket": "#136",
-            "level": "assisted",
-            "computed": "assisted",
+            "level": "full",
+            "computed": "full",
             "overridden": false
           },
           {
@@ -1245,19 +2209,25 @@
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
+          },
+          {
+            "ticket": "PR #140",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
           }
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "testRatio": {
       "value": {
         "testLinesAdded": 9478,
-        "productionLinesAdded": 30882,
-        "ratio": 0.31,
+        "productionLinesAdded": 31232,
+        "ratio": 0.3,
         "tickets": [
           {
             "ticket": "PR #1",
@@ -1445,17 +2415,7 @@
             "productionLinesAdded": 4916
           },
           {
-            "ticket": "#45",
-            "testLinesAdded": 1903,
-            "productionLinesAdded": 4916
-          },
-          {
             "ticket": "#46",
-            "testLinesAdded": 1903,
-            "productionLinesAdded": 4916
-          },
-          {
-            "ticket": "#47",
             "testLinesAdded": 1903,
             "productionLinesAdded": 4916
           },
@@ -1471,11 +2431,6 @@
           },
           {
             "ticket": "#49",
-            "testLinesAdded": 1982,
-            "productionLinesAdded": 3141
-          },
-          {
-            "ticket": "#50",
             "testLinesAdded": 1982,
             "productionLinesAdded": 3141
           },
@@ -1500,17 +2455,12 @@
             "productionLinesAdded": 1363
           },
           {
-            "ticket": "#89",
-            "testLinesAdded": 121,
-            "productionLinesAdded": 1085
-          },
-          {
             "ticket": "#65",
             "testLinesAdded": 121,
             "productionLinesAdded": 1085
           },
           {
-            "ticket": "#85",
+            "ticket": "#66",
             "testLinesAdded": 121,
             "productionLinesAdded": 1085
           },
@@ -1520,17 +2470,22 @@
             "productionLinesAdded": 1085
           },
           {
-            "ticket": "#90",
-            "testLinesAdded": 121,
-            "productionLinesAdded": 1085
-          },
-          {
             "ticket": "#82",
             "testLinesAdded": 121,
             "productionLinesAdded": 1085
           },
           {
-            "ticket": "#66",
+            "ticket": "#85",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#89",
+            "testLinesAdded": 121,
+            "productionLinesAdded": 1085
+          },
+          {
+            "ticket": "#90",
             "testLinesAdded": 121,
             "productionLinesAdded": 1085
           },
@@ -1545,17 +2500,7 @@
             "productionLinesAdded": 183
           },
           {
-            "ticket": "#87",
-            "testLinesAdded": 30,
-            "productionLinesAdded": 519
-          },
-          {
-            "ticket": "#86",
-            "testLinesAdded": 30,
-            "productionLinesAdded": 519
-          },
-          {
-            "ticket": "#91",
+            "ticket": "#59",
             "testLinesAdded": 30,
             "productionLinesAdded": 519
           },
@@ -1565,9 +2510,34 @@
             "productionLinesAdded": 519
           },
           {
-            "ticket": "#59",
+            "ticket": "#86",
             "testLinesAdded": 30,
             "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#87",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#91",
+            "testLinesAdded": 30,
+            "productionLinesAdded": 519
+          },
+          {
+            "ticket": "#61",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#62",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
+          },
+          {
+            "ticket": "#64",
+            "testLinesAdded": 317,
+            "productionLinesAdded": 312
           },
           {
             "ticket": "#71",
@@ -1580,32 +2550,17 @@
             "productionLinesAdded": 312
           },
           {
-            "ticket": "#64",
-            "testLinesAdded": 317,
-            "productionLinesAdded": 312
-          },
-          {
-            "ticket": "#62",
-            "testLinesAdded": 317,
-            "productionLinesAdded": 312
-          },
-          {
-            "ticket": "#61",
-            "testLinesAdded": 317,
-            "productionLinesAdded": 312
-          },
-          {
             "ticket": "#57",
             "testLinesAdded": 111,
             "productionLinesAdded": 468
           },
           {
-            "ticket": "#74",
+            "ticket": "#73",
             "testLinesAdded": 111,
             "productionLinesAdded": 468
           },
           {
-            "ticket": "#73",
+            "ticket": "#74",
             "testLinesAdded": 111,
             "productionLinesAdded": 468
           },
@@ -1620,17 +2575,27 @@
             "productionLinesAdded": 468
           },
           {
-            "ticket": "#88",
-            "testLinesAdded": 111,
-            "productionLinesAdded": 468
-          },
-          {
             "ticket": "#78",
             "testLinesAdded": 111,
             "productionLinesAdded": 468
           },
           {
+            "ticket": "#88",
+            "testLinesAdded": 111,
+            "productionLinesAdded": 468
+          },
+          {
+            "ticket": "#60",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
             "ticket": "#67",
+            "testLinesAdded": 402,
+            "productionLinesAdded": 4089
+          },
+          {
+            "ticket": "#68",
             "testLinesAdded": 402,
             "productionLinesAdded": 4089
           },
@@ -1640,22 +2605,12 @@
             "productionLinesAdded": 4089
           },
           {
-            "ticket": "#93",
-            "testLinesAdded": 402,
-            "productionLinesAdded": 4089
-          },
-          {
             "ticket": "#92",
             "testLinesAdded": 402,
             "productionLinesAdded": 4089
           },
           {
-            "ticket": "#60",
-            "testLinesAdded": 402,
-            "productionLinesAdded": 4089
-          },
-          {
-            "ticket": "#68",
+            "ticket": "#93",
             "testLinesAdded": 402,
             "productionLinesAdded": 4089
           },
@@ -1718,19 +2673,24 @@
             "ticket": "#127",
             "testLinesAdded": 1175,
             "productionLinesAdded": 2619
+          },
+          {
+            "ticket": "PR #140",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 350
           }
         ]
       },
       "coverage": {
-        "tickets": 92,
-        "of": 94
+        "tickets": 90,
+        "of": 95
       }
     },
     "netLinesRemoved": {
       "value": {
-        "linesAdded": 92349,
-        "linesDeleted": 15367,
-        "netLinesRemoved": -76982,
+        "linesAdded": 108121,
+        "linesDeleted": 16532,
+        "netLinesRemoved": -91589,
         "ticketsNetRemoving": 7,
         "tickets": [
           {
@@ -1930,8 +2890,8 @@
           },
           {
             "ticket": "#45",
-            "linesAdded": 6987,
-            "linesDeleted": 129
+            "linesAdded": 22405,
+            "linesDeleted": 1294
           },
           {
             "ticket": "#46",
@@ -1940,8 +2900,8 @@
           },
           {
             "ticket": "#47",
-            "linesAdded": 6987,
-            "linesDeleted": 129
+            "linesAdded": 22405,
+            "linesDeleted": 1294
           },
           {
             "ticket": "#35",
@@ -1960,8 +2920,8 @@
           },
           {
             "ticket": "#50",
-            "linesAdded": 5225,
-            "linesDeleted": 457
+            "linesAdded": 20643,
+            "linesDeleted": 1622
           },
           {
             "ticket": "#51",
@@ -1984,17 +2944,12 @@
             "linesDeleted": 382
           },
           {
-            "ticket": "#89",
-            "linesAdded": 1214,
-            "linesDeleted": 263
-          },
-          {
             "ticket": "#65",
             "linesAdded": 1214,
             "linesDeleted": 263
           },
           {
-            "ticket": "#85",
+            "ticket": "#66",
             "linesAdded": 1214,
             "linesDeleted": 263
           },
@@ -2004,17 +2959,22 @@
             "linesDeleted": 263
           },
           {
-            "ticket": "#90",
-            "linesAdded": 1214,
-            "linesDeleted": 263
-          },
-          {
             "ticket": "#82",
             "linesAdded": 1214,
             "linesDeleted": 263
           },
           {
-            "ticket": "#66",
+            "ticket": "#85",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#89",
+            "linesAdded": 1214,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#90",
             "linesAdded": 1214,
             "linesDeleted": 263
           },
@@ -2029,17 +2989,7 @@
             "linesDeleted": 27
           },
           {
-            "ticket": "#87",
-            "linesAdded": 554,
-            "linesDeleted": 87
-          },
-          {
-            "ticket": "#86",
-            "linesAdded": 554,
-            "linesDeleted": 87
-          },
-          {
-            "ticket": "#91",
+            "ticket": "#59",
             "linesAdded": 554,
             "linesDeleted": 87
           },
@@ -2049,9 +2999,34 @@
             "linesDeleted": 87
           },
           {
-            "ticket": "#59",
+            "ticket": "#86",
             "linesAdded": 554,
             "linesDeleted": 87
+          },
+          {
+            "ticket": "#87",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#91",
+            "linesAdded": 554,
+            "linesDeleted": 87
+          },
+          {
+            "ticket": "#61",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#62",
+            "linesAdded": 631,
+            "linesDeleted": 56
+          },
+          {
+            "ticket": "#64",
+            "linesAdded": 631,
+            "linesDeleted": 56
           },
           {
             "ticket": "#71",
@@ -2064,32 +3039,17 @@
             "linesDeleted": 56
           },
           {
-            "ticket": "#64",
-            "linesAdded": 631,
-            "linesDeleted": 56
-          },
-          {
-            "ticket": "#62",
-            "linesAdded": 631,
-            "linesDeleted": 56
-          },
-          {
-            "ticket": "#61",
-            "linesAdded": 631,
-            "linesDeleted": 56
-          },
-          {
             "ticket": "#57",
             "linesAdded": 579,
             "linesDeleted": 64
           },
           {
-            "ticket": "#74",
+            "ticket": "#73",
             "linesAdded": 579,
             "linesDeleted": 64
           },
           {
-            "ticket": "#73",
+            "ticket": "#74",
             "linesAdded": 579,
             "linesDeleted": 64
           },
@@ -2104,17 +3064,27 @@
             "linesDeleted": 64
           },
           {
-            "ticket": "#88",
-            "linesAdded": 579,
-            "linesDeleted": 64
-          },
-          {
             "ticket": "#78",
             "linesAdded": 579,
             "linesDeleted": 64
           },
           {
+            "ticket": "#88",
+            "linesAdded": 579,
+            "linesDeleted": 64
+          },
+          {
+            "ticket": "#60",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
             "ticket": "#67",
+            "linesAdded": 6109,
+            "linesDeleted": 9962
+          },
+          {
+            "ticket": "#68",
             "linesAdded": 6109,
             "linesDeleted": 9962
           },
@@ -2124,22 +3094,12 @@
             "linesDeleted": 9962
           },
           {
-            "ticket": "#93",
-            "linesAdded": 6109,
-            "linesDeleted": 9962
-          },
-          {
             "ticket": "#92",
             "linesAdded": 6109,
             "linesDeleted": 9962
           },
           {
-            "ticket": "#60",
-            "linesAdded": 6109,
-            "linesDeleted": 9962
-          },
-          {
-            "ticket": "#68",
+            "ticket": "#93",
             "linesAdded": 6109,
             "linesDeleted": 9962
           },
@@ -2202,12 +3162,17 @@
             "ticket": "#127",
             "linesAdded": 3935,
             "linesDeleted": 320
+          },
+          {
+            "ticket": "PR #140",
+            "linesAdded": 354,
+            "linesDeleted": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "size": {
@@ -2451,8 +3416,8 @@
           },
           {
             "ticket": "#45",
-            "diffLines": 7116,
-            "filesTouched": 70,
+            "diffLines": 23699,
+            "filesTouched": 218,
             "subTickets": 0
           },
           {
@@ -2463,8 +3428,8 @@
           },
           {
             "ticket": "#47",
-            "diffLines": 7116,
-            "filesTouched": 70,
+            "diffLines": 23699,
+            "filesTouched": 218,
             "subTickets": 0
           },
           {
@@ -2487,8 +3452,8 @@
           },
           {
             "ticket": "#50",
-            "diffLines": 5682,
-            "filesTouched": 58,
+            "diffLines": 22265,
+            "filesTouched": 206,
             "subTickets": 0
           },
           {
@@ -2516,19 +3481,13 @@
             "subTickets": 0
           },
           {
-            "ticket": "#89",
-            "diffLines": 1477,
-            "filesTouched": 17,
-            "subTickets": 0
-          },
-          {
             "ticket": "#65",
             "diffLines": 1477,
             "filesTouched": 17,
             "subTickets": 0
           },
           {
-            "ticket": "#85",
+            "ticket": "#66",
             "diffLines": 1477,
             "filesTouched": 17,
             "subTickets": 0
@@ -2540,19 +3499,25 @@
             "subTickets": 0
           },
           {
-            "ticket": "#90",
-            "diffLines": 1477,
-            "filesTouched": 17,
-            "subTickets": 0
-          },
-          {
             "ticket": "#82",
             "diffLines": 1477,
             "filesTouched": 17,
             "subTickets": 0
           },
           {
-            "ticket": "#66",
+            "ticket": "#85",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#89",
+            "diffLines": 1477,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#90",
             "diffLines": 1477,
             "filesTouched": 17,
             "subTickets": 0
@@ -2570,19 +3535,7 @@
             "subTickets": 0
           },
           {
-            "ticket": "#87",
-            "diffLines": 641,
-            "filesTouched": 17,
-            "subTickets": 0
-          },
-          {
-            "ticket": "#86",
-            "diffLines": 641,
-            "filesTouched": 17,
-            "subTickets": 0
-          },
-          {
-            "ticket": "#91",
+            "ticket": "#59",
             "diffLines": 641,
             "filesTouched": 17,
             "subTickets": 0
@@ -2594,9 +3547,39 @@
             "subTickets": 0
           },
           {
-            "ticket": "#59",
+            "ticket": "#86",
             "diffLines": 641,
             "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#87",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#91",
+            "diffLines": 641,
+            "filesTouched": 17,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#61",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#62",
+            "diffLines": 687,
+            "filesTouched": 23,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#64",
+            "diffLines": 687,
+            "filesTouched": 23,
             "subTickets": 0
           },
           {
@@ -2612,37 +3595,19 @@
             "subTickets": 0
           },
           {
-            "ticket": "#64",
-            "diffLines": 687,
-            "filesTouched": 23,
-            "subTickets": 0
-          },
-          {
-            "ticket": "#62",
-            "diffLines": 687,
-            "filesTouched": 23,
-            "subTickets": 0
-          },
-          {
-            "ticket": "#61",
-            "diffLines": 687,
-            "filesTouched": 23,
-            "subTickets": 0
-          },
-          {
             "ticket": "#57",
             "diffLines": 643,
             "filesTouched": 20,
             "subTickets": 0
           },
           {
-            "ticket": "#74",
+            "ticket": "#73",
             "diffLines": 643,
             "filesTouched": 20,
             "subTickets": 0
           },
           {
-            "ticket": "#73",
+            "ticket": "#74",
             "diffLines": 643,
             "filesTouched": 20,
             "subTickets": 0
@@ -2660,19 +3625,31 @@
             "subTickets": 0
           },
           {
-            "ticket": "#88",
-            "diffLines": 643,
-            "filesTouched": 20,
-            "subTickets": 0
-          },
-          {
             "ticket": "#78",
             "diffLines": 643,
             "filesTouched": 20,
             "subTickets": 0
           },
           {
+            "ticket": "#88",
+            "diffLines": 643,
+            "filesTouched": 20,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#60",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
             "ticket": "#67",
+            "diffLines": 16071,
+            "filesTouched": 57,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#68",
             "diffLines": 16071,
             "filesTouched": 57,
             "subTickets": 0
@@ -2684,25 +3661,13 @@
             "subTickets": 0
           },
           {
-            "ticket": "#93",
-            "diffLines": 16071,
-            "filesTouched": 57,
-            "subTickets": 0
-          },
-          {
             "ticket": "#92",
             "diffLines": 16071,
             "filesTouched": 57,
             "subTickets": 0
           },
           {
-            "ticket": "#60",
-            "diffLines": 16071,
-            "filesTouched": 57,
-            "subTickets": 0
-          },
-          {
-            "ticket": "#68",
+            "ticket": "#93",
             "diffLines": 16071,
             "filesTouched": 57,
             "subTickets": 0
@@ -2778,19 +3743,25 @@
             "diffLines": 4255,
             "filesTouched": 41,
             "subTickets": 0
+          },
+          {
+            "ticket": "PR #140",
+            "diffLines": 354,
+            "filesTouched": 5,
+            "subTickets": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 94,
-        "of": 94
+        "tickets": 95,
+        "of": 95
       }
     },
     "estimateVsActual": {
       "value": "unknown",
       "coverage": {
         "tickets": 0,
-        "of": 94
+        "of": 95
       }
     }
   },
@@ -2806,10 +3777,56 @@
       },
       {
         "period": "2026-11",
-        "tickets": 65
+        "tickets": 66
       }
     ],
     "metrics": {
+      "activeTime": [
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 17
+          }
+        },
+        {
+          "value": "unknown",
+          "coverage": {
+            "tickets": 0,
+            "of": 12
+          }
+        },
+        {
+          "value": 3.13,
+          "coverage": {
+            "tickets": 9,
+            "of": 66
+          }
+        }
+      ],
+      "estimatedActiveTime": [
+        {
+          "value": 0.57,
+          "coverage": {
+            "tickets": 8,
+            "of": 17
+          }
+        },
+        {
+          "value": 0.5,
+          "coverage": {
+            "tickets": 4,
+            "of": 12
+          }
+        },
+        {
+          "value": 0.97,
+          "coverage": {
+            "tickets": 52,
+            "of": 66
+          }
+        }
+      ],
       "leadTime": [
         {
           "value": 2.1,
@@ -2829,7 +3846,7 @@
           "value": 35.3,
           "coverage": {
             "tickets": 62,
-            "of": 65
+            "of": 66
           }
         }
       ],
@@ -2849,10 +3866,10 @@
           }
         },
         {
-          "value": 65,
+          "value": 66,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -2872,10 +3889,10 @@
           }
         },
         {
-          "value": 75,
+          "value": 77.8,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -2897,8 +3914,8 @@
         {
           "value": 0.5,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -2920,8 +3937,8 @@
         {
           "value": "unknown",
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -2941,10 +3958,10 @@
           }
         },
         {
-          "value": 100,
+          "value": "unknown",
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -2966,8 +3983,8 @@
         {
           "value": 0,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -2987,10 +4004,10 @@
           }
         },
         {
-          "value": "unknown",
+          "value": 1,
           "coverage": {
-            "tickets": 0,
-            "of": 65
+            "tickets": 9,
+            "of": 66
           }
         }
       ],
@@ -3012,8 +4029,8 @@
         {
           "value": "unknown",
           "coverage": {
-            "tickets": 0,
-            "of": 65
+            "tickets": 9,
+            "of": 66
           }
         }
       ],
@@ -3033,10 +4050,10 @@
           }
         },
         {
-          "value": "unknown",
+          "value": 26,
           "coverage": {
-            "tickets": 0,
-            "of": 65
+            "tickets": 9,
+            "of": 66
           }
         }
       ],
@@ -3056,10 +4073,10 @@
           }
         },
         {
-          "value": "unknown",
+          "value": 27.5318,
           "coverage": {
-            "tickets": 0,
-            "of": 65
+            "tickets": 9,
+            "of": 66
           }
         }
       ],
@@ -3079,10 +4096,10 @@
           }
         },
         {
-          "value": 0,
+          "value": 1.5,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -3102,10 +4119,10 @@
           }
         },
         {
-          "value": 0.35,
+          "value": 0.34,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 63,
+            "of": 66
           }
         }
       ],
@@ -3125,10 +4142,10 @@
           }
         },
         {
-          "value": -16690,
+          "value": -31297,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -3150,8 +4167,8 @@
         {
           "value": 1477,
           "coverage": {
-            "tickets": 65,
-            "of": 65
+            "tickets": 66,
+            "of": 66
           }
         }
       ],
@@ -3174,25 +4191,71 @@
           "value": "unknown",
           "coverage": {
             "tickets": 0,
-            "of": 65
+            "of": 66
           }
         }
       ]
     }
   },
   "byAutonomy": {
-    "leadTime": {
+    "activeTime": {
       "full": {
+        "value": 0.33,
+        "coverage": {
+          "tickets": 1,
+          "of": 1
+        }
+      },
+      "assisted": {
+        "value": 3.13,
+        "coverage": {
+          "tickets": 8,
+          "of": 94
+        }
+      },
+      "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
           "of": 0
         }
+      }
+    },
+    "estimatedActiveTime": {
+      "full": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 1
+        }
+      },
+      "assisted": {
+        "value": 0.97,
+        "coverage": {
+          "tickets": 64,
+          "of": 94
+        }
+      },
+      "manual": {
+        "value": "unknown",
+        "coverage": {
+          "tickets": 0,
+          "of": 0
+        }
+      }
+    },
+    "leadTime": {
+      "full": {
+        "value": 0.8,
+        "coverage": {
+          "tickets": 1,
+          "of": 1
+        }
       },
       "assisted": {
         "value": 35.3,
         "coverage": {
-          "tickets": 74,
+          "tickets": 73,
           "of": 94
         }
       },
@@ -3206,10 +4269,10 @@
     },
     "throughput": {
       "full": {
-        "value": "unknown",
+        "value": 1,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
@@ -3229,14 +4292,14 @@
     },
     "firstRunCiRate": {
       "full": {
-        "value": "unknown",
+        "value": 0,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": 91.1,
+        "value": 93.5,
         "coverage": {
           "tickets": 94,
           "of": 94
@@ -3252,14 +4315,14 @@
     },
     "fixCycles": {
       "full": {
-        "value": "unknown",
+        "value": 1,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": 0.18,
+        "value": 0.17,
         "coverage": {
           "tickets": 94,
           "of": 94
@@ -3275,10 +4338,10 @@
     },
     "regressionRate": {
       "full": {
-        "value": "unknown",
+        "value": 0,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
@@ -3298,16 +4361,16 @@
     },
     "humanMessagesPerTicket": {
       "full": {
-        "value": "unknown",
+        "value": 2,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": "unknown",
+        "value": 1,
         "coverage": {
-          "tickets": 0,
+          "tickets": 8,
           "of": 94
         }
       },
@@ -3321,16 +4384,16 @@
     },
     "subAgents": {
       "full": {
-        "value": "unknown",
+        "value": 0,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": "unknown",
+        "value": 26,
         "coverage": {
-          "tickets": 0,
+          "tickets": 8,
           "of": 94
         }
       },
@@ -3344,16 +4407,16 @@
     },
     "apiEquivalentCost": {
       "full": {
-        "value": "unknown",
+        "value": 1.4831,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": "unknown",
+        "value": 27.5318,
         "coverage": {
-          "tickets": 0,
+          "tickets": 8,
           "of": 94
         }
       },
@@ -3367,16 +4430,16 @@
     },
     "testRatio": {
       "full": {
-        "value": "unknown",
+        "value": 0,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": 0.31,
+        "value": 0.3,
         "coverage": {
-          "tickets": 92,
+          "tickets": 89,
           "of": 94
         }
       },
@@ -3390,14 +4453,14 @@
     },
     "netLinesRemoved": {
       "full": {
-        "value": "unknown",
+        "value": -145,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
-        "value": -76982,
+        "value": -91444,
         "coverage": {
           "tickets": 94,
           "of": 94
@@ -3413,10 +4476,10 @@
     },
     "size": {
       "full": {
-        "value": "unknown",
+        "value": 265,
         "coverage": {
-          "tickets": 0,
-          "of": 0
+          "tickets": 1,
+          "of": 1
         }
       },
       "assisted": {
@@ -3439,7 +4502,7 @@
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 0
+          "of": 1
         }
       },
       "assisted": {
@@ -3761,21 +4824,15 @@
       "doneAt": "2026-11-04T13:48:37.000Z"
     },
     {
-      "id": "#89",
-      "title": "Pairing: removed Devices keep the invite secret; invites never expire",
-      "url": "https://github.com/grimfeld/synesis/issues/89",
-      "doneAt": "2026-11-05T23:25:57.000Z"
-    },
-    {
       "id": "#65",
       "title": "Pairing: Devices can drop each other's members",
       "url": "https://github.com/grimfeld/synesis/issues/65",
       "doneAt": "2026-11-05T23:25:57.000Z"
     },
     {
-      "id": "#85",
-      "title": "Pairing: a huge membership version takes over the member list for good",
-      "url": "https://github.com/grimfeld/synesis/issues/85",
+      "id": "#66",
+      "title": "Pairing: pairing.json and settings.json are not written atomically",
+      "url": "https://github.com/grimfeld/synesis/issues/66",
       "doneAt": "2026-11-05T23:25:57.000Z"
     },
     {
@@ -3785,21 +4842,27 @@
       "doneAt": "2026-11-05T23:25:57.000Z"
     },
     {
-      "id": "#90",
-      "title": "Pairing: device-id checks are case-sensitive on case-insensitive disks",
-      "url": "https://github.com/grimfeld/synesis/issues/90",
-      "doneAt": "2026-11-05T23:25:57.000Z"
-    },
-    {
       "id": "#82",
       "title": "Sync: forget_device deletes any directory it is given",
       "url": "https://github.com/grimfeld/synesis/issues/82",
       "doneAt": "2026-11-05T23:25:57.000Z"
     },
     {
-      "id": "#66",
-      "title": "Pairing: pairing.json and settings.json are not written atomically",
-      "url": "https://github.com/grimfeld/synesis/issues/66",
+      "id": "#85",
+      "title": "Pairing: a huge membership version takes over the member list for good",
+      "url": "https://github.com/grimfeld/synesis/issues/85",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#89",
+      "title": "Pairing: removed Devices keep the invite secret; invites never expire",
+      "url": "https://github.com/grimfeld/synesis/issues/89",
+      "doneAt": "2026-11-05T23:25:57.000Z"
+    },
+    {
+      "id": "#90",
+      "title": "Pairing: device-id checks are case-sensitive on case-insensitive disks",
+      "url": "https://github.com/grimfeld/synesis/issues/90",
       "doneAt": "2026-11-05T23:25:57.000Z"
     },
     {
@@ -3815,21 +4878,9 @@
       "doneAt": "2026-11-05T23:37:06.000Z"
     },
     {
-      "id": "#87",
-      "title": "Engine: create_document writes outside the vault through fields.folder",
-      "url": "https://github.com/grimfeld/synesis/issues/87",
-      "doneAt": "2026-11-05T23:56:46.000Z"
-    },
-    {
-      "id": "#86",
-      "title": "Watcher: a symlinked .md copies its target into a synced Note",
-      "url": "https://github.com/grimfeld/synesis/issues/86",
-      "doneAt": "2026-11-05T23:56:46.000Z"
-    },
-    {
-      "id": "#91",
-      "title": "Engine: leave_vault can delete any folder open_vault accepted",
-      "url": "https://github.com/grimfeld/synesis/issues/91",
+      "id": "#59",
+      "title": "Map: PlaceFacts takes minutes on a large Vault",
+      "url": "https://github.com/grimfeld/synesis/issues/59",
       "doneAt": "2026-11-05T23:56:46.000Z"
     },
     {
@@ -3839,10 +4890,40 @@
       "doneAt": "2026-11-05T23:56:46.000Z"
     },
     {
-      "id": "#59",
-      "title": "Map: PlaceFacts takes minutes on a large Vault",
-      "url": "https://github.com/grimfeld/synesis/issues/59",
+      "id": "#86",
+      "title": "Watcher: a symlinked .md copies its target into a synced Note",
+      "url": "https://github.com/grimfeld/synesis/issues/86",
       "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#87",
+      "title": "Engine: create_document writes outside the vault through fields.folder",
+      "url": "https://github.com/grimfeld/synesis/issues/87",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#91",
+      "title": "Engine: leave_vault can delete any folder open_vault accepted",
+      "url": "https://github.com/grimfeld/synesis/issues/91",
+      "doneAt": "2026-11-05T23:56:46.000Z"
+    },
+    {
+      "id": "#61",
+      "title": "Editor: reloading a document saves it again, and a CRLF file comes back with LF",
+      "url": "https://github.com/grimfeld/synesis/issues/61",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#62",
+      "title": "Editor shortcuts change the note while focus is in another field",
+      "url": "https://github.com/grimfeld/synesis/issues/62",
+      "doneAt": "2026-11-06T00:08:23.000Z"
+    },
+    {
+      "id": "#64",
+      "title": "Board: a failed save loses the edit silently",
+      "url": "https://github.com/grimfeld/synesis/issues/64",
+      "doneAt": "2026-11-06T00:08:23.000Z"
     },
     {
       "id": "#71",
@@ -3857,39 +4938,21 @@
       "doneAt": "2026-11-06T00:08:23.000Z"
     },
     {
-      "id": "#64",
-      "title": "Board: a failed save loses the edit silently",
-      "url": "https://github.com/grimfeld/synesis/issues/64",
-      "doneAt": "2026-11-06T00:08:23.000Z"
-    },
-    {
-      "id": "#62",
-      "title": "Editor shortcuts change the note while focus is in another field",
-      "url": "https://github.com/grimfeld/synesis/issues/62",
-      "doneAt": "2026-11-06T00:08:23.000Z"
-    },
-    {
-      "id": "#61",
-      "title": "Editor: reloading a document saves it again, and a CRLF file comes back with LF",
-      "url": "https://github.com/grimfeld/synesis/issues/61",
-      "doneAt": "2026-11-06T00:08:23.000Z"
-    },
-    {
       "id": "#57",
       "title": "Dates: \"Adar II\" (and \"Adar I\") is never read as a month",
       "url": "https://github.com/grimfeld/synesis/issues/57",
       "doneAt": "2026-11-06T00:15:06.000Z"
     },
     {
-      "id": "#74",
-      "title": "Engine: unlinked::splice panics when start > end",
-      "url": "https://github.com/grimfeld/synesis/issues/74",
-      "doneAt": "2026-11-06T00:15:06.000Z"
-    },
-    {
       "id": "#73",
       "title": "New Note keeps # ^ [ ] in file names, which breaks wikilinks",
       "url": "https://github.com/grimfeld/synesis/issues/73",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#74",
+      "title": "Engine: unlinked::splice panics when start > end",
+      "url": "https://github.com/grimfeld/synesis/issues/74",
       "doneAt": "2026-11-06T00:15:06.000Z"
     },
     {
@@ -3905,21 +4968,33 @@
       "doneAt": "2026-11-06T00:15:06.000Z"
     },
     {
-      "id": "#88",
-      "title": "Covers: remote fetches follow redirects to private addresses and have no size cap",
-      "url": "https://github.com/grimfeld/synesis/issues/88",
-      "doneAt": "2026-11-06T00:15:06.000Z"
-    },
-    {
       "id": "#78",
       "title": "Site: Intel Mac users are offered only the Apple Silicon download",
       "url": "https://github.com/grimfeld/synesis/issues/78",
       "doneAt": "2026-11-06T00:15:06.000Z"
     },
     {
+      "id": "#88",
+      "title": "Covers: remote fetches follow redirects to private addresses and have no size cap",
+      "url": "https://github.com/grimfeld/synesis/issues/88",
+      "doneAt": "2026-11-06T00:15:06.000Z"
+    },
+    {
+      "id": "#60",
+      "title": "Dev bridge: any website can drive the engine while tauri dev runs",
+      "url": "https://github.com/grimfeld/synesis/issues/60",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
       "id": "#67",
       "title": "Release: pin Actions to SHAs and require green tests before a release ships",
       "url": "https://github.com/grimfeld/synesis/issues/67",
+      "doneAt": "2026-11-06T00:20:56.000Z"
+    },
+    {
+      "id": "#68",
+      "title": "Tests: clean-up deletes any registered vault whose path contains synesis-cy-",
+      "url": "https://github.com/grimfeld/synesis/issues/68",
       "doneAt": "2026-11-06T00:20:56.000Z"
     },
     {
@@ -3929,27 +5004,15 @@
       "doneAt": "2026-11-06T00:20:56.000Z"
     },
     {
-      "id": "#93",
-      "title": "Dependencies: rustls, webpki and dev-tool advisories",
-      "url": "https://github.com/grimfeld/synesis/issues/93",
-      "doneAt": "2026-11-06T00:20:56.000Z"
-    },
-    {
       "id": "#92",
       "title": "Web build: no CSP or security headers on the Vercel previews",
       "url": "https://github.com/grimfeld/synesis/issues/92",
       "doneAt": "2026-11-06T00:20:56.000Z"
     },
     {
-      "id": "#60",
-      "title": "Dev bridge: any website can drive the engine while tauri dev runs",
-      "url": "https://github.com/grimfeld/synesis/issues/60",
-      "doneAt": "2026-11-06T00:20:56.000Z"
-    },
-    {
-      "id": "#68",
-      "title": "Tests: clean-up deletes any registered vault whose path contains synesis-cy-",
-      "url": "https://github.com/grimfeld/synesis/issues/68",
+      "id": "#93",
+      "title": "Dependencies: rustls, webpki and dev-tool advisories",
+      "url": "https://github.com/grimfeld/synesis/issues/93",
       "doneAt": "2026-11-06T00:20:56.000Z"
     },
     {
@@ -4023,6 +5086,12 @@
       "title": "Date pickers: Tutorial and ADR 0005",
       "url": "https://github.com/grimfeld/synesis/issues/127",
       "doneAt": "2026-11-10T10:30:13.000Z"
+    },
+    {
+      "id": "PR #140",
+      "title": "Measure this repo with agentic-metrics, session recorder included",
+      "url": "https://github.com/grimfeld/synesis/pull/140",
+      "doneAt": "2026-11-11T09:40:29.000Z"
     }
   ],
   "caseStudyCandidates": [
@@ -4033,9 +5102,15 @@
       ]
     },
     {
-      "ticket": "#67",
+      "ticket": "#60",
       "criteria": [
         "largest deletion"
+      ]
+    },
+    {
+      "ticket": "#120",
+      "criteria": [
+        "fewest human messages for its size"
       ]
     }
   ]
