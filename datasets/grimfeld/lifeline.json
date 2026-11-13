@@ -2,16 +2,16 @@
   "schemaVersion": 2,
   "repo": "grimfeld/lifeline",
   "publish": "full",
-  "generatedAt": "2026-11-10T23:56:52.273Z",
-  "tickets": 308,
-  "pullRequests": 147,
+  "generatedAt": "2026-11-13T14:21:29.224Z",
+  "tickets": 317,
+  "pullRequests": 145,
   "integrationPullRequests": 4,
   "metrics": {
     "activeTime": {
       "value": {
-        "p50Hours": 2.61,
+        "p50Hours": 2.85,
         "p90Hours": 4.27,
-        "totalHours": 134.5,
+        "totalHours": 168.8,
         "tickets": [
           {
             "ticket": "PR #9",
@@ -224,12 +224,60 @@
           {
             "ticket": "PR #436",
             "hours": 0.59
+          },
+          {
+            "ticket": "#423",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#424",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#425",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#426",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#427",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#428",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#429",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#430",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#431",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#432",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#433",
+            "hours": 2.85
+          },
+          {
+            "ticket": "#434",
+            "hours": 2.85
           }
         ]
       },
       "coverage": {
-        "tickets": 53,
-        "of": 308
+        "tickets": 65,
+        "of": 317
       }
     },
     "estimatedActiveTime": {
@@ -969,31 +1017,35 @@
           {
             "ticket": "PR #437",
             "hours": 0.02
+          },
+          {
+            "ticket": "PR #440",
+            "hours": 0.01
           }
         ]
       },
       "coverage": {
-        "tickets": 183,
-        "of": 308
+        "tickets": 184,
+        "of": 317
       }
     },
     "leadTime": {
       "value": {
-        "p50Hours": 10.3,
-        "p90Hours": 50,
+        "p50Hours": 10.4,
+        "p90Hours": 114.7,
         "phases": {
-          "tickets": 240,
+          "tickets": 251,
           "queue": {
             "p50Hours": 0.3,
-            "share": 0.022
+            "share": 0.018
           },
           "work": {
             "p50Hours": 6.1,
-            "share": 0.598
+            "share": 0.656
           },
           "landing": {
-            "p50Hours": 2,
-            "share": 0.381
+            "p50Hours": 1.9,
+            "share": 0.326
           }
         },
         "tickets": [
@@ -1579,13 +1631,6 @@
             "landingHours": 0.6
           },
           {
-            "ticket": "PR #154",
-            "hours": 4.7,
-            "queueHours": 3.5,
-            "workHours": 0,
-            "landingHours": 1.1
-          },
-          {
             "ticket": "PR #160",
             "hours": 4.9,
             "queueHours": 0,
@@ -1668,13 +1713,6 @@
             "queueHours": 0.2,
             "workHours": 2.9,
             "landingHours": 1.6
-          },
-          {
-            "ticket": "PR #192",
-            "hours": 1.2,
-            "queueHours": 1,
-            "workHours": 0,
-            "landingHours": 0.2
           },
           {
             "ticket": "PR #244",
@@ -2676,12 +2714,103 @@
             "queueHours": 0,
             "workHours": 0,
             "landingHours": 0.6
+          },
+          {
+            "ticket": "PR #440",
+            "hours": 9.6,
+            "queueHours": 0,
+            "workHours": 0,
+            "landingHours": 9.6
+          },
+          {
+            "ticket": "#423",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#424",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#425",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#426",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#427",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#428",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#429",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#430",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#431",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#432",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#433",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
+          },
+          {
+            "ticket": "#434",
+            "hours": 119.5,
+            "queueHours": 0,
+            "workHours": 119.5,
+            "landingHours": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 240,
-        "of": 308
+        "tickets": 251,
+        "of": 317
       }
     },
     "throughput": {
@@ -2729,8 +2858,8 @@
           },
           {
             "week": "2026-10-19",
-            "tickets": 209,
-            "pullRequests": 66
+            "tickets": 205,
+            "pullRequests": 62
           },
           {
             "week": "2026-10-26",
@@ -2744,21 +2873,21 @@
           },
           {
             "week": "2026-11-09",
-            "tickets": 2,
-            "pullRequests": 2
+            "tickets": 15,
+            "pullRequests": 4
           }
         ]
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "firstRunCiRate": {
       "value": {
-        "rate": 0.986,
-        "passed": 69,
-        "pullRequests": 70,
+        "rate": 0.985,
+        "passed": 67,
+        "pullRequests": 68,
         "workflow": ".github/workflows/check.yml",
         "perPullRequest": [
           {
@@ -2846,23 +2975,11 @@
             "firstRun": "passed"
           },
           {
-            "pullRequest": 151,
-            "firstRun": "passed"
-          },
-          {
-            "pullRequest": 154,
-            "firstRun": "passed"
-          },
-          {
             "pullRequest": 157,
             "firstRun": "passed"
           },
           {
             "pullRequest": 158,
-            "firstRun": "passed"
-          },
-          {
-            "pullRequest": 159,
             "firstRun": "passed"
           },
           {
@@ -2887,10 +3004,6 @@
           },
           {
             "pullRequest": 191,
-            "firstRun": "passed"
-          },
-          {
-            "pullRequest": 192,
             "firstRun": "passed"
           },
           {
@@ -3034,25 +3147,33 @@
             "firstRun": "passed"
           },
           {
+            "pullRequest": 435,
+            "firstRun": "passed"
+          },
+          {
             "pullRequest": 436,
             "firstRun": "passed"
           },
           {
             "pullRequest": 437,
             "firstRun": "passed"
+          },
+          {
+            "pullRequest": 440,
+            "firstRun": "passed"
           }
         ]
       },
       "coverage": {
-        "tickets": 223,
-        "of": 308
+        "tickets": 232,
+        "of": 317
       }
     },
     "fixCycles": {
       "value": {
         "perPullRequest": 0.06,
         "total": 4,
-        "pullRequests": 71,
+        "pullRequests": 69,
         "withFixCycles": [
           {
             "pullRequest": 228,
@@ -3069,25 +3190,25 @@
         ]
       },
       "coverage": {
-        "tickets": 224,
-        "of": 308
+        "tickets": 233,
+        "of": 317
       }
     },
     "scheduledFailures": {
       "value": {
         "failed": 14,
-        "runs": 22,
+        "runs": 25,
         "workflows": [
           {
             "workflow": ".github/workflows/e2e.yml",
             "failed": 14,
-            "runs": 22
+            "runs": 25
           }
         ]
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "batchHealth": {
@@ -3129,8 +3250,8 @@
         ]
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "regressionRate": {
@@ -3142,18 +3263,18 @@
         "perTicket": []
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "humanMessagesPerTicket": {
       "value": {
         "p50": 6,
         "p90": 11,
-        "mean": 6.4,
+        "mean": 5.6,
         "orchestration": 46,
         "sources": {
-          "transcripts": 53,
+          "transcripts": 65,
           "records": 0
         },
         "perTicket": [
@@ -3368,43 +3489,91 @@
           {
             "ticket": "PR #436",
             "messages": 2
+          },
+          {
+            "ticket": "#423",
+            "messages": 2
+          },
+          {
+            "ticket": "#424",
+            "messages": 2
+          },
+          {
+            "ticket": "#425",
+            "messages": 2
+          },
+          {
+            "ticket": "#426",
+            "messages": 2
+          },
+          {
+            "ticket": "#427",
+            "messages": 2
+          },
+          {
+            "ticket": "#428",
+            "messages": 2
+          },
+          {
+            "ticket": "#429",
+            "messages": 2
+          },
+          {
+            "ticket": "#430",
+            "messages": 2
+          },
+          {
+            "ticket": "#431",
+            "messages": 2
+          },
+          {
+            "ticket": "#432",
+            "messages": 2
+          },
+          {
+            "ticket": "#433",
+            "messages": 2
+          },
+          {
+            "ticket": "#434",
+            "messages": 2
           }
         ]
       },
       "coverage": {
-        "tickets": 53,
-        "of": 308
+        "tickets": 65,
+        "of": 317
       }
     },
     "orchestrationTime": {
       "value": {
         "hours": 6.7,
-        "sessions": 15,
+        "sessions": 16,
         "subAgents": 8,
         "humanMessages": 46
       },
       "coverage": {
-        "tickets": 53,
-        "of": 308
+        "tickets": 65,
+        "of": 317
       }
     },
     "subAgents": {
       "value": {
-        "total": 106,
-        "p50": 21,
+        "total": 134,
+        "p50": 24,
         "p90": 36,
         "models": [
           {
             "model": "claude-opus-5-5",
-            "subAgents": 56
-          },
-          {
-            "model": "claude-haiku-5-5",
-            "subAgents": 25
+            "subAgents": 64
           },
           {
             "model": "claude-sonnet-5-5",
-            "subAgents": 25
+            "subAgents": 37
+          },
+          {
+            "model": "claude-haiku-5-5",
+            "subAgents": 33
           }
         ],
         "perTicket": [
@@ -4105,47 +4274,263 @@
             "ticket": "PR #436",
             "subAgents": 0,
             "models": []
+          },
+          {
+            "ticket": "#423",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#424",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#425",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#426",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#427",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#428",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#429",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#430",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#431",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#432",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#433",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
+          },
+          {
+            "ticket": "#434",
+            "subAgents": 28,
+            "models": [
+              {
+                "model": "claude-sonnet-5-5",
+                "subAgents": 12
+              },
+              {
+                "model": "claude-haiku-5-5",
+                "subAgents": 8
+              },
+              {
+                "model": "claude-opus-5-5",
+                "subAgents": 8
+              }
+            ]
           }
         ]
       },
       "coverage": {
-        "tickets": 53,
-        "of": 308
+        "tickets": 65,
+        "of": 317
       }
     },
     "apiEquivalentCost": {
       "value": {
         "priceTable": "2026-11-09",
-        "apiEquivalentUsd": 254.4887,
+        "apiEquivalentUsd": 285.9762,
         "unpricedModels": [],
         "perTicketUsd": {
-          "p50": 34.2339,
+          "p50": 31.4875,
           "p90": 47.7027
         },
         "byModel": [
           {
             "model": "claude-haiku-5-5",
-            "input": 880,
-            "output": 154825,
-            "cacheCreation": 2520354,
-            "cacheRead": 32658114,
-            "apiEquivalentUsd": 1.4845
+            "input": 1088,
+            "output": 186284,
+            "cacheCreation": 3081514,
+            "cacheRead": 37873049,
+            "apiEquivalentUsd": 1.6225
           },
           {
             "model": "claude-opus-5-5",
-            "input": 8332,
-            "output": 1506523,
-            "cacheCreation": 17486598,
-            "cacheRead": 517684870,
-            "apiEquivalentUsd": 233.0181
+            "input": 9220,
+            "output": 1718549,
+            "cacheCreation": 18985860,
+            "cacheRead": 566881551,
+            "apiEquivalentUsd": 256.0678
           },
           {
             "model": "claude-sonnet-5-5",
-            "input": 1288,
-            "output": 185650,
-            "cacheCreation": 5072176,
-            "cacheRead": 54465925,
-            "apiEquivalentUsd": 19.9861
+            "input": 2106,
+            "output": 319339,
+            "cacheCreation": 6508711,
+            "cacheRead": 88165540,
+            "apiEquivalentUsd": 28.2859
           }
         ],
         "orchestration": {
@@ -5375,19 +5760,379 @@
                 "apiEquivalentUsd": 2.1033
               }
             ]
+          },
+          {
+            "ticket": "#423",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#424",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#425",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#426",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#427",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#428",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#429",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#430",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#431",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#432",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#433",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
+          },
+          {
+            "ticket": "#434",
+            "apiEquivalentUsd": 31.4875,
+            "byModel": [
+              {
+                "model": "claude-haiku-5-5",
+                "input": 208,
+                "output": 31459,
+                "cacheCreation": 561160,
+                "cacheRead": 5214935,
+                "apiEquivalentUsd": 0.138
+              },
+              {
+                "model": "claude-opus-5-5",
+                "input": 888,
+                "output": 212026,
+                "cacheCreation": 1499262,
+                "cacheRead": 49196681,
+                "apiEquivalentUsd": 23.0497
+              },
+              {
+                "model": "claude-sonnet-5-5",
+                "input": 818,
+                "output": 133689,
+                "cacheCreation": 1436535,
+                "cacheRead": 33699615,
+                "apiEquivalentUsd": 8.2998
+              }
+            ]
           }
         ]
       },
       "coverage": {
-        "tickets": 53,
-        "of": 308
+        "tickets": 65,
+        "of": 317
       }
     },
     "autonomy": {
       "value": {
         "full": 7,
-        "assisted": 296,
-        "manual": 5,
+        "assisted": 309,
+        "manual": 1,
         "overridden": 0,
         "perTicket": [
           {
@@ -6195,12 +6940,6 @@
             "overridden": false
           },
           {
-            "ticket": "PR #151",
-            "level": "manual",
-            "computed": "manual",
-            "overridden": false
-          },
-          {
             "ticket": "PR #157",
             "level": "assisted",
             "computed": "assisted",
@@ -6216,18 +6955,6 @@
             "ticket": "PR #171",
             "level": "assisted",
             "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "PR #159",
-            "level": "manual",
-            "computed": "manual",
-            "overridden": false
-          },
-          {
-            "ticket": "PR #154",
-            "level": "manual",
-            "computed": "manual",
             "overridden": false
           },
           {
@@ -6312,12 +7039,6 @@
             "ticket": "#174",
             "level": "assisted",
             "computed": "assisted",
-            "overridden": false
-          },
-          {
-            "ticket": "PR #192",
-            "level": "manual",
-            "computed": "manual",
             "overridden": false
           },
           {
@@ -7237,19 +7958,97 @@
             "level": "assisted",
             "computed": "assisted",
             "overridden": false
+          },
+          {
+            "ticket": "PR #440",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#423",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#424",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#425",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#426",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#427",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#428",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#429",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#430",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#431",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#432",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#433",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
+          },
+          {
+            "ticket": "#434",
+            "level": "assisted",
+            "computed": "assisted",
+            "overridden": false
           }
         ]
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "testRatio": {
       "value": {
-        "testLinesAdded": 19332,
-        "productionLinesAdded": 69228,
-        "ratio": 0.28,
+        "testLinesAdded": 21435,
+        "productionLinesAdded": 71229,
+        "ratio": 0.3,
         "tickets": [
           {
             "ticket": "PR #1",
@@ -7902,11 +8701,6 @@
             "productionLinesAdded": 217
           },
           {
-            "ticket": "PR #151",
-            "testLinesAdded": 0,
-            "productionLinesAdded": 12
-          },
-          {
             "ticket": "PR #157",
             "testLinesAdded": 97,
             "productionLinesAdded": 135
@@ -7920,16 +8714,6 @@
             "ticket": "PR #171",
             "testLinesAdded": 41,
             "productionLinesAdded": 0
-          },
-          {
-            "ticket": "PR #159",
-            "testLinesAdded": 0,
-            "productionLinesAdded": 112
-          },
-          {
-            "ticket": "PR #154",
-            "testLinesAdded": 0,
-            "productionLinesAdded": 34
           },
           {
             "ticket": "PR #160",
@@ -7995,11 +8779,6 @@
             "ticket": "PR #190",
             "testLinesAdded": 0,
             "productionLinesAdded": 6
-          },
-          {
-            "ticket": "PR #192",
-            "testLinesAdded": 0,
-            "productionLinesAdded": 60
           },
           {
             "ticket": "PR #193",
@@ -8570,20 +9349,85 @@
             "ticket": "PR #437",
             "testLinesAdded": 0,
             "productionLinesAdded": 42
+          },
+          {
+            "ticket": "PR #440",
+            "testLinesAdded": 0,
+            "productionLinesAdded": 306
+          },
+          {
+            "ticket": "#423",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#424",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#425",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#426",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#427",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#428",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#429",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#430",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#431",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#432",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#433",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
+          },
+          {
+            "ticket": "#434",
+            "testLinesAdded": 2103,
+            "productionLinesAdded": 1913
           }
         ]
       },
       "coverage": {
-        "tickets": 264,
-        "of": 308
+        "tickets": 273,
+        "of": 317
       }
     },
     "netLinesRemoved": {
       "value": {
-        "linesAdded": 139006,
-        "linesDeleted": 36085,
-        "netLinesRemoved": -102921,
-        "ticketsNetRemoving": 15,
+        "linesAdded": 141192,
+        "linesDeleted": 34150,
+        "netLinesRemoved": -107042,
+        "ticketsNetRemoving": 14,
         "tickets": [
           {
             "ticket": "PR #1",
@@ -9256,11 +10100,6 @@
             "linesDeleted": 56
           },
           {
-            "ticket": "PR #151",
-            "linesAdded": 12,
-            "linesDeleted": 12
-          },
-          {
             "ticket": "PR #157",
             "linesAdded": 406,
             "linesDeleted": 240
@@ -9274,16 +10113,6 @@
             "ticket": "PR #171",
             "linesAdded": 41,
             "linesDeleted": 19
-          },
-          {
-            "ticket": "PR #159",
-            "linesAdded": 1957,
-            "linesDeleted": 1761
-          },
-          {
-            "ticket": "PR #154",
-            "linesAdded": 168,
-            "linesDeleted": 240
           },
           {
             "ticket": "PR #160",
@@ -9354,11 +10183,6 @@
             "ticket": "#174",
             "linesAdded": 6578,
             "linesDeleted": 862
-          },
-          {
-            "ticket": "PR #192",
-            "linesAdded": 186,
-            "linesDeleted": 186
           },
           {
             "ticket": "PR #193",
@@ -10124,18 +10948,83 @@
             "ticket": "PR #437",
             "linesAdded": 46,
             "linesDeleted": 0
+          },
+          {
+            "ticket": "PR #440",
+            "linesAdded": 307,
+            "linesDeleted": 1
+          },
+          {
+            "ticket": "#423",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#424",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#425",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#426",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#427",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#428",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#429",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#430",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#431",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#432",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#433",
+            "linesAdded": 4202,
+            "linesDeleted": 263
+          },
+          {
+            "ticket": "#434",
+            "linesAdded": 4202,
+            "linesDeleted": 263
           }
         ]
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "size": {
       "value": {
-        "p50DiffLines": 1431,
-        "p50FilesTouched": 32,
+        "p50DiffLines": 1875,
+        "p50FilesTouched": 33,
         "tickets": [
           {
             "ticket": "PR #1",
@@ -10942,12 +11831,6 @@
             "subTickets": 0
           },
           {
-            "ticket": "PR #151",
-            "diffLines": 24,
-            "filesTouched": 2,
-            "subTickets": 0
-          },
-          {
             "ticket": "PR #157",
             "diffLines": 646,
             "filesTouched": 55,
@@ -10963,18 +11846,6 @@
             "ticket": "PR #171",
             "diffLines": 60,
             "filesTouched": 2,
-            "subTickets": 0
-          },
-          {
-            "ticket": "PR #159",
-            "diffLines": 3718,
-            "filesTouched": 35,
-            "subTickets": 0
-          },
-          {
-            "ticket": "PR #154",
-            "diffLines": 408,
-            "filesTouched": 35,
             "subTickets": 0
           },
           {
@@ -11060,12 +11931,6 @@
             "diffLines": 7440,
             "filesTouched": 154,
             "subTickets": 13
-          },
-          {
-            "ticket": "PR #192",
-            "diffLines": 372,
-            "filesTouched": 35,
-            "subTickets": 0
           },
           {
             "ticket": "PR #193",
@@ -11984,19 +12849,97 @@
             "diffLines": 46,
             "filesTouched": 3,
             "subTickets": 0
+          },
+          {
+            "ticket": "PR #440",
+            "diffLines": 308,
+            "filesTouched": 3,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#423",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 11
+          },
+          {
+            "ticket": "#424",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#425",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#426",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#427",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#428",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#429",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#430",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#431",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#432",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#433",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
+          },
+          {
+            "ticket": "#434",
+            "diffLines": 4465,
+            "filesTouched": 94,
+            "subTickets": 0
           }
         ]
       },
       "coverage": {
-        "tickets": 308,
-        "of": 308
+        "tickets": 317,
+        "of": 317
       }
     },
     "estimateVsActual": {
       "value": "unknown",
       "coverage": {
         "tickets": 0,
-        "of": 308
+        "of": 317
       }
     }
   },
@@ -12012,11 +12955,11 @@
       },
       {
         "period": "2026-10",
-        "tickets": 251
+        "tickets": 247
       },
       {
         "period": "2026-11",
-        "tickets": 14
+        "tickets": 27
       }
     ],
     "metrics": {
@@ -12039,14 +12982,14 @@
           "value": 2.61,
           "coverage": {
             "tickets": 40,
-            "of": 251
+            "of": 247
           }
         },
         {
-          "value": 4.27,
+          "value": 2.85,
           "coverage": {
-            "tickets": 12,
-            "of": 14
+            "tickets": 24,
+            "of": 27
           }
         }
       ],
@@ -12069,14 +13012,14 @@
           "value": 1.1,
           "coverage": {
             "tickets": 172,
-            "of": 251
+            "of": 247
           }
         },
         {
-          "value": 0.02,
+          "value": 0.01,
           "coverage": {
-            "tickets": 1,
-            "of": 14
+            "tickets": 2,
+            "of": 27
           }
         }
       ],
@@ -12098,15 +13041,15 @@
         {
           "value": 10.3,
           "coverage": {
-            "tickets": 216,
-            "of": 251
+            "tickets": 214,
+            "of": 247
           }
         },
         {
-          "value": 114.7,
+          "value": 114.8,
           "coverage": {
-            "tickets": 12,
-            "of": 14
+            "tickets": 25,
+            "of": 27
           }
         }
       ],
@@ -12126,17 +13069,17 @@
           }
         },
         {
-          "value": 251,
+          "value": 247,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
-          "value": 14,
+          "value": 27,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12156,17 +13099,17 @@
           }
         },
         {
-          "value": 98.5,
+          "value": 98.4,
           "coverage": {
-            "tickets": 209,
-            "of": 251
+            "tickets": 205,
+            "of": 247
           }
         },
         {
           "value": 100,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12188,15 +13131,15 @@
         {
           "value": 0.06,
           "coverage": {
-            "tickets": 210,
-            "of": 251
+            "tickets": 206,
+            "of": 247
           }
         },
         {
           "value": 0,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12218,15 +13161,15 @@
         {
           "value": 33.3,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
-          "value": 100,
+          "value": 76.9,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12248,15 +13191,15 @@
         {
           "value": 100,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
           "value": "unknown",
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12278,15 +13221,15 @@
         {
           "value": 0,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
           "value": 0,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12309,14 +13252,14 @@
           "value": 7,
           "coverage": {
             "tickets": 40,
-            "of": 251
+            "of": 247
           }
         },
         {
-          "value": 6,
+          "value": 2,
           "coverage": {
-            "tickets": 12,
-            "of": 14
+            "tickets": 24,
+            "of": 27
           }
         }
       ],
@@ -12339,14 +13282,14 @@
           "value": 1.1,
           "coverage": {
             "tickets": 40,
-            "of": 251
+            "of": 247
           }
         },
         {
           "value": 5.6,
           "coverage": {
-            "tickets": 12,
-            "of": 14
+            "tickets": 24,
+            "of": 27
           }
         }
       ],
@@ -12369,14 +13312,14 @@
           "value": 21,
           "coverage": {
             "tickets": 40,
-            "of": 251
+            "of": 247
           }
         },
         {
           "value": 24,
           "coverage": {
-            "tickets": 12,
-            "of": 14
+            "tickets": 24,
+            "of": 27
           }
         }
       ],
@@ -12399,14 +13342,14 @@
           "value": 34.2339,
           "coverage": {
             "tickets": 40,
-            "of": 251
+            "of": 247
           }
         },
         {
-          "value": 47.7027,
+          "value": 31.4875,
           "coverage": {
-            "tickets": 12,
-            "of": 14
+            "tickets": 24,
+            "of": 27
           }
         }
       ],
@@ -12428,15 +13371,15 @@
         {
           "value": 2,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
-          "value": 7.1,
+          "value": 3.7,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12456,17 +13399,17 @@
           }
         },
         {
-          "value": 0.37,
+          "value": 0.38,
           "coverage": {
-            "tickets": 218,
-            "of": 251
+            "tickets": 214,
+            "of": 247
           }
         },
         {
-          "value": 1.47,
+          "value": 0.96,
           "coverage": {
-            "tickets": 3,
-            "of": 14
+            "tickets": 16,
+            "of": 27
           }
         }
       ],
@@ -12486,17 +13429,17 @@
           }
         },
         {
-          "value": -74161,
+          "value": -74037,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
-          "value": -1391,
+          "value": -5636,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12518,15 +13461,15 @@
         {
           "value": 1875,
           "coverage": {
-            "tickets": 251,
-            "of": 251
+            "tickets": 247,
+            "of": 247
           }
         },
         {
-          "value": 4567,
+          "value": 4465,
           "coverage": {
-            "tickets": 14,
-            "of": 14
+            "tickets": 27,
+            "of": 27
           }
         }
       ],
@@ -12549,14 +13492,14 @@
           "value": "unknown",
           "coverage": {
             "tickets": 0,
-            "of": 251
+            "of": 247
           }
         },
         {
           "value": "unknown",
           "coverage": {
             "tickets": 0,
-            "of": 14
+            "of": 27
           }
         }
       ]
@@ -12572,17 +13515,17 @@
         }
       },
       "assisted": {
-        "value": 3.29,
+        "value": 2.85,
         "coverage": {
-          "tickets": 46,
-          "of": 296
+          "tickets": 58,
+          "of": 309
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 5
+          "of": 1
         }
       }
     },
@@ -12597,15 +13540,15 @@
       "assisted": {
         "value": 1.06,
         "coverage": {
-          "tickets": 183,
-          "of": 296
+          "tickets": 184,
+          "of": 309
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 5
+          "of": 1
         }
       }
     },
@@ -12618,17 +13561,17 @@
         }
       },
       "assisted": {
-        "value": 10.3,
+        "value": 10.4,
         "coverage": {
-          "tickets": 233,
-          "of": 296
+          "tickets": 246,
+          "of": 309
         }
       },
       "manual": {
-        "value": 1.2,
+        "value": "unknown",
         "coverage": {
-          "tickets": 2,
-          "of": 5
+          "tickets": 0,
+          "of": 1
         }
       }
     },
@@ -12641,17 +13584,17 @@
         }
       },
       "assisted": {
-        "value": 296,
+        "value": 309,
         "coverage": {
-          "tickets": 296,
-          "of": 296
+          "tickets": 309,
+          "of": 309
         }
       },
       "manual": {
-        "value": 5,
+        "value": 1,
         "coverage": {
-          "tickets": 5,
-          "of": 5
+          "tickets": 1,
+          "of": 1
         }
       }
     },
@@ -12664,17 +13607,17 @@
         }
       },
       "assisted": {
-        "value": 98.4,
+        "value": 98.5,
         "coverage": {
-          "tickets": 213,
-          "of": 296
+          "tickets": 226,
+          "of": 309
         }
       },
       "manual": {
-        "value": 100,
+        "value": "unknown",
         "coverage": {
-          "tickets": 4,
-          "of": 5
+          "tickets": 0,
+          "of": 1
         }
       }
     },
@@ -12689,15 +13632,15 @@
       "assisted": {
         "value": 0.06,
         "coverage": {
-          "tickets": 214,
-          "of": 296
+          "tickets": 227,
+          "of": 309
         }
       },
       "manual": {
-        "value": 0,
+        "value": "unknown",
         "coverage": {
-          "tickets": 4,
-          "of": 5
+          "tickets": 0,
+          "of": 1
         }
       }
     },
@@ -12712,15 +13655,15 @@
       "assisted": {
         "value": 0,
         "coverage": {
-          "tickets": 296,
-          "of": 296
+          "tickets": 309,
+          "of": 309
         }
       },
       "manual": {
         "value": 0,
         "coverage": {
-          "tickets": 5,
-          "of": 5
+          "tickets": 1,
+          "of": 1
         }
       }
     },
@@ -12735,15 +13678,15 @@
       "assisted": {
         "value": 6,
         "coverage": {
-          "tickets": 46,
-          "of": 296
+          "tickets": 58,
+          "of": 309
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 5
+          "of": 1
         }
       }
     },
@@ -12758,15 +13701,15 @@
       "assisted": {
         "value": 24,
         "coverage": {
-          "tickets": 46,
-          "of": 296
+          "tickets": 58,
+          "of": 309
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 5
+          "of": 1
         }
       }
     },
@@ -12779,17 +13722,17 @@
         }
       },
       "assisted": {
-        "value": 43.5239,
+        "value": 34.2339,
         "coverage": {
-          "tickets": 46,
-          "of": 296
+          "tickets": 58,
+          "of": 309
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 5
+          "of": 1
         }
       }
     },
@@ -12802,17 +13745,17 @@
         }
       },
       "assisted": {
-        "value": 0.28,
+        "value": 0.3,
         "coverage": {
-          "tickets": 252,
-          "of": 296
+          "tickets": 265,
+          "of": 309
         }
       },
       "manual": {
         "value": 0,
         "coverage": {
-          "tickets": 5,
-          "of": 5
+          "tickets": 1,
+          "of": 1
         }
       }
     },
@@ -12825,17 +13768,17 @@
         }
       },
       "assisted": {
-        "value": -101536,
+        "value": -105781,
         "coverage": {
-          "tickets": 296,
-          "of": 296
+          "tickets": 309,
+          "of": 309
         }
       },
       "manual": {
-        "value": -254,
+        "value": -130,
         "coverage": {
-          "tickets": 5,
-          "of": 5
+          "tickets": 1,
+          "of": 1
         }
       }
     },
@@ -12850,15 +13793,15 @@
       "assisted": {
         "value": 1875,
         "coverage": {
-          "tickets": 296,
-          "of": 296
+          "tickets": 309,
+          "of": 309
         }
       },
       "manual": {
-        "value": 372,
+        "value": 186,
         "coverage": {
-          "tickets": 5,
-          "of": 5
+          "tickets": 1,
+          "of": 1
         }
       }
     },
@@ -12874,14 +13817,14 @@
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 296
+          "of": 309
         }
       },
       "manual": {
         "value": "unknown",
         "coverage": {
           "tickets": 0,
-          "of": 5
+          "of": 1
         }
       }
     }
@@ -13693,12 +14636,6 @@
       "doneAt": "2026-10-19T11:20:25.000Z"
     },
     {
-      "id": "PR #151",
-      "title": "Bump the actions group with 5 updates",
-      "url": "https://github.com/grimfeld/lifeline/pull/151",
-      "doneAt": "2026-10-19T13:28:17.000Z"
-    },
-    {
       "id": "PR #157",
       "title": "Security: fix CodeQL ReDoS/escaping alerts, patch vulnerable deps",
       "url": "https://github.com/grimfeld/lifeline/pull/157",
@@ -13715,18 +14652,6 @@
       "title": "e2e(demo): Source-link cases seed their own life; CI-scaled seeding timeouts; poll streaks",
       "url": "https://github.com/grimfeld/lifeline/pull/171",
       "doneAt": "2026-10-19T14:59:45.000Z"
-    },
-    {
-      "id": "PR #159",
-      "title": "Bump the minor-and-patch group across 1 directory with 26 updates",
-      "url": "https://github.com/grimfeld/lifeline/pull/159",
-      "doneAt": "2026-10-19T15:00:26.000Z"
-    },
-    {
-      "id": "PR #154",
-      "title": "build(deps-dev): bump vitest from 4.1.12 to 5.0.5",
-      "url": "https://github.com/grimfeld/lifeline/pull/154",
-      "doneAt": "2026-10-19T16:10:39.000Z"
     },
     {
       "id": "PR #160",
@@ -13811,12 +14736,6 @@
       "title": "Selection menu links and makes; a Peek edits",
       "url": "https://github.com/grimfeld/lifeline/issues/174",
       "doneAt": "2026-10-19T20:50:33.000Z"
-    },
-    {
-      "id": "PR #192",
-      "title": "build(deps): bump the minor-and-patch group across 1 directory with 2 updates",
-      "url": "https://github.com/grimfeld/lifeline/pull/192",
-      "doneAt": "2026-10-19T21:04:14.000Z"
     },
     {
       "id": "PR #193",
@@ -14735,6 +15654,84 @@
       "title": "Measure Lifeline with agentic-metrics",
       "url": "https://github.com/grimfeld/lifeline/pull/437",
       "doneAt": "2026-11-09T15:14:27.000Z"
+    },
+    {
+      "id": "PR #440",
+      "title": "Install the agentic-metrics session recorder",
+      "url": "https://github.com/grimfeld/lifeline/pull/440",
+      "doneAt": "2026-11-11T09:39:01.000Z"
+    },
+    {
+      "id": "#423",
+      "title": "Knowledge: agent drafts, practice report, typed attempts, listening Prompts",
+      "url": "https://github.com/grimfeld/lifeline/issues/423",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#424",
+      "title": "Knowledge: agent drafts, accepted one at a time",
+      "url": "https://github.com/grimfeld/lifeline/issues/424",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#425",
+      "title": "Knowledge: accept a whole Deck of drafts",
+      "url": "https://github.com/grimfeld/lifeline/issues/425",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#426",
+      "title": "Knowledge: agent-proposed rewrites of accepted material",
+      "url": "https://github.com/grimfeld/lifeline/issues/426",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#427",
+      "title": "Knowledge: knowledge_report MCP tool",
+      "url": "https://github.com/grimfeld/lifeline/issues/427",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#428",
+      "title": "Knowledge: audio clip on Word and Sentence",
+      "url": "https://github.com/grimfeld/lifeline/issues/428",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#429",
+      "title": "Knowledge: blank hints and Sentence notes",
+      "url": "https://github.com/grimfeld/lifeline/issues/429",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#430",
+      "title": "Knowledge: Practice over several Decks",
+      "url": "https://github.com/grimfeld/lifeline/issues/430",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#431",
+      "title": "Knowledge: a Word's Sentences in its peek",
+      "url": "https://github.com/grimfeld/lifeline/issues/431",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#432",
+      "title": "Knowledge: typed attempts kept on the Recall",
+      "url": "https://github.com/grimfeld/lifeline/issues/432",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#433",
+      "title": "Knowledge: Leeches",
+      "url": "https://github.com/grimfeld/lifeline/issues/433",
+      "doneAt": "2026-11-13T13:50:36.000Z"
+    },
+    {
+      "id": "#434",
+      "title": "Knowledge: listening Prompt",
+      "url": "https://github.com/grimfeld/lifeline/issues/434",
+      "doneAt": "2026-11-13T13:50:36.000Z"
     }
   ],
   "caseStudyCandidates": [
